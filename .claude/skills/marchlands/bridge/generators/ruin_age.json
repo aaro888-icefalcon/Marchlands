@@ -1,0 +1,1 @@
+{"id": "marchlands.ruin_age", "title": "Ruin Age", "type": "list_d100", "dice": "1d100", "entries": [{"min": 1, "max": 25, "value": "Very fresh; ruined within living memory"}, {"min": 26, "max": 50, "value": "Generations old at least"}, {"min": 51, "max": 75, "value": "Of a known prior nation or polity"}, {"min": 76, "max": 100, "value": "Of the unfathomable past"}]}

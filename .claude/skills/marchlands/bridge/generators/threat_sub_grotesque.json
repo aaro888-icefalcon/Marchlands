@@ -1,0 +1,1 @@
+{"id": "marchlands.threat_sub_grotesque", "title": "Grotesque Sub-type", "type": "list_d100", "dice": "1d100", "entries": [{"min": 1, "max": 50, "value": "Apex Beast"}, {"min": 51, "max": 83, "value": "Hunting Pack"}, {"min": 84, "max": 100, "value": "Aberrant Lurker"}]}

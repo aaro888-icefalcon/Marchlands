@@ -1,0 +1,1 @@
+{"id": "marchlands.threat_sub_cursed_place", "title": "Cursed Place Sub-type", "type": "list_d100", "dice": "1d100", "entries": [{"min": 1, "max": 50, "value": "Tainted Region"}, {"min": 51, "max": 83, "value": "Failing Working"}, {"min": 84, "max": 100, "value": "Stirring Ruin"}]}

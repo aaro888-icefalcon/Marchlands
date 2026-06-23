@@ -1,0 +1,1 @@
+{"id": "marchlands.faction_tier", "title": "Faction Tier (scale)", "type": "list_d100", "dice": "1d100", "entries": [{"min": 1, "max": 17, "value": "Banneret"}, {"min": 18, "max": 34, "value": "Baron"}, {"min": 35, "max": 51, "value": "Count"}, {"min": 52, "max": 68, "value": "Duke"}, {"min": 69, "max": 84, "value": "Kingdom"}, {"min": 85, "max": 100, "value": "Empire"}]}

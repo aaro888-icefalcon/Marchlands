@@ -1,0 +1,1 @@
+{"id": "marchlands.bestiary_tier", "title": "Creature Tier (reskin)", "type": "list_d100", "dice": "1d100", "entries": [{"min": 1, "max": 25, "value": "minion (CR 1/4-1/2)"}, {"min": 26, "max": 50, "value": "standard (CR 1-2)"}, {"min": 51, "max": 75, "value": "elite (CR 3-4)"}, {"min": 76, "max": 100, "value": "lieutenant or boss (CR 5+)"}]}

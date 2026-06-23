@@ -1,0 +1,8 @@
+# Python bytecode caches created when the engine scripts run
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS / editor cruft
+.DS_Store
+*.swp
