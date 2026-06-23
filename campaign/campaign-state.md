@@ -11,30 +11,31 @@
 - **Resolution:** Fate Chart   ·   **Chaos flavor:** standard (full)
 - **Discipline:** HARDCORE (no softening; permadeath default; Peril Points OFF)
 
-## CURRENT ADVENTURE: Arrival on the Long Barrow
+## CURRENT ADVENTURE: Arrival on the Long Barrow → the road south
 - **Adventure status:** active
 - **Theme priority (this campaign, fixed):** 1.Tension 2.Mystery 3.Action 4.Social 5.Personal
+- **Scenes played:** 1 (next: scene 2, Expected)
 
-## Chaos Factor: 5
-_(1–9; −1 if the PC was mostly in control of the last scene, +1 if it was chaotic. **Harrowmark/deep-Heath floor: CF ≥ 6** — applies once in the Heath proper.)_
+## Chaos Factor: 4
+_(1–9; −1 if the PC was mostly in control, +1 if chaotic. **Harrowmark/deep-Heath floor: CF ≥ 6** once in the Heath proper.)_
 
-## Threads List (this adventure; goals/looming changes; weighted ≤3)
-1. **Escape — or treat with — Hroth's Low-Barrow Net.** (immediate) ·· [clock: Net Closes 0/6] — w3
-2. **Keep the survivors alive on the Heath** — cold rain, the beast in the low mist, the cold under the turf. ·· [clock: Carrion Return 1/4] — w2
-3. **The Mark** — who took New York, why, and whether the drift can be undone (find Akhil & the others). ·· [clock: Mark-Storm Echo 0/6] — w2
-4. _(bg)_ **The boy-king must be crowned by midwinter** or Hethrun fractures. ·· [clock: Coronation 6/12] — w1
-5. _(bg)_ **The dead under the Heath are stirring.** ·· [clock: Barrow-Folk Stir 1/6] — w1
+## Threads List (goals/looming changes; weighted ≤3)
+1. **Survive the Heath, and reach people who won't sell you** — coinless, undocumented, winter rain, stirring barrow-ground. (immediate) — w3
+2. **The Mark** — find Akhil and the others; learn what the drift is and whether it can be undone. [clock: Mark-Storm Echo 1/6] — w2
+3. **The Low-Barrow Net** — took the other New Yorkers (incl. Tara); hunts drift-come; an unpaid debt at your back. — w2
+4. _(bg)_ **The boy-king must be crowned by midwinter** or Hethrun fractures. [Coronation 6/12] — w1
+5. _(bg)_ **The dead under the Heath are stirring.** [Barrow-Folk Stir 1/6] — w1
 
 ## Characters List (NPCs/forces; weighted ≤3; PC not listed)
-1. **Hroth Soot-Hand & the Low-Barrow Net** — capture crew (Aescwynn, Beorn, Wulflaed, Osred, Lilla, Sibba, Garm the hound, 2 rope-men). Wants live drift-come; frames capture as legal rescue. −2 hostile. — w3
-2. **Aescwynn the Twice-Sold** — portal-weather reader. Wants to finish reading the marked stone and identify the high-value awakened. — w2
-3. **The Earth survivors** — Rachel Kim (ER nurse, triage), Owen Price (off-duty NYPD, may escalate), Marcus Vale (attorney, may mistake Hroth for lawful authority), Tara Singh (partial caster, terrified), Ben Alvarez (wounded), Leah Rosen (12). Look to credible competence. — w2
-4. **The Long Barrow dead / barrow-cold** — answer blood with a cold click; punish disturbance. — w1
+1. **Hroth Soot-Hand & the Low-Barrow Net** — capture crew; now holds the herded New Yorkers; somewhere on the Heath behind you; would prize a second awakened. — w2
+2. **Aescwynn the Twice-Sold** — portal-weather reader; has her read on Tara; can sell target-descriptions to arrival-hunters. — w1
+3. **The captured New Yorkers** — Tara Singh (taken, awakened), Rachel Kim, Ben Alvarez, Marcus Vale, Owen Price, Leah Rosen (12) — fates unknown to you. — w1 (hook)
+4. **The Long Barrow dead / barrow-cold** — the Heath felt your magic; the crowned stone breathed cold back. — w1
 
 ## Adventure Features (sandbox sites/hazards)
-- **Marked Barrow-Stone** — arrival focus; carved with the same mark that opened over NYC; clicks cold on blood; the hinge of Shake's awakening.
-- **Caravan Hollow (lower slope)** — wrecked cart, dead mule, two dead local guards (frost in a beard, dirt under nails, drag-marks into the mist), scavengeable supplies; bait for the beast.
-- **Carrion in the low mist** — predator pressure downhill (Zone 1B Moor's Hunger).
+- **The sunken Heath road (south)** — bends toward an old road-shrine / ford / wayhouse; a small settlement (**Skellan's Reach**) is visible far off, thin smoke in the rain.
+- **The Long Barrow (behind you)** — arrival site; the marked stone (clicks on blood) and the crowned stone at the lip (breathes cold at magic).
+- **(seed) an abandoned village** somewhere off the Heath road.
 
 ## Campaign roster (persists across adventures)
 - **Akhil Rao** — Shake's younger brother, taken by the Mark. Personal through-line.
@@ -42,19 +43,18 @@ _(1–9; −1 if the PC was mostly in control of the last scene, +1 if it was ch
 ## Overlays
 - **Keyed Scenes:** none · **Thread Progress Track:** none · **Peril Points:** OFF
 
-## Clocks (the live world ledger → surfaces via Threads/Characters per `world-model.md`)
-- **Net Closes** 0/6 — Hroth's capture. +on: visible magic, leaders isolated, captives bound, Aescwynn's read completes, the "legal" frame accepted. −on: exposure, Hroth loses face, Lilla/Sibba turn, Wardmoor patrol, clean scatter. (active scene clock)
-- **Mark-Storm Echo** 0/6 — arrival abnormality. +on: visible awakened magic near the stone, blood on the stone, Aescwynn completes her read, another pulse. (active scene clock)
-- **Carrion Return** 1/4 — the beast. +on: fleeing downhill, loud noise, a blood trail, lingering at the caravan, an isolated survivor in the mist. (active scene clock)
-- **Coronation** 6/12 — +1 per campaign week unless acted on. (background)
-- **Barrow-Folk Stir** 1/6 — local signs (the cold click). (background)
+## Clocks (live world ledger)
+- **Mark-Storm Echo** 1/6 — arrival abnormality drawing hunters. Advanced +1: Tara flared visibly and Aescwynn read her; an arrival-hunter buyer could now get target descriptions. (campaign clock; less immediate as you leave the barrow)
+- **Coronation** 6/12 — +1 per campaign week unless acted on. (background; no week elapsed)
+- **Barrow-Folk Stir** 1/6 — local signs; the crowned stone reacted to your Guidance (a sign, not a disturbance — unchanged). (background)
+- _retired this scene:_ **Net Closes** (you escaped; the Net "won" the slope and took captives) · **Carrion Return** 1/4 (you went uphill, away from the beast — dormant Heath hazard).
 
 ## Scene
-- **Last scene recap:** First Scene (not tested) — **"Thirty Minutes After the Mark."** Dawn, cold rain, 7 Slowleaf AF 207, the eastern slope of the Long Barrow at Skellan's Reach. Shake and ~a dozen New Yorkers came up on the wet turf when the Mark took the city. His awakening still hums in the bones of his arm; Samosa stands at his knee, Daegon rides the wind above. The marked barrow-stone just clicked cold. Hroth Soot-Hand has come up out of the mist with open hands and a crew already spreading to the flanks. **Awaiting Shake's first declared action.**
+- **Last scene recap:** Scene 1 — **Arrival on the Long Barrow.** Shake faded from Hroth's press-gang under cover of the crowd (Stealth 23 vs DC 15), then crossed the crest casting Guidance **unseen** (Fate: No — Tara's flare masked him) and took the sunken road south. Behind him, through Daegon's eyes, the Low-Barrow Net closed on the survivors — Tara reflexively flared and was targeted; the New Yorkers were herded together; their fates went into the mist. He got off the hill alone; they did not. CF −1 → 4.
 - **Self-audit drift counter (consecutive soft scenes):** 0
 
 ## Archive pointer
 - Resolved threads / dead characters → `archive.md` (not yet created)
 
 ## Seed deck
-- `seeds.md` to be built at first bookkeeping (scene end), 35 cards from the live ledger + Harrowmark canon + generator rolls (`bridge/seeds.md`).
+- `seeds.md` — refreshed at end of scene 1 (35 cards; live ledger + Harrowmark canon + generator rolls).
