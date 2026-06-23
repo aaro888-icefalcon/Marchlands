@@ -23,10 +23,10 @@
 17. The Net's buyer is named — an arrival-hunter ring with reach to Stonebay's markets.
 
 ## [C] Harrowmark / Heath canon near the PC
-18. **Skellan's Reach** ahead: a poor, fallen-prosperity hamlet wary of strangers; bog-iron and barrow-dread.
+18. The user of the fold-camp returns at dusk — shepherd, fugitive, or something with a claim to the fire.
 19. **Gythwin the Cunning** sends word — through a cunning-folk apprentice on the road — inviting "people who see clearly."
 20. **Count Wulfhere of Wardmoor** (southern border) — an honest witness to the stirring; needs hands he can trust.
-21. The Heath **wayhouse / road-shrine** at the ford: shelter, a keeper, travelers who trade news for warmth.
+21. A steading / hermit's cot south of the fold — a haven *not* run by the Net, if you can earn its trust.
 22. A barrow-wise local (Mother Eadlin / a Wivelfen apprentice) reads the cold and the click for what they are.
 23. The **plague-quarter** of the bog-iron camp — a wasting sickness no local can name (a surgeon would).
 24. House Greymoor's under-manned **watch-fort** — the realm's failing bulwark against the barrows.
