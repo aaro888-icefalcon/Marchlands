@@ -1,43 +1,40 @@
 # Campaign State — Marchlands: Shake Rao
 
-> Human-readable source of truth for **prose, clocks & recap.** Threads/Characters Lists live in
-> JSON (`state.py thread|char show <campaign>` / `state.py render`) — not copied here.
+> Source of truth for **prose, clocks & recap.** Threads/Characters Lists live in JSON
+> (`state.py thread|char show <campaign>` / `state.py render`).
 
 ## Frame
 - **Engine:** mythic-gm (upgraded; local fork: `fate` guard footer + `state.py render`)
 - **Mode:** Adventure Crafter (always on) · **RPG:** D&D 2024 / 5.5e · **Setting:** Hethrun · **Resolution:** Fate Chart
-- **Genre stakes:** death / capture / ruin / exposure / a clock advanced · **Discipline:** HARDCORE (permadeath; Peril Points OFF)
-- **Lists:** JSON (single source of truth).
+- **Discipline:** HARDCORE (permadeath; Peril Points OFF). · **Lists:** JSON (single source of truth).
 
 ## CURRENT ADVENTURE: Off the Barrow, down the south road — alone
-- **In-world:** night, **12 Slowleaf, AF 207 (day 6)**, a hollow off the south road · **Scenes played:** 11
-- **Theme priority (fixed; adventure.json):** Tension · Mystery · Action · Social · Personal (tens=1)
+- **In-world:** deep night, **12→13 Slowleaf, AF 207 (day 6→7)**, blighted ground off the south road · **Scenes played:** 12
+- **Theme priority (adventure.json):** Tension · Mystery · Action · Social · Personal (tens=1) · **Chaos Factor: 3**
 
-## Chaos Factor: 4
-_(−1 PC in control / +1 chaotic. The head-down plan shattered at the toll-fort; exposed to the ring, on the run.)_
+## PC status (Shake) — ALONE, in a fight
+- **HP 24/24 · AC 19 (24 w/ Shield) · Spell slots 3/3 · Heroic Inspiration ready · Invisibility EXPENDED** (no long rest since Grey Heron, day 4).
+- **+1 longsword** +6 / 1d8+4 (magical — **bypasses undead resistance**); Booming Blade; Shield, Absorb Elements, Heroism, Cure Wounds, Silent Image, False Life prepared.
+- **Samosa** 20/20 (Force Rend +5/1d8+5 — force bypasses undead; Repair 3/day; Deflect Attack) · **Daegon** aloft.
+- No allies, no coin to speak of, no escape-magic this fight. **XP:** ~¼ to level 4.
 
-## PC status (Shake) — ALONE
-- **HP 24/24 · Spell slots 3/3 · Invisibility (1/day) EXPENDED** (used to escape the toll-fort; back after a long rest) · **Heroic Inspiration ready.**
-- **No caravan, no pay, no guide.** A few sp. Companions: **Samosa** 20/20, **Daegon** aloft.
-- Kit: +1 longsword/shield, breastplate, **Net token**, the **waybill** (Mereholt/Stonebay handoff), spear, wax cloak, food.
-- **XP:** major beat banked — ~¼ toward level 4.
-
-## ⚠️ LIVE SCENE 11 (Expected) — resume here
-**"The Thing That Answers."** Alone in a cold hollow after fleeing the ring's toll-fort, Shake's loud "ring" finally draws a **Pact-Maker** — a patient, intelligent presence pressing through a *thin place* (the same between-worlds medium as the Mark). No clear shape; it knows he's hunted, alone, far from a home that may not exist; it offers to make him "something this world cannot take" for "so little, at first." **Awaiting Shake's response to the contact.** (True nature unknown — fiend / fae / a between-worlds thing.)
+## ⚔️ LIVE SCENE 12 (Expected) — the Front, resume here
+**"Sundered Ground."** Walking off from the Pact-Maker into the dark, Shake blundered (ringing loud, trailing thin-place resonance) into **blighted land around an old overgrown tomb**, and woke a **FRONT** (scene-start pressure 20):
+- **Restless Dead, wave A** — rising from the cracked earth to his **left**.
+- **Restless Dead, wave B** — rising **behind him**, between him and the road (cutting his retreat).
+- **A Grotesque** — something big, rotten, and alive heaving toward the **tomb mouth ahead.**
+- (each Local, 4-seg). His magic sword + Samosa's force handle the dead well; the grotesque is unknown. **No Invisibility to flee with.** Awaiting his action.
 
 ## Clocks (live world ledger)
-- **A Pact-Maker reaches Shake** 0/6 — the offer stands; the thin place is open. (NEW)
-- **A MAJOR slaver ring (Stonebay buyer)** 1/8 — **+1: alerted** — a valuable drift-come slipped their toll-fort; they'll spread word & watch the roads, and they hold **Aescwynn**, who knows his ring.
-- **Mark-Storm Echo** 1/6 · **Barrow-Folk Stir** 2/6 · **Coronation** 6/12 (~6 days elapsed; first tick nears ~day 8).
-- **The Low-Barrow Net: LAID LOW** (north, behind) — holds the captured New Yorkers (→ Mereholt, dark of the moon).
-
-## Characters of note (full list in characters.json)
-- **Aescwynn — RE-TAKEN by the ring** at the toll-fort (Shake fled invisible, left her); a collared reader who knows his resonance and may be turned to hunt him.
-- **Mistress Eadgyth** — caravan-master who washed her hands of him (deals with the ring). · **Cwen** — the sensitive child. · the captured New Yorkers · the Net.
+- **The FRONT at the tomb** — active combat (see above).
+- **A Pact-Maker** 0/6 — refused & walked away; recedes but patient, the offer open. (dormant hook)
+- **A MAJOR slaver ring (Stonebay buyer)** 1/8 — alerted; holds **Aescwynn** (knows his ring).
+- **Mark-Storm Echo** 1/6 · **Barrow-Folk Stir** 2/6 · **Coronation** 6/12 (~6–7 days; first tick ~day 8).
+- **The Low-Barrow Net: LAID LOW** (north) — holds the captured New Yorkers (→ Mereholt).
 
 ## Story so far (compact)
-Sc.1 barrow arrival, fled the press-gang. · Sc.2 bypassed Skellan's Reach. · Sc.3 killed a Net scout, took the Mereholt lead. · Sc.4 rebuffed at a steading (the child **Cwen**). · Sc.5 killed a **howe-wight**, raised the dying **Aescwynn**. · Sc.6 broke a Net **hunt** (Net laid low). · Sc.7 survived the carr-night. · Sc.8–9 **Wardmoor Crossing** & the Grey Heron (rest, leads). · Sc.10 caravan-guard south with **Eadgyth** → made by a reader at the ring's **toll-fort**; cast Invisibility, loosed Samosa, fled — **abandoned Aescwynn** to recapture. · Sc.11 alone, a **Pact-Maker** answers his ring.
-- **Self-audit drift counter:** 0 · **Akhil Rao** (brother, taken by the Mark) — personal through-line. · **Pattern:** Shake has now chosen self-preservation over others three times (barrow survivors, the Mereholt lead, Aescwynn).
+Sc.1–4 barrow arrival → fled south, killed a Net scout, rebuffed at a steading (the child **Cwen**). · Sc.5 killed a **howe-wight**, raised dying **Aescwynn**. · Sc.6–7 broke a Net hunt in the carr, survived the carr-night. · Sc.8–9 **Wardmoor Crossing** (rest, leads). · Sc.10 caravan south with **Eadgyth** → made at the ring's toll-fort, fled invisible, **abandoned Aescwynn** to recapture. · Sc.11 refused a **Pact-Maker**. · Sc.12 woke a **Front** in sundered ground.
+- **Self-audit drift counter:** 0 · **Akhil Rao** (brother) — personal through-line. · **Pattern:** Shake has chosen self over others repeatedly; now utterly alone as the world closes in.
 
 ## Seed deck
-- `seeds.md` — refresh due: the Pact-Maker / thin places, the alerted ring + Aescwynn-turned-hunter, alone-and-hunted in the south, Eadgyth's ring ties, the road to the heartlands.
+- `seeds.md` — refresh due: the sundered tomb / the Front, the patient Pact-Maker, the alerted ring + Aescwynn-turned-hunter, alone-and-hunted in the heartland south.
