@@ -1,6 +1,10 @@
 # Bridge manifest — <Companion Name>
 Prose: one paragraph on what this companion supplies (RPG / setting / generators).
 
+> **Every overridden hook needs a `## Operative` block** in its file (the imperative the GM must hold
+> in play) — `bridge.py brief` surfaces these and boot loads them; `bridge.py validate` warns if one is
+> missing. Optionally a manifest `"digests"` map can supply/override a hook's one-line digest directly.
+
 ```json
 {
   "companion": "<Companion Name>",

@@ -20,6 +20,28 @@ mythic-gm is the **engine**: it runs the scene/Chaos/Fate/Random-Event/Turning-P
 | `seeds` | candidates for upcoming beats | Meaning words | `seeds.md` (+ generators + canon) |
 | `adventure-ingest` | run a module | — | `adventures/` (clusters + fragments) |
 
+## 1.5 Make overrides actually FIRE (the enforcement contract)
+
+A hook you override does nothing if its rule never reaches the GM at the moment of action. Wiring is
+not enough — pointers lose to convenient tooled moves under load. So every override must be **surfaced
+as an imperative** and, where possible, **enforced by a tool**:
+
+- **Write a `## Operative` block** at the top of each overridden hook's file — 2–4 lines of
+  *imperative* (do this / not that), plus, for `resolve`, the **trigger list** (the WHEN: which PC
+  skill/trait/passion/save/contest go to the system check, not a Fate Question), and for `world-tick`,
+  "fire `tick.py` every bookkeeping" + the companion bookkeeping (Glory, XP, trait-debt…).
+- **Boot loads contents, not names:** `bridge.py brief <bridge>` prints those Operative blocks; the
+  engine reads it at session start. `summary` (names only) is not enough.
+- **Inline the brief into the companion's always-loaded SKILL.md.** Paste `bridge.py brief <bridge>
+  --markdown` between `<!-- BRIDGE-BRIEF -->` markers in your companion SKILL.md and regenerate it when
+  the bridge changes. That puts the imperatives in *always-on* context, not a file the GM must remember
+  to open.
+- **Lean on the tool forcing-functions the engine already ships:** `dice.py fate` prints a guard
+  ("PC task/trait/passion? → the RPG resolves it, not a Fate Question"); `tick.py` emits the mandatory
+  end-of-scene checklist; `state.py render` keeps the Lists a *generated* view (never hand-synced).
+- **`bridge.py validate` warns** when an overridden hook has no `## Operative` digest — fix those, or
+  the override will silently not fire in play.
+
 ## 2. The bridge folder
 
 ```
@@ -86,5 +108,5 @@ A module is chopped into **clusters** (authored scenes/nodes), each with a scene
 - **Sync (retrofit an existing RPG skill):** map what's there — rules→`system-profile`, tables→`generators`, gazetteer→`setting-canon`, clocks→`subsystems`, genre→`theme-weights`/`interpretation`/`chaos-tendency`, modules→`adventures`. Mostly pointers + a few config values + table conversion. Unmapped hooks defer to the engine. (See `CONVERSION.md` for converting a whole repo.)
 
 ## 7. Conformance & what stays the engine's
-- `bridge.py validate <bridge>` checks structure and reports overrides vs defaults. Discovery: the engine looks for a `bridge/` declared in the companion's SKILL.md. Precedence: **companion > engine default**.
+- `bridge.py validate <bridge>` checks structure, roll-tests generator tables, reports overrides vs defaults, **and warns on enforcement gaps** (an overridden hook with no `## Operative` digest). `bridge.py brief <bridge>` prints the operative rules the GM must hold — boot loads this. Discovery: the engine looks for a `bridge/` declared in the companion's SKILL.md. Precedence: **companion > engine default**.
 - **Hands off (the engine owns these):** scenes, the Scene Test, Chaos math, Fate Questions, Random Events, Turning Points, the seed/list machinery, and the no-softening discipline. Companions supply the *world*, not the *engine*.

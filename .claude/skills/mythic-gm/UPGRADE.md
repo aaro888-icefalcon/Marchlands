@@ -45,10 +45,33 @@ Points, and character generation correct and machine-driven.
    Point that needs a Character — now **automatically** generates one. Default is the AC Character
    Crafter; a companion bridge can replace or augment it (see step 4 below).
 
+7. **Context-enforcement — overrides now actually fire in play.** Fixes a real failure mode where a
+   companion's `resolve`/`world-tick` overrides were correctly wired but never fired across a long
+   session (every uncertain moment went to a Mythic Fate Question; `tick.py` never ran, so Glory/clocks
+   stalled). The cause: the operative rules lived in non-auto-loaded bridge files that the orchestration
+   doc only *pointed* to, and boot loaded a hook *summary* (names), not the rules. The fixes:
+   - **`## Operative` digest blocks** in every bridge template (the imperative + a `resolve` **trigger
+     list** of which PC skill/trait/passion/save go to the system check, not a Fate Question).
+   - **`bridge.py brief <dir>`** — prints those operative rules; **boot now loads `brief`, not just
+     `summary`**, and companions inline `brief --markdown` into their always-loaded SKILL.md.
+   - **Forcing functions in tooling:** `dice.py fate` prints a rung-1 guard; **`tick.py` is now a
+     mandatory end-of-scene checklist** (world-tick + Chaos + List render + seeds + resolve-debt);
+     the `resolve` template ships the trigger list.
+   - **Dual-source drift killed:** the Markdown Lists are a **generated** view — new `state.py render`
+     regenerates them from JSON between `<!-- LISTS:* -->` markers; the template no longer says "keep
+     roughly in sync."
+   - **`bridge.py validate`** warns when an overridden hook has no `## Operative` digest; **`state.py
+     validate`** warns on dual-source Lists.
+   - Principle: *an instruction is only as strong as its presence at the moment of action* — inline
+     imperatives into always-on context, convert policy into forcing functions, generate (don't sync)
+     duplicated state.
+
 New/changed files: `scripts/lists.py` (new), `scripts/_plot_points_data.py` (new),
 `data/adventure_crafter/meta_plot_points.json` (new), `assets/bridge-templates/generators/EXAMPLE_npc_role.json`
-(new); rewired `scripts/{adventure_crafter,oracle,dice,state,build_data,bridge}.py`; updated
-`SKILL.md`, `COMPANION-SKILLS.md`, `assets/templates/campaign-state.md`, `assets/bridge-templates/bridge.md`,
+(new), `assets/bridge-templates/generators/EXAMPLE_region.json`; rewired
+`scripts/{adventure_crafter,oracle,dice,state,build_data,bridge,tick}.py` (new commands: `bridge.py brief`,
+`state.py render`, `state.py migrate`); updated `SKILL.md`, `COMPANION-SKILLS.md`, `CONVERSION.md`,
+all `assets/bridge-templates/*` (now carry `## Operative` blocks), `assets/templates/campaign-state.md`,
 and the `references/` command strings.
 
 ---
@@ -112,11 +135,33 @@ companion-native generator, add a **`generators_map.character`** entry to that c
 - Pass `--bridge <bridge_dir>` to the roller scripts so the override is seen (the play loop does this
   for you). Validate the bridge: `python3 mythic-gm/scripts/bridge.py validate <bridge_dir>`.
 
-### Step 5 — Smoke-test one turn, then delete the backup
+### Step 5 — Close the enforcement gap for each companion (change 7)
+For every companion `bridge/` in the repo:
+1. **Add `## Operative` blocks** to the overridden hook files (copy the structure from the updated
+   `mythic-gm/assets/bridge-templates/*`): the imperative + (for `system-profile.md`) the trait/passion
+   **trigger list**, and (for `subsystems.md`) "fire `tick.py` every bookkeeping" + companion bookkeeping.
+2. **Validate** and fix every enforcement warning:
+   ```
+   python3 mythic-gm/scripts/bridge.py validate <bridge_dir>     # warns on hooks with no Operative digest
+   python3 mythic-gm/scripts/bridge.py brief    <bridge_dir>     # the rules boot will load
+   ```
+3. **Inline the brief into the companion's always-loaded SKILL.md** — paste the output of
+   `bridge.py brief <bridge_dir> --markdown` between `<!-- BRIDGE-BRIEF -->` markers (regenerate when the
+   bridge changes). This is the fix that makes the override actually fire under load.
+4. **Adopt the bookkeeping commands in your loop:** at every scene end run
+   `python3 mythic-gm/scripts/tick.py <bridge_dir> <scene#> <campaign>` (the mandatory checklist) then
+   `python3 mythic-gm/scripts/state.py render <campaign>` (regenerate the Lists snapshot). Pass
+   `--bridge <bridge_dir>` to `dice.py fate` / `oracle.py` so the resolve guard and overrides are seen.
+5. For migrated campaigns, run `state.py render <campaign>` once so the Markdown Lists become a generated
+   block; `state.py validate <campaign>/campaign-state.md` should then report no dual-source warning.
+
+### Step 6 — Smoke-test one turn, then delete the backup
 ```
+python3 mythic-gm/scripts/bridge.py brief <bridge_dir>                  # operative rules load at boot
 python3 mythic-gm/scripts/dice.py scene 5
 python3 mythic-gm/scripts/adventure_crafter.py turning-point --campaign <dir> --existing
 python3 mythic-gm/scripts/oracle.py character-list --campaign <dir>     # a NEW result auto-generates
+python3 mythic-gm/scripts/tick.py <bridge_dir> 5 <dir>                  # end-of-scene checklist fires
 ```
 When it looks right: `rm -rf mythic-gm.old`.
 
