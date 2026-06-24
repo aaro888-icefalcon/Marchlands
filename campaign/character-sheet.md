@@ -1,5 +1,8 @@
 # Character Sheet — Abhishek "Shake" Rao   (D&D 2024 / 5.5e · Marchlands drift-come PC)
 
+> **⛓️ CURRENT STATUS (day 7+, CAPTIVE):** Run down and taken alive by the slaver ring. **Collared** in magic-dampening bog-iron (cannot cast while collared); **stripped** of all gear (+1 longsword, +1 shield, breastplate, dagger, pack, Net token, the waybill, coin — confiscated); **Samosa destroyed** (rebuildable with smith's tools over a long rest, if freed & re-equipped); **Daegon dismissed** (re-summonable via Find Familiar, if freed); **1 level Exhaustion**; HP ~half (beaten unconscious, then kept alive to sell). Bound south to Mereholt / the Stonebay buyer. Build below is intact and returns when uncollared & re-geared.
+
+
 - **Name / concept:** Abhishek "Shake" Rao — frontline rune-knight. A sword-and-shield Battle Smith whose craft is battlefield medicine made arcane: subtle rune magic, an enchanted Steel Defender (the German Shepherd **Samosa**), and a falcon familiar (**Daegon**).
 - **Drift-come origin:** Indian-American, 30, vascular surgery chief resident at NYU (Tisch / Bellevue / the VA). Lived in Manhattan hospital housing; from Newark, Delaware. Pulled from New York by the Mark. **What crossed over:** a surgeon's hands and unshakeable composure under pressure — read here as uncanny healing and rune-craft — plus the bonded constructs/spirits and the rune-gear that manifested with the awakening. No native coin; speaks Common (he understands the local Hethrun-Saxon tongue) and Elvish.
 - **Species / Background / Class & level:** Human · House Thuranni Heir (mechanics only; flavor reskinned) · Artificer 3 (Battle Smith)
