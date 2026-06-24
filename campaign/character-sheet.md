@@ -41,7 +41,9 @@
 ## Kit & wealth
 - Breastplate · +1 shield · +1 longsword · dagger · thieves' tools · tinker's tools · smith's tools · woodcarver's tools · (a piano, somehow) · costume · fine clothes
 - Dungeoneer's pack: backpack, caltrops, crowbar, 2 flasks oil, 10 days rations, rope, tinderbox, 10 torches, waterskin
-- **Coin:** 29 gp (before any DM-approved gear swaps)  ·  Mount / property: —
+- **Coin:** 29 gp (no native value) + **6 sp, ~12 cp** (Hethrun coin, taken off the Net scout)  ·  Mount / property: —
+- **Salvage (Net scout, day 1 night):** signal-horn · short bow + ~16 arrows · seax · cut leather jerkin · tinderbox · flask of spirit · **bog-iron Net token** (knot-and-noose brand — a crude "one of theirs" pass)
+- **Lead (intel scrap):** *"Stonebay man — Mereholt ford — dark o' moon"* + a captive head-count (a dozen+). The Net sells drift-come to a Stonebay buyer at **Mereholt ford on the new moon.** Likely route for the taken New Yorkers (and a thread on Akhil).
 
 ## Ties (seed the Lists at Session Zero)
 - **Bonds / goals:** Find the people the Mark took — above all his younger brother **Akhil** (med student, Mount Sinai; the one he'd miss day-to-day). Understand the Mark and whether the drift can be undone. Find a place in this world.
