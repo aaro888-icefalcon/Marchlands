@@ -1,6 +1,12 @@
 # Interpretation & GM Lens — <Setting>   (hook: meaning)
 Broad GM-craft for THIS world. NOT a reskin table.
 
+## Operative
+Read every Meaning/Fate result THROUGH this world: <one line of the core tone, e.g. "chivalry is
+real and costly; the supernatural is rare and uncanny">. NPCs act to win by THIS world's logic —
+<one line: what people here want and how they pursue it>. Hold this lens on every interpretation and
+NPC turn; don't default to generic-fantasy reads.
+
 ## Reading the oracle here
 <How literally/dramatically to interpret Meaning & Fate results; what's plausible; how hard to lean on the genre.>
 

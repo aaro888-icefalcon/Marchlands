@@ -25,8 +25,9 @@ saved game:
                    Hethrun setting & lore, 45 generator tables, clocks and tone.
                    It fills the engine's hooks through marchlands/bridge/.
 
-campaign/          Your live play state (see campaign/README.md). Starts empty;
-                   the GM writes campaign-state.md here at Session Zero.
+campaign/          Your live play state (see campaign/README.md). A campaign is
+                   already configured — "The Crossing at Skellan's Reach" — set up
+                   and waiting on its First Scene.
 ```
 
 The split is deliberate: **mythic-gm** is a generic, content-free engine;
@@ -44,9 +45,12 @@ Just ask, in natural language:
 
 - *"Be my GM for Marchlands"* — starts (or resumes) the game.
 - *"Continue Marchlands"* — picks up from `campaign/campaign-state.md`.
-- The first time, Claude runs **Session Zero**: it builds your character, frames
-  the opening (the classic start is **Skellan's Reach / Eldermouth** amid the
-  Coronation crisis), and saves state into `campaign/`.
+
+A campaign is **already configured** — *The Crossing at Skellan's Reach* (PC:
+Shake Rao) — so either phrase **resumes** straight into **Scene 1**; Session Zero
+does not re-run. (Starting fresh instead? See `campaign/README.md` for how to wipe
+back to a clean slate, after which Claude runs **Session Zero**: it builds your
+character, frames the opening, and saves state into `campaign/`.)
 
 Everything random is rolled by the engine's scripts and shown to you; outcomes
 are not softened. That is the point.
@@ -72,6 +76,16 @@ python3 .claude/skills/mythic-gm/scripts/bridge.py summary  .claude/skills/march
 
 # A live roll, to prove the engine works end to end.
 python3 .claude/skills/mythic-gm/scripts/dice.py scene 5
+```
+
+The engine keeps each campaign's **Threads/Characters Lists and theme config as
+JSON** (`campaign/threads.json`, `characters.json`, `adventure.json`) so the dice
+roll the full Lists (two-stage: NEW / PRE-EXISTING / CHOOSE). Inspect or resume with:
+
+```bash
+python3 .claude/skills/mythic-gm/scripts/state.py list-count campaign
+python3 .claude/skills/mythic-gm/scripts/state.py thread show campaign
+python3 .claude/skills/mythic-gm/scripts/state.py adventure show campaign
 ```
 
 ## A note on content

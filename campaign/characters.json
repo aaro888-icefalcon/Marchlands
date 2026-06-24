@@ -1,0 +1,45 @@
+{
+ "kind": "character",
+ "entries": [
+  {
+   "name": "Maerwyn — cunning-woman of the Old Faith (Veiled Mother); tests by reading, likeliest to cut you loose; her road runs to the Heath [ties §6]",
+   "weight": 2
+  },
+  {
+   "name": "Reeve Godric — holds the Reach for boy-king Hadric; binds by OATH (sworn Crown ward); buried thread: the dragon-blooded king (Vaerelloth)",
+   "weight": 1
+  },
+  {
+   "name": "The Tally-man — one-eyed Bone-Sayer, Ranulf of Stonebay's buyer; binds by COERCIVE CONTRACT; buried thread: the Burning One (Branwald)",
+   "weight": 1
+  },
+  {
+   "name": "Serjeant Brona — Mosswood Warden; binds by ENLISTMENT (oath-of-the-wood); buried thread: the Smokeless Throne / the Sere",
+   "weight": 1
+  },
+  {
+   "name": "Hask — Count Edmund's factor; binds by ENSLAVEMENT (brand & coffle to the Aureothan dig); buried thread: Coelius the Lich",
+   "weight": 1
+  },
+  {
+   "name": "Inquisitor Caine — Codex war-priest; tests for taint by ordeal, and the fire if you fail",
+   "weight": 1
+  },
+  {
+   "name": "The Red Captain — leader of the marauder band penned with you; already reckons the strangers are worth more free than dead",
+   "weight": 1
+  },
+  {
+   "name": "Sefa — young huscarl, decent and out of her depth; Godric's escape-ally",
+   "weight": 1
+  },
+  {
+   "name": "The penned drift-come — fellow New Yorkers (a paralegal clinging to his title, a nurse already triaging, a kid with no one)",
+   "weight": 1
+  },
+  {
+   "name": "The moor-troll — Moor's Hunger made flesh; what the waking Heath drove down on the Reach [§6 catastrophe]",
+   "weight": 1
+  }
+ ]
+}

@@ -53,6 +53,26 @@ Then write the **manifest** `bridge/bridge.md` (the ```json block) listing the h
 
 **Anything you don't map defers to the engine default** — a partial bridge is valid. Start with `system-profile`, `interpretation`, `theme-weights`, and the top few generators; add the rest later.
 
+## Step 2.5 — Surface the operative rules (or the overrides won't fire)
+Wiring a hook is not enough. In a long, summarized session a *correct-but-pointed-to* rule loses to a
+convenient tooled move made every turn (the Fate Question) — the override silently never fires (e.g. the
+RPG's skill/trait/passion checks get replaced by Fate Questions; `tick.py` never runs and Glory/clocks
+stall). Close the gap structurally:
+
+1. **Write a `## Operative` block** at the top of every overridden bridge file — the *imperative*, not a
+   description. For `resolve`, include the **trigger list** (which PC actions go to the system check, not
+   a Fate Question). For `world-tick`, "fire `tick.py` every bookkeeping" + the companion bookkeeping
+   (Glory/XP/trait-debt). The engine templates already carry these blocks — fill them in.
+2. **Inline them into the always-loaded orchestration doc** (the companion's SKILL.md): paste
+   `bridge.py brief <bridge> --markdown` between `<!-- BRIDGE-BRIEF -->` markers and regenerate when the
+   bridge changes. A pointer you don't follow is invisible; put the imperatives in always-on context.
+3. **Boot opens the door:** the engine boot runs `bridge.py brief` (contents), not just `summary`
+   (names). Make sure your companion SKILL.md says so.
+4. **Trust the forcing functions:** `dice.py fate` prints the rung-1 guard, `tick.py` emits the mandatory
+   bookkeeping checklist, `state.py render` keeps the Lists a generated view (no hand-synced snapshot).
+5. **Check it:** `bridge.py validate` warns when an overridden hook has no `## Operative` digest, and
+   `state.py validate` warns on dual-source Lists. Resolve every warning before you ship.
+
 ## Step 3 — Convert the RPG's tables to verified JSON
 For each random table you moved to `generators/`, use the engine schema (`{id,title,type:"list_d100"|"list_d10",dice,entries:[{min,max,value}]}`). To get the same verification Mythic's tables get, add a small companion build step (copy the pattern from `mythic-gm/scripts/build_data.py`) or just ensure ranges are contiguous — `bridge.py validate` roll-tests coverage.
 

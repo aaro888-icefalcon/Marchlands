@@ -44,6 +44,13 @@ to fill the engine's hooks via **`./bridge/`**.
 
 Unfilled hooks (e.g. `adventure-ingest`) fall through to the engine default. A partial bridge is valid.
 
+## ⚙️ Operative digest — hold these in play (the table above only *points*; these are the imperatives)
+- **`resolve` (5.5e): roll the RPG, not a Fate Question, the moment a PC acts on a stat.** WHEN → `dice.py roll 1d20+X` vs a DC set **before** the roll: attacks, damage, saving throws, ability/skill checks (Stealth, Perception, Persuasion, Insight, Athletics, Medicine, Survival, Arcana…), death saves, spell attacks/DCs, the Influence action. Pre-commit stakes → roll → narrate. A **Fate Question is only for world uncertainty the sheet can't answer** (does an off-screen NPC know X; is the road watched; did a faction already move; what's here).
+- **`world-tick`: run `python3 <mythic-gm>/scripts/tick.py ./bridge <scene#>` at EVERY bookkeeping**, before you close the scene — fire each due subsystem by rolling its named table; tick standing clocks (Coronation +1/in-world-week). Offscreen time passes whether or not you call it, so call it.
+- **`generate:*`: generate, don't invent.** A new NPC / place / threat / faction → the bridge generators (`generators/registry.md`), then flesh from `setting-canon.md`.
+- **`chaos`** start 5, **floor CF ≥ 6 in the deep Heath/Harrowmark**.  **`themes`** fixed Tension-led (in `adventure.json`).  **`meaning`** read toward the grounded, consequential interpretation (`interpretation.md`).  **`seeds`** refresh 30–40 each bookkeeping (`seeds.md`).
+- **State is JSON:** `threads.json` / `characters.json` / `adventure.json` are the **single source of truth** — manage with `state.py thread|char …`; never hand-maintain a second copy (snapshot via `state.py render`).
+
 **Living world (the through-line).** `bridge/world-model.md` is the mechanism that feeds the live
 Marchlands world — its **clocks, threats, and factions** — into the engine: they live on the engine's
 Threads/Characters Lists, surface as **Random Events, Turning Points, and scene elements**, and fill the
