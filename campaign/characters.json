@@ -1,29 +1,4 @@
 {
  "kind": "character",
- "entries": [
-  {
-   "name": "Hroth Soot-Hand & the Low-Barrow Net (slaver outfit)",
-   "weight": 2
-  },
-  {
-   "name": "The captured New Yorkers (Tara, Rachel, Ben, Marcus, Owen, Leah)",
-   "weight": 1
-  },
-  {
-   "name": "The Heath / the stirring barrow-dead",
-   "weight": 1
-  },
-  {
-   "name": "Cwen — the sensitive child at the river steading who saw through the Mark",
-   "weight": 1
-  },
-  {
-   "name": "Mistress Eadgyth — caravan-master & feared rumor-broker; a 'baneful success' (rich, smelly new southern contract)",
-   "weight": 1
-  },
-  {
-   "name": "Aescwynn — RE-TAKEN by the slaver ring at the toll-fort; knows Shake's ring; may be made to hunt him",
-   "weight": 1
-  }
- ]
+ "entries": []
 }
