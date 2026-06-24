@@ -1,10 +1,25 @@
 {
  "kind": "character",
  "entries": [
-  { "name": "The howe-wight (barrow-dead cold-thing on the river road)", "weight": 2 },
-  { "name": "Hroth Soot-Hand & the Low-Barrow Net (slaver outfit)", "weight": 2 },
-  { "name": "The captured New Yorkers (Tara, Rachel, Ben, Marcus, Owen, Leah)", "weight": 1 },
-  { "name": "The Heath / the stirring barrow-dead", "weight": 1 },
-  { "name": "Cwen — the sensitive child at the river steading who saw through the Mark", "weight": 1 }
+  {
+   "name": "Hroth Soot-Hand & the Low-Barrow Net (slaver outfit)",
+   "weight": 2
+  },
+  {
+   "name": "The captured New Yorkers (Tara, Rachel, Ben, Marcus, Owen, Leah)",
+   "weight": 1
+  },
+  {
+   "name": "The Heath / the stirring barrow-dead",
+   "weight": 1
+  },
+  {
+   "name": "Cwen — the sensitive child at the river steading who saw through the Mark",
+   "weight": 1
+  },
+  {
+   "name": "Aescwynn the Twice-Sold — Net reader, saved from death; life-debt; can READ the Mark",
+   "weight": 1
+  }
  ]
 }

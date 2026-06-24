@@ -32,11 +32,12 @@ _(1–9; −1 if PC mostly in control, +1 if chaotic. **Harrowmark/deep-Heath fl
 6. _(bg)_ **The dead under the Heath are stirring.** [Barrow-Folk Stir 2/6] — w1
 
 ## Characters List (snapshot of `characters.json`; weighted ≤3; PC not listed)
-1. **The howe-wight** — barrow-dead cold-thing on the river road (present, in combat). — w2
-2. **Hroth Soot-Hand & the Low-Barrow Net** — slaver outfit; a missing-man sweep is out for the scout you killed. — w2
-3. **The captured New Yorkers** — Tara, Rachel, Ben, Marcus, Owen, Leah — bound for Mereholt. — w1
-4. **The Heath / the stirring barrow-dead.** — w1
-5. **Cwen** — the sensitive child at the river steading who saw through the Mark. — w1
+1. **Hroth Soot-Hand & the Low-Barrow Net** — slaver outfit; a missing-man sweep is out for the scout you killed. — w2
+2. **The captured New Yorkers** — Tara, Rachel, Ben, Marcus, Owen, Leah — bound for Mereholt. — w1
+3. **The Heath / the stirring barrow-dead.** — w1
+4. **Cwen** — the sensitive child at the river steading who saw through the Mark. — w1
+5. **Aescwynn the Twice-Sold** — Net reader you saved from death; life-debt; **can read the Mark.** — w1
+_(the howe-wight was destroyed this scene — removed)_
 
 ## Campaign roster
 - **Akhil Rao** — Shake's younger brother, taken by the Mark.
@@ -50,16 +51,13 @@ _(1–9; −1 if PC mostly in control, +1 if chaotic. **Harrowmark/deep-Heath fl
 - **Coronation** 6/12 — +1 per campaign week (~1.5 days elapsed). (background)
 - _retired/dormant:_ Net Closes (escaped), Carrion Return (left at the barrow).
 
-## ⚔️ LIVE COMBAT — resume here
-**Scene 5 (Altered/Turning Point) — "The Reader on the River Road."** A frost-killed Net transport on the river road; a **howe-wight** (1A Barrow-Dead, Elite) rose from under the road. Round 1 done.
-- **Round/initiative:** Shake **8**, Howe-wight **3**. **It is now Round 2, Shake's turn (he acts first).**
-- **Howe-wight:** AC 14, HP **45/45**, Speed 30. Life Drain (cold) reduces target's max HP (CON save DC 13; max HP→0 = death). Resists nonmagical phys + cold; **Shake's +1 sword & Samosa's force damage bypass.** Fire/holy water/Veiled-Mother blessing suppress the chill 10 min. Currently bent over Aescwynn, feeding.
-- **Aescwynn the Twice-Sold:** bound, roped to Shake; hit by Life Drain (11 cold, max HP collapsed) — **dying/all-but-dead in the wight's grip.** Beyond mundane medicine.
-- **Shake:** **24/24 HP**, untouched. ~15 ft from the wight, roped to Aescwynn. Available: Invisibility (1/day, recharged), 3× 1st-level slots, Shield, Absorb Elements (vs the cold!), Heroism, Cure Wounds, Heroic Inspiration. Reaction free.
-- **Samosa:** 20/20. Used its reaction (Deflect Attack) round 1. Speed 40, Force Rend +5/1d8+5.
-- **Daegon:** aloft, won't descend into the cold.
-- **Escalation:** the other frost-killed slavers are **beginning to rise.**
-- **The crux on the table:** cut the rope and flee (Aescwynn dies) **or** commit to fighting the thing that drained four men, to drag a dying woman free. *Awaiting Shake's declared action.*
+## 🎬 AFTERMATH — resume here
+**Scene 5 (Altered/Turning Point) — "The Reader on the River Road" — COMBAT RESOLVED.** Shake **fought** the howe-wight rather than flee: focus-fired it with Daegon (Help/advantage) + Samosa (force), tanked its one dangerous flurry with **Shield** (both Life Drains negated), and **destroyed it** — **taking zero damage the entire fight** (AC 19 + Shield held). The wight's death broke the cold and dropped the half-risen slavers back into the mud. Then he knelt and poured **Cure Wounds** into the dying Aescwynn; a Fate Question (Unlikely → **Yes**) said a spark remained, and the heal (16) **brought her back from death.** Turning Point's "Savior" beat: he became the savior, against his own pattern.
+- **Shake:** **24/24 HP, untouched.** Spell slots **1/3** remaining (Shield + Cure Wounds spent). Invisibility (1/day) available; Heroic Inspiration available.
+- **Samosa** 20/20 · **Daegon** aloft, unharmed · **howe-wight destroyed.**
+- **Aescwynn the Twice-Sold:** ALIVE — frail, grey, permanently life-diminished (max HP drained until greater restoration), conscious, **still bound by Shake's rope**, gripping his wrist in shock/gratitude. A **Mark-reader** who now owes him her life.
+- **On the table:** the wrecked Net transport (unsearched — loot/intel), the road south to the Wardmoor crossing, the Net's missing-scout sweep still behind. *Awaiting Shake's next action (cut her loose / question / search / move).*
+- **Pending bookkeeping (do at scene close):** Chaos adjust, world-tick, Scene Test, **XP award** (defeated an Elite barrow-wight + saved a life — a meaningful chunk toward level 4), seed refresh.
 
 ## Scene recap (prior)
 - **Sc.1** Long Barrow arrival — faded the press-gang, fled south as the Net took the others. **Sc.2** Scouted ahead, bypassed the slaver ford + Skellan's Reach over open bog. **Sc.3** Cold-camp; killed a Net night-scout (Invisibility ambush), buried him, took a lead (Mereholt handoff) + 6 sp; long rest. **Sc.4** Rebuffed at a river steading; the child **Cwen** named him "come-through" and said he'd "left the others in the dark." **Sc.5** (this) the grisly find + the howe-wight.
