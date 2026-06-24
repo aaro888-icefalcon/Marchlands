@@ -1,11 +1,35 @@
 # `campaign/` — live play state
 
-This folder holds the **state of your Marchlands game**. It starts almost empty
-on purpose: the Game Master fills it during play.
+This folder holds the **state of your Marchlands game**. The Game Master reads it
+at the start of a session and overwrites it as you play.
 
-## How it gets populated
+## ▶ Current campaign — configured & ready to play
 
-On your **first** session, the engine finds no `campaign-state.md` here and runs
+**The Crossing at Skellan's Reach** (PC: Abhishek "Shake" Rao) is **set up and
+waiting on its First Scene.** Session Zero is already done — so a fresh session
+**resumes** (it does *not* re-run Session Zero). Just say **"continue Marchlands"**
+or **"be my GM for Marchlands"** and the GM opens **Scene 1 — the pen at Skellan's
+Reach.**
+
+What's already in place here:
+- **`campaign-state.md`** — frame (5.5e · Hethrun · grimdark/HARDCORE · CF 5), the
+  First Scene, the live clocks, and the rolled opening catastrophe.
+- **`character-sheet.md`** — the PC (Shake Rao), reset to the cold-open (bound in the pen).
+- **`threads.json` / `characters.json` / `adventure.json`** — the Lists & theme
+  config (the single source of truth the dice roll; the snapshot in
+  `campaign-state.md` is *generated* from them via `state.py render`).
+- **`seeds.md`** — a 35-card seed deck to surface beats from turn one.
+- **`opening-the-crossing.md`** — the full opening scenario, verbatim (the brief this
+  state was decomposed from).
+
+> **Starting over / a different campaign?** Wipe this folder back to a clean slate
+> (remove `campaign-state.md`, `character-sheet.md`, `seeds.md`; empty the JSON
+> Lists) and the engine will run a fresh **Session Zero** next time. Everything here
+> is committed with the repo, so the campaign travels across sessions.
+
+## How it gets populated (reference)
+
+On a **first / fresh** session the engine finds no `campaign-state.md` and runs
 **Session Zero** — it sets the frame (D&D 2024 / 5.5e, the Hethrun setting,
 gritty tone), creates your drift-come PC, seeds the world, and then writes:
 
@@ -22,13 +46,6 @@ gritty tone), creates your drift-come PC, seeds the world, and then writes:
 
 On **later** sessions the engine reads `campaign-state.md`, recaps the last beat,
 and resumes the play loop.
-
-## Why it's (almost) empty now
-
-`campaign-state.md` is intentionally **absent** so the engine knows to run
-Session Zero. Don't create a blank one by hand — just say *"be my GM for
-Marchlands"* and play. Everything here is committed with the repo, so your
-campaign travels with it across sessions.
 
 > Running more than one campaign? Give each its own subfolder (e.g.
 > `campaign/skellans-reach/`) and point the GM at it; the engine loads whichever
