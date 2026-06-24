@@ -1,62 +1,43 @@
 # Campaign State — Marchlands: Shake Rao
 
-> The human-readable source of truth for prose & recap. **The Lists now live in JSON**
-> (`threads.json`, `characters.json`, `adventure.json`) — the engine rolls those directly
-> (`state.py thread|char show <campaign>`). The Lists below are a synced snapshot.
-> Overwrite this at the end of **every** scene.
+> Human-readable source of truth for **prose, clocks & recap.** The Threads/Characters
+> Lists live in JSON (`state.py thread|char show <campaign>` / `state.py render`) — not copied here.
+> Overwrite at the end of **every** scene.
 
 ## Frame
-- **Engine:** mythic-gm (upgraded — JSON Lists, Meta Plot Points, two-stage List roll)
-- **Adventure Source mode:** Adventure Crafter (always on)
-- **RPG / System Profile:** D&D 2024 / 5.5e → `bridge/system-profile.md`
-- **Setting / canon:** Hethrun, the Marchlands → `bridge/setting-canon.md`
-- **Genre & stakes vocabulary:** gritty survival + frontier intrigue + supernatural mystery — maximal honest consequence = death / capture / ruin / exposure / a clock advanced
-- **Resolution:** Fate Chart   ·   **Chaos flavor:** standard (full)
-- **Discipline:** HARDCORE (no softening; permadeath default; Peril Points OFF)
+- **Engine:** mythic-gm (upgraded — JSON Lists, Meta Plot Points; local fork: `fate` guard footer + `state.py render`)
+- **Adventure Source mode:** Adventure Crafter (always on) · **RPG:** D&D 2024 / 5.5e · **Setting:** Hethrun
+- **Resolution:** Fate Chart · **Genre stakes:** death / capture / ruin / exposure / a clock advanced
+- **Discipline:** HARDCORE (no softening; permadeath; Peril Points OFF)
+- **Lists:** JSON (`threads.json` / `characters.json` / `adventure.json`) — single source of truth.
 
 ## CURRENT ADVENTURE: Off the Barrow, down the south road
-- **Adventure status:** active
-- **In-world:** late morning, **8 Slowleaf, AF 207 (day 2)**
-- **Theme priority (fixed; in `adventure.json`):** 1.Tension 2.Mystery 3.Action 4.Social 5.Personal
-- **Scenes played:** 5 (scene 5 is an **Altered scene → Turning Point**, in progress)
+- **In-world:** nightfall, **8 Slowleaf, AF 207 (day 2)** · **Scenes played:** 6 (next: scene 7, **Expected**)
+- **Theme priority (fixed; adventure.json):** Tension · Mystery · Action · Social · Personal (tens=1)
 
 ## Chaos Factor: 3
-_(1–9; −1 if PC mostly in control, +1 if chaotic. **Harrowmark/deep-Heath floor: CF ≥ 6** in the deep barrow-Heath. adventure.json tens=1.)_
+_(−1 PC in control / +1 chaotic. Scene 6 a wash: hunted hard (chaotic) but escaped clean (control). **Deep-Heath/Harrowmark floor CF ≥ 6.**)_
 
-## Threads & Characters Lists — single source of truth is JSON (no hand-synced copy → no drift)
-The Lists live in `threads.json` / `characters.json`, managed with
-`state.py thread|char add|weight|remove <campaign> "<name>"`. **Do not keep a copy in this file.** View:
-- `state.py thread show <campaign>` · `state.py char show <campaign>` · `state.py list-count <campaign>`
-- `state.py render <campaign>` → a Markdown snapshot **generated** from the JSON (for pasting into a recap)
-
-## Campaign roster
-- **Akhil Rao** — Shake's younger brother, taken by the Mark.
-
-## Overlays
-- **Keyed Scenes:** none · **Thread Progress Track:** none · **Peril Points:** OFF
+## PC status (Shake)
+- **HP 24/24** (untouched through the wight fight). **Spell slots: 1 of 3 left** (Shield + Cure Wounds spent; no long rest since dawn). **Invisibility (1/day) available · Heroic Inspiration available.**
+- **XP:** **major beat banked** (the howe-wight + the rescue + breaking the hunt) — ~¼ toward level 4.
+- Carries: +1 longsword/shield, breastplate, the **Net token** (a "one of theirs" pass), the **waybill** (Mereholt/Stonebay handoff), a spear, wax cloak, food, coin.
 
 ## Clocks (live world ledger)
-- **Mark-Storm Echo** 1/6 — arrival abnormality drawing hunters. (campaign clock)
-- **Barrow-Folk Stir** 2/6 — the dead stir; the howe-wight is the Stir made flesh on the road. (background→active)
-- **Coronation** 6/12 — +1 per campaign week (~1.5 days elapsed). (background)
-- _retired/dormant:_ Net Closes (escaped), Carrion Return (left at the barrow).
+- **Mark-Storm Echo** 1/6 — arrival abnormality drawing hunters (Aescwynn can read it). 
+- **Barrow-Folk Stir** 2/6 — the dead stir; a howe-wight already reached the road.
+- **Coronation** 6/12 — +1 per in-world week (~2 days elapsed; no tick yet).
+- **The Low-Barrow Net: LAID LOW** (faction move 86) — withdrew the hunt from the north barrow-road; *still* holds the captured New Yorkers (bound for **Mereholt ford, dark of the moon**, for the Stonebay buyer), owns Skellan's Reach + the corrupt Wardmoor reeve **Bertwald**. Tactical hunt OFF; strategic threat persists.
 
-## 🐺 LIVE SCENE 6 (Altered — Turning Point) — resume here
-**"The Hunt on the South Road."** Shake searched the transport (took a spear, a wax cloak, food, coin, and a **Net waybill** confirming the cage-good = another awakened drift-come, southbound to **Mereholt for the Stonebay buyer**; that one fled into the bog when the wight came). He half-freed Aescwynn, got moving south, and questioned her — she's a **mark-reader** (feels the "mark-storm," tastes who came through; the Net used her to price awakened; warns that Shake "rings loud" to any reader). Then the **Turning Point fired (Hunted ×2 · Find It Or Else · Protector · Corruption):** a **Net hunting party — 6–7 mounted/afoot + hounds** (a tracker "Edrik") is coming hard down the river road from the north, horn and dogs. They found the scout AND the transport gone; they're hunting. **Aescwynn (frail, life-drained) cannot run.**
-- **Shake:** 24/24 HP. Spell slots **1/3** left (Shield + Cure Wounds spent this day, no long rest since dawn). Invisibility (1/day) available; Heroic Inspiration available. Carries the Net token (a "one of theirs" pass) + the waybill.
-- **Samosa** 20/20 · **Daegon** aloft (scouting the hunt).
-- **Aescwynn:** alive, frail, wrists half-freed, terrified — the hunt wants her back.
-- **Decision pending:** how to face the closing hunt — run/hide/fight/bluff (the Net token?)/use Invisibility/use Aescwynn's knowledge of their methods. Wardmoor crossing lies ahead (may be Net-corrupted — "Corruption" plot point).
-- **Pending bookkeeping (at scene close):** Chaos, world-tick, Scene Test, **XP** (the howe-wight + the rescue — a major beat toward level 4), seed refresh.
+## ⛄ LIVE SCENE 7 (Expected) — resume here
+**Deep in the carr, nightfall — the slow vise.** Shake broke the Net hunt by cutting west into the **carr** (drowned alder-bog) — Survival 17 vs DC 15; the hounds lost the scent at the water, the horses foundered, and the Net *withdrew* (cut its losses). But he's now **chest-deep in near-freezing water, soaked, miles into a trackless drowned wood at night**, low on magic, with **Aescwynn going hypothermic** — frail, life-drained, no reserve; your clinician's read says the cold is winning on her. **Exposure is now the killer.** Need: out of the water, shelter, fire, warmth — before the carr finishes what the wight started (on her, and then on you).
+- **Aescwynn:** alive, ally (life-debt), can **read the Mark**; currently failing to cold.
+- **Samosa** 20/20 (rune-warm — a heat source!) · **Daegon** aloft.
+- **Decision pending:** how to survive the carr-night and get Aescwynn warm/out.
 
-_Scene 5 resolved: Shake fought the howe-wight rather than flee — focus-fired with Daegon (Help) + Samosa (force), negated its one landing flurry with Shield, destroyed it untouched; the cold broke and the rising dead dropped. He then Cure-Wounds'd the dying Aescwynn (Fate Unlikely → Yes; healed 16) and brought her back from death. CF −1 → 3._
-
-## Scene recap (prior)
-- **Sc.1** Long Barrow arrival — faded the press-gang, fled south as the Net took the others. **Sc.2** Scouted ahead, bypassed the slaver ford + Skellan's Reach over open bog. **Sc.3** Cold-camp; killed a Net night-scout (Invisibility ambush), buried him, took a lead (Mereholt handoff) + 6 sp; long rest. **Sc.4** Rebuffed at a river steading; the child **Cwen** named him "come-through" and said he'd "left the others in the dark." **Sc.5** (this) the grisly find + the howe-wight.
-- **Self-audit drift counter:** 0
-
-## Archive pointer
-- Resolved threads / dead characters → `archive.md` (not yet created)
+## Story so far (compact)
+Sc.1 Long Barrow arrival — faded the press-gang, fled south as the Net took the others. · Sc.2 Bypassed the slaver ford + Skellan's Reach over open bog. · Sc.3 Killed a Net night-scout (Invisibility ambush), buried him, took the Mereholt lead; long rest. · Sc.4 Rebuffed at a river steading; the child **Cwen** named him "come-through." · Sc.5 The grisly find + a **howe-wight** — fought it rather than flee, killed it untouched (Shield negated its one flurry), and **Cure-Wounds'd the dying Aescwynn back from death** (Fate Unlikely→Yes). · Sc.6 The Net **hunt** (Turning Point) — broke it in the carr; the Net laid low.
+- **Self-audit drift counter:** 0 · **Akhil Rao** (brother, taken by the Mark) — personal through-line.
 
 ## Seed deck
-- `seeds.md` — refresh next bookkeeping (fold in: the barrow-cold predation, Cwen, the risen-dead escalation).
+- `seeds.md` — refresh due: fold in the carr/exposure, Aescwynn-as-ally + Mark-reading, the corrupt Wardmoor reeve, the escaped caged drift-come in the bog, the Net's withdrawal.
