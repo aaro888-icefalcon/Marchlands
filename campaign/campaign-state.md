@@ -20,17 +20,19 @@
 - **Samosa** 20/20 (Force Rend +5/1d8+5 — force bypasses undead; Repair 3/day; Deflect Attack) · **Daegon** aloft.
 - No allies, no coin to speak of, no escape-magic this fight. **XP:** ~¼ to level 4.
 
-## ⛓️ LIVE SCENE 14 — "Taken", resume here
-**The lone-wolf path's end.** Shake refused the ring's collar by refusing the Pact-Maker (out-lawyered it: a door can't bond to a wall) and **charging eight mounted hunters to die rather than be taken** — but his exhausted swing missed (nat 2), Samosa was hammered down, a net (nat 20) + the swarm bore him under, and the captain ordered him taken **alive** ("a live come-through's worth ten years"). Denied even the death he chose. He woke **collared in a barred wagon, stripped, caged with Aescwynn + the New Yorkers,** rolling south to Mereholt and the buyer. **Awaiting his first move as a captive** (collar dampens magic; companions gone; allies-in-chains all around). New arc: the slave pipeline.
+## ⛓️ LIVE SCENE 15 — captive transit, resume here
+**The slaver pipeline, from inside** (day 7→, in transit; **3 nights to the handoff**). Shake plays broken cargo (the guards' attention slides off him) and reads the road: bound SW into the **Greenways** heartland to **Mereholt ford — a MEET, not a town**, where the ring sells its stock *up* to the **Stonebay buyer**; **dark of the moon, 3 nights off.** The **handoff is the one real escape window** (cages open, collars re-keyed, coin moves); past it lies **Stonebay** — the buyer's own walls, no return. The buyer aggregates *all* caught drift-come → **Akhil may be in this same pipeline.**
+- **Collar, read true:** it mutes his **mark** (he's *untrackable* now — gold for an escape) **and** caps his **magic** (bog-iron drinks it before a spell forms); bound wrists + no focus are second locks that only matter once the iron's off.
+- **The wall in his intel:** keys, the watch-rhythm, Mereholt's fords/blinds, how a handoff unfolds — all **insider knowledge only Aescwynn has.** "You cannot learn the escape alone." She waits, expecting him to be cold. Awaiting his move.
 
 ## Clocks (live world ledger)
 - **A MAJOR slaver ring (Stonebay buyer)** **4/8 — got its prize** (a live drift-come). Bound for the Mereholt handoff, dark of the moon.
 - **CAPTIVE pipeline** — Shake + Aescwynn + the taken New Yorkers, caged & collared, southbound to the sale.
 - **A Pact-Maker** 0/6 — refused; recedes but patient ("when the wall cracks, I'll be the door"). (dormant hook)
-- **Mark-Storm Echo** 1/6 · **Barrow-Folk Stir** 2/6 · **Coronation** 6/12 (~7 days; first tick imminent).
+- **Mark-Storm Echo** 1/6 · **Barrow-Folk Stir** 2/6 · **Coronation** 7/12 (a week elapsed — first weekly tick; the realm's deadline tightening offscreen).
 
 ## Story so far (compact)
-Sc.1–4 barrow arrival → fled south, killed a Net scout, rebuffed at a steading (the child **Cwen**). · Sc.5 killed a **howe-wight**, raised dying **Aescwynn**. · Sc.6–7 broke a Net hunt in the carr, survived the carr-night. · Sc.8–9 **Wardmoor Crossing** (rest, leads). · Sc.10 caravan south with **Eadgyth** → made at the ring's toll-fort, fled invisible, **abandoned Aescwynn** to recapture. · Sc.11 refused a **Pact-Maker**. · Sc.12 woke a **Front** in sundered ground.
+Sc.1–4 barrow arrival → fled south, killed a Net scout, rebuffed at a steading (the child **Cwen**). · Sc.5 killed a **howe-wight**, raised dying **Aescwynn**. · Sc.6–7 broke a Net hunt in the carr, survived the carr-night. · Sc.8–9 **Wardmoor Crossing** (rest, leads). · Sc.10 caravan south with **Eadgyth** → made at the ring's toll-fort, fled invisible, **abandoned Aescwynn** to recapture. · Sc.11 refused a **Pact-Maker**. · Sc.12 broke a **Front** in sundered ground. · Sc.13 ran to ground, **charged the hunt & was TAKEN ALIVE** (collared, caged). · Sc.14–15 captive transit → Mereholt.
 - **Self-audit drift counter:** 0 · **Akhil Rao** (brother) — personal through-line. · **Pattern:** Shake has chosen self over others repeatedly; now utterly alone as the world closes in.
 
 ## Seed deck
