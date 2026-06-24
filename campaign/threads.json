@@ -1,0 +1,11 @@
+{
+ "kind": "thread",
+ "entries": [
+  { "name": "Survive the Heath and reach the Wardmoor crossing", "weight": 3 },
+  { "name": "The barrow-dead reach off the Heath — something cold is killing on the river road", "weight": 3 },
+  { "name": "Find Akhil and the taken (Net sells drift-come at Mereholt ford, dark of the moon)", "weight": 2 },
+  { "name": "The Low-Barrow Net — a regional slaver outfit hunting the barrow-road", "weight": 2 },
+  { "name": "The boy-king's Coronation must happen by midwinter or Hethrun fractures (Coronation 6/12)", "weight": 1 },
+  { "name": "The dead under the Heath are stirring (Barrow-Folk Stir 2/6)", "weight": 1 }
+ ]
+}

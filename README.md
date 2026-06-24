@@ -74,6 +74,16 @@ python3 .claude/skills/mythic-gm/scripts/bridge.py summary  .claude/skills/march
 python3 .claude/skills/mythic-gm/scripts/dice.py scene 5
 ```
 
+The engine keeps each campaign's **Threads/Characters Lists and theme config as
+JSON** (`campaign/threads.json`, `characters.json`, `adventure.json`) so the dice
+roll the full Lists (two-stage: NEW / PRE-EXISTING / CHOOSE). Inspect or resume with:
+
+```bash
+python3 .claude/skills/mythic-gm/scripts/state.py list-count campaign
+python3 .claude/skills/mythic-gm/scripts/state.py thread show campaign
+python3 .claude/skills/mythic-gm/scripts/state.py adventure show campaign
+```
+
 ## A note on content
 
 The Mythic GME 2e and Adventure Crafter tables bundled in `mythic-gm/` are

@@ -41,12 +41,19 @@ if [ -f "$ENGINE/scripts/bridge.py" ] && [ -d "$BRIDGE" ]; then
   fi
 fi
 
+# Live campaign (if present): confirm the JSON Lists load so play can resume.
+campaign_ok=""
+if [ -f "$ROOT/campaign/threads.json" ]; then
+  if "$PY" "$ENGINE/scripts/state.py" list-count "$ROOT/campaign" >"$log" 2>&1; then campaign_ok=1; fi
+fi
+
 # Drop any caches the scripts may have created so the tree stays clean.
 find "$ROOT/.claude/skills" -name '__pycache__' -type d -prune -exec rm -rf {} + 2>/dev/null
 
 echo "🏔️  MARCHLANDS is installed and ready to play."
 if [ "$engine_ok" = 1 ]; then echo "   • Engine (mythic-gm): tables VERIFIED ✓"; else echo "   • Engine (mythic-gm): verification FAILED — run: $PY .claude/skills/mythic-gm/scripts/build_data.py"; fi
 if [ "$bridge_ok" = 1 ]; then echo "   • Companion (marchlands): bridge VALID ✓"; else echo "   • Companion (marchlands): bridge validation FAILED — run: $PY .claude/skills/mythic-gm/scripts/bridge.py validate .claude/skills/marchlands/bridge"; fi
+if [ -n "$campaign_ok" ]; then echo "   • Live campaign in ./campaign/ — JSON Lists load ✓ (say \"continue Marchlands\")."; fi
 echo "   • To play: say \"be my GM for Marchlands\" (or \"continue Marchlands\")."
 echo "   • Live play state lives in ./campaign/ — see campaign/README.md."
 exit 0
