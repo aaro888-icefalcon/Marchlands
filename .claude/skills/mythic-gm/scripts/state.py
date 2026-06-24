@@ -144,6 +144,18 @@ def cmd_list_count(campaign):
         wq = ("  ⚠ weight>3: " + ", ".join(over)) if over else ""
         print(f"{kind.capitalize()}s List: {len(obj['entries'])} entr(y/ies), Σ slots {S} {cap}{wq}".rstrip())
 
+def cmd_render(campaign):
+    """Generate the Markdown Lists snapshot FROM the JSON (the single source of truth).
+    Use this instead of hand-maintaining a Lists copy in campaign-state.md — no drift."""
+    for kind, hdr in [("thread", "Threads"), ("character", "Characters")]:
+        obj = lists.load_list(campaign, kind)
+        print(f"## {hdr} List  _(generated from {lists.KIND_FILE[kind]} — do not hand-edit)_")
+        if not obj["entries"]:
+            print(f"_({hdr} List empty)_\n"); continue
+        for i, e in enumerate(obj["entries"], 1):
+            print(f"{i}. {e['name']} — w{e.get('weight', 1)}")
+        print()
+
 def main():
     a = sys.argv[1:]
     if not a or a[0] in ("-h","--help"): print(__doc__); return
@@ -156,6 +168,7 @@ def main():
     elif c == "adventure": cmd_adventure(a[1], a[2], a[3] if len(a) > 3 else None)
     elif c == "migrate": cmd_migrate(a[1])
     elif c == "list-count": cmd_list_count(a[1])
+    elif c == "render": cmd_render(a[1])
     else: sys.exit(f"Unknown command '{c}'. See --help.")
 
 if __name__ == "__main__":

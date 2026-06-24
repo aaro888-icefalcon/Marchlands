@@ -61,6 +61,11 @@ def cmd_fate(odds, cf, mode=None, threads=0, characters=0, campaign=None, bridge
         spec = importlib.util.spec_from_file_location("oracle", os.path.join(os.path.dirname(__file__), "oracle.py"))
         oracle = importlib.util.module_from_spec(spec); spec.loader.exec_module(oracle)
         oracle.cmd_event(threads, characters, campaign=campaign, bridge_dir=bridge_dir)
+    if not rule:
+        print("   ── guard ── Fate Questions resolve WORLD uncertainty only. If the PC is")
+        print("      attempting a task with a real mechanic (skill / save / attack / trait /")
+        print("      passion), roll THAT instead — ladder rung 1, not a Fate Question.")
+        print("      At bookkeeping, run tick.py (companion world-tick) before closing the scene.")
 
 def cmd_check(odds, cf):
     fc = load("mythic/fate_check.json"); odds = norm_odds(odds)

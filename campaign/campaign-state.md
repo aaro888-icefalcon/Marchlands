@@ -23,21 +23,11 @@
 ## Chaos Factor: 3
 _(1–9; −1 if PC mostly in control, +1 if chaotic. **Harrowmark/deep-Heath floor: CF ≥ 6** in the deep barrow-Heath. adventure.json tens=1.)_
 
-## Threads List (snapshot of `threads.json`; weighted ≤3)
-1. **Survive the Heath and reach the Wardmoor crossing.** — w3
-2. **The barrow-dead reach off the Heath** — something cold is killing on the river road. _(new plotline, Turning Point)_ — w3
-3. **Find Akhil and the taken** — Net sells drift-come at **Mereholt ford, dark of the moon** (lead torn but known). — w2
-4. **The Low-Barrow Net** — regional slaver outfit hunting the barrow-road. — w2
-5. _(bg)_ **Coronation** by midwinter or Hethrun fractures. [6/12] — w1
-6. _(bg)_ **The dead under the Heath are stirring.** [Barrow-Folk Stir 2/6] — w1
-
-## Characters List (snapshot of `characters.json`; weighted ≤3; PC not listed)
-1. **Hroth Soot-Hand & the Low-Barrow Net** — slaver outfit; a missing-man sweep is out for the scout you killed. — w2
-2. **The captured New Yorkers** — Tara, Rachel, Ben, Marcus, Owen, Leah — bound for Mereholt. — w1
-3. **The Heath / the stirring barrow-dead.** — w1
-4. **Cwen** — the sensitive child at the river steading who saw through the Mark. — w1
-5. **Aescwynn the Twice-Sold** — Net reader you saved from death; life-debt; **can read the Mark.** — w1
-_(the howe-wight was destroyed this scene — removed)_
+## Threads & Characters Lists — single source of truth is JSON (no hand-synced copy → no drift)
+The Lists live in `threads.json` / `characters.json`, managed with
+`state.py thread|char add|weight|remove <campaign> "<name>"`. **Do not keep a copy in this file.** View:
+- `state.py thread show <campaign>` · `state.py char show <campaign>` · `state.py list-count <campaign>`
+- `state.py render <campaign>` → a Markdown snapshot **generated** from the JSON (for pasting into a recap)
 
 ## Campaign roster
 - **Akhil Rao** — Shake's younger brother, taken by the Mark.
