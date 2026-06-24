@@ -43,6 +43,8 @@
 - Dungeoneer's pack: backpack, caltrops, crowbar, 2 flasks oil, 10 days rations, rope, tinderbox, 10 torches, waterskin
 - **Coin:** 29 gp (no native value) + **6 sp, ~12 cp** (Hethrun coin, taken off the Net scout)  ·  Mount / property: —
 - **Salvage (Net scout, day 1 night):** signal-horn · short bow + ~16 arrows · seax · cut leather jerkin · tinderbox · flask of spirit · **bog-iron Net token** (knot-and-noose brand — a crude "one of theirs" pass)
+- **Salvage (Net transport, day 2):** ash-shafted iron-tipped spear · wax-greased heavy cloak (cold protection) · 2 sacks travel food · a fist of mixed coin · **Net waybill/manifest** (the caged awakened → Mereholt ford → the Stonebay buyer)
+- **Spell slots used today:** Shield + Cure Wounds (2 of 3 first-level) — **1 left** until a long rest. Invisibility (1/day) + Heroic Inspiration available.
 - **Lead (intel scrap):** *"Stonebay man — Mereholt ford — dark o' moon"* + a captive head-count (a dozen+). The Net sells drift-come to a Stonebay buyer at **Mereholt ford on the new moon.** Likely route for the taken New Yorkers (and a thread on Akhil).
 
 ## Ties (seed the Lists at Session Zero)
