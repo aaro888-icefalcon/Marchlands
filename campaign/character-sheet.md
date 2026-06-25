@@ -53,6 +53,7 @@
 - **AC 16** (breastplate, DEX cap +2); **AC 18** with shield readied; unarmored 12. *(Breastplate takes ~5 min to don — buckle on at a safe halt.)*
 - **Spellcasting focus RESTORED** (the tool-kit) → **magic is back online.** Cast **Guidance** (cantrip) + **Silent Image** (1st-level → 1 slot spent) during the escape; **2× 1st-level slots remain** (no long rest yet). Prepared/known 1st: Cure Wounds, Shield, Heroism, False Life, Absorb Elements, Silent Image. Cantrips at will.
 - **Mundane longsword caveat:** Battle Ready (INT to-hit/damage) only applies to **magic** weapons — with a plain longsword he's STR-based (STR 8 → +1 to hit, 1d8−1). He is **not** a melee threat to anything heavy until he gets a magic weapon or makes one.
+- **Shape Shadows (Mark of Shadow):** **Invisibility 1/long rest** — free (no slot), CHA-based, concentration ≤1 hr, drops the instant he attacks or casts; hides only himself. **AVAILABLE (unused).** *(Pass without Trace unlocks at level 5 — not yet.)*
 - **Companions still unsummoned:** **Samosa** needs smith's tools + a long rest; **Daegon** needs Find Familiar (10 gp components, 1 hr). Both are recovery goals.
 - **Traveling with Sefa** (young ex-Crown guard, owes him her life).
 - **What he always has:** his mind and full medical/scientific knowledge (germ theory, anatomy, triage, pharmacology, public health), lapsed TKD, military-history/RPG-literacy — leverage against people, near-useless against the Heath's horrors.
