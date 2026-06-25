@@ -6,19 +6,32 @@
    "weight": 2
   },
   {
-   "name": "The Crossing — ~8 million New Yorkers torn into Hethrun in one black second; what did it, and is there a way home?"
+   "name": "The Crossing — ~8 million New Yorkers torn into Hethrun in one black second; what did it, and is there a way home?",
+   "weight": 1
   },
   {
-   "name": "Count Edmund wants the strangers dead — pressing the Crown for the authority to put the drift-come to the sword [clock 0/6]"
+   "name": "Count Edmund wants the strangers dead — pressing the Crown for the authority to put the drift-come to the sword [clock 0/6]",
+   "weight": 1
   },
   {
-   "name": "Stonebay wants to own them — Ranulf's agents work the intake to buy or steal the strangers for the eastern markets [clock 0/6]"
+   "name": "Stonebay wants to own them — Ranulf's agents work the intake to buy or steal the strangers for the eastern markets [clock 0/6]",
+   "weight": 1
   },
   {
-   "name": "The Crown just wants the headache gone — indifferent to your fate, but it will NOT let Stonebay have you, nor wear Edmund's massacre"
+   "name": "The Crown just wants the headache gone — indifferent to your fate, but it will NOT let Stonebay have you, nor wear Edmund's massacre",
+   "weight": 1
   },
   {
-   "name": "Find your people — the others the Crossing scattered across the realm; whoever you're looking for"
+   "name": "Find your people — the others the Crossing scattered across the realm; whoever you're looking for",
+   "weight": 1
+  },
+  {
+   "name": "Conflated with the Stonebay 'brigands' — the PC was taken among men the Crown calls rebels and Stonebay calls lawful tithe-men; that dispute colors what the PC is taken to be",
+   "weight": 1
+  },
+  {
+   "name": "Mossdrowen conscripts — the wood-wardens want bodies for the failing frontier; a hard road out of Crown custody",
+   "weight": 1
   }
  ]
 }

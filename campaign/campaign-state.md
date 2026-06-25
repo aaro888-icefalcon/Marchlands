@@ -30,7 +30,9 @@
 4. Stonebay wants to own them — Ranulf's agents work the intake to buy or steal the strangers for the eastern markets [clock 0/6]
 5. The Crown just wants the headache gone — indifferent to your fate, but it will NOT let Stonebay have you, nor wear Edmund's massacre
 6. Find your people — the others the Crossing scattered across the realm; whoever you're looking for
-_Σ weighted slots = 7_
+7. Conflated with the Stonebay 'brigands' — the PC was taken among men the Crown calls rebels and Stonebay calls lawful tithe-men; that dispute colors what the PC is taken to be
+8. Mossdrowen conscripts — the wood-wardens want bodies for the failing frontier; a hard road out of Crown custody
+_Σ weighted slots = 9_
 
 ## Characters List — generated snapshot of characters.json (do not hand-edit)
 1. Reeve Godric — the Crown's man running the intake at the Reach; tired, shrewd, wants the strangers off his ledger — and won't let Stonebay's buyers near them  _(weight 2)_
@@ -39,21 +41,29 @@ _Σ weighted slots = 7_
 4. Sefa — a young Crown guard at the intake; decent, low on the ladder, a possible crack in the wall
 5. The other strangers — fellow New Yorkers in Crown custody (a nurse, a paralegal, a kid alone, and more)
 6. Count Edmund — the hard-line lord whose March crowds the Reach; wants the strangers executed
-7. Ranulf of Stonebay — the eastern power who wants to acquire the strangers; works through agents
-_Σ weighted slots = 8_
+7. Duke Ranulf of Stonebay — lord of the eastern duchy; wants the strangers, and now claims the captured 'brigands' were his lawful tithe-men
+8. A Stonebay noble — at the intake; contends the captured men lawfully gathered Duke Ranulf's tithe (not raided), and presses to have them — and the strangers — released to Stonebay
+9. The Stonebay brigands/rebels — captured men the PC was lumped in with; the Crown calls them rebels, Stonebay calls them lawful tithe-collectors
+10. Mossdrowen wardens — wood-watch at the intake, looking to conscript strangers and captives to hold the failing frontier
+_Σ weighted slots = 11_
 
 <!-- LISTS:END -->
 
 ## PC status — to be built at the Crown's intake (see character-sheet.md)
 
 ## SCENE 1 — the Crown's intake at the Reach (First Scene; never Scene-Tested) — ACTIVE
-The PC, one of a flood of strangers, reaches the front of the Crown's intake line. Godric's people process
-them while Edmund's factor (Hask) argues for the noose and Stonebay's buyer circles for a deal or a snatch.
-**Character creation = the intake questions** (name · who you were · what your hands can do · what crossed over).
+The PC reaches the front of the Crown's intake line — and has been **lumped in with captured "brigands and
+rebels from Stonebay."** Around the table: **Reeve Godric** (Crown — wants them gone, not to Stonebay, not a
+massacre); **Hask** (Count Edmund's man — argues for hanging the lot); a **Stonebay noble** contending the
+captured were no brigands but men **lawfully gathering Duke Ranulf's tithe** — so Stonebay should have them,
+and the strangers besides; and **Mossdrowen wardens** angling to **conscript** bodies for the failing
+frontier. **Character creation = the intake questions** (name · who you were · what your hands can do · what
+crossed over). **Player has not answered the intake yet — resume here.**
 
 ## Clocks (live world ledger)
 - **Edmund's push to execute the strangers** — 0/6
-- **Stonebay's play to take the strangers** — 0/6
+- **Stonebay's play to take the strangers** (now doubled by the "lawful tithe" claim over the captured "brigands") — 0/6
+- **Mossdrowen conscription drive** — soft pressure; the wardens want bodies for the failing frontier
 - **(background)** the realm is unsettled and the Crown is stretched — which is *why* it wants the strangers to become someone else's problem.
 
 ## Story so far
