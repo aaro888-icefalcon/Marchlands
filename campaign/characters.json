@@ -2,48 +2,26 @@
  "kind": "character",
  "entries": [
   {
-   "name": "Maerwyn — cunning-woman of the Old Faith (Veiled Mother); tests by reading, likeliest to cut you loose; her road runs to the Heath [ties §6]",
-   "weight": 3
-  },
-  {
-   "name": "Reeve Godric — holds the Reach for boy-king Hadric; binds by OATH (sworn Crown ward); buried thread: the dragon-blooded king (Vaerelloth)",
-   "weight": 1
-  },
-  {
-   "name": "The Tally-man — one-eyed Bone-Sayer, Ranulf of Stonebay's buyer; binds by COERCIVE CONTRACT; buried thread: the Burning One (Branwald)",
-   "weight": 1
-  },
-  {
-   "name": "Serjeant Brona — Mosswood Warden; binds by ENLISTMENT (oath-of-the-wood); buried thread: the Smokeless Throne / the Sere",
-   "weight": 1
-  },
-  {
-   "name": "Hask — Count Edmund's factor; binds by ENSLAVEMENT (brand & coffle to the Aureothan dig); buried thread: Coelius the Lich",
-   "weight": 1
-  },
-  {
-   "name": "Inquisitor Caine — Codex war-priest; tests for taint by ordeal, and the fire if you fail",
-   "weight": 1
-  },
-  {
-   "name": "The Red Captain — leader of the marauder band penned with you; already reckons the strangers are worth more free than dead",
+   "name": "Reeve Godric — the Crown's man running the intake at the Reach; tired, shrewd, wants the strangers off his ledger — and won't let Stonebay's buyers near them",
    "weight": 2
   },
   {
-   "name": "Sefa — young huscarl, decent and out of her depth; Godric's escape-ally",
-   "weight": 1
+   "name": "Hask — Count Edmund's factor on the ground, arguing loudly that the strangers are a danger best ended now"
   },
   {
-   "name": "The penned drift-come — fellow New Yorkers (a paralegal clinging to his title, a nurse already triaging, a kid with no one)",
-   "weight": 2
+   "name": "Stonebay's buyer — Ranulf of Stonebay's agent at the intake, pricing the strangers and angling to take them east"
   },
   {
-   "name": "The moor-troll — Moor's Hunger made flesh; what the waking Heath drove down on the Reach [§6 catastrophe]",
-   "weight": 1
+   "name": "Sefa — a young Crown guard at the intake; decent, low on the ladder, a possible crack in the wall"
   },
   {
-   "name": "The drift-come takers — hooded, calm, methodical; a bone-stone kindles near a drift-come; they sort and wagon them off [the Hidden Hand]",
-   "weight": 1
+   "name": "The other strangers — fellow New Yorkers in Crown custody (a nurse, a paralegal, a kid alone, and more)"
+  },
+  {
+   "name": "Count Edmund — the hard-line lord whose March crowds the Reach; wants the strangers executed"
+  },
+  {
+   "name": "Ranulf of Stonebay — the eastern power who wants to acquire the strangers; works through agents"
   }
  ]
 }
