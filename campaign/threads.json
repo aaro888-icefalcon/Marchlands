@@ -30,10 +30,6 @@
    "weight": 1
   },
   {
-   "name": "Escape the besieged Reach — free of the pen, but the town is a killing-ground; the five roads out",
-   "weight": 2
-  },
-  {
    "name": "FRONT: A wasting spreads — plague or curse rising from the broken Reach (Working-trace? mass death?), and it does not spare the drift-come [clock 0/6 regional]",
    "weight": 1
   },
@@ -43,6 +39,10 @@
   },
   {
    "name": "FRONT: The Red Captain rises — freed in the chaos, a lone apex working the roads for the scattered drift-come [clock 0/6 regional]",
+   "weight": 1
+  },
+  {
+   "name": "The Hidden Hand — someone harvests drift-come with a bone-stone that finds you; the nurse & the kid were wagoned north out the Reach, and Maerwyn fears them unnamed",
    "weight": 1
   }
  ]

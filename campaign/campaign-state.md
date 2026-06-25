@@ -13,13 +13,13 @@
 - **Discipline:** HARDCORE (no softening; Peril Points OFF) · **Lists:** JSON (single source of truth)
 
 ## CURRENT ADVENTURE: The Crossing at Skellan's Reach
-- **Adventure status:** active — **Scene 1 resolved.** Next: **Scene 2 — flight through the besieged Reach** (Scene-Test it).
+- **Adventure status:** active — **Scene 2 resolved** (escaped the Reach). Now: **Scene 3 — the north road with Maerwyn** (Expected scene).
 - **Theme priority (adventure.json):** Tension · Mystery · Action · Social · Personal (tens=0) — `state.py adventure show`
 - **The Crossing:** in one black second ~8 million New Yorkers were torn across the realm in **clusters**. A cluster landed on/around the Reach; the terrified town **penned the strangers.** The Working rang the realm's old seals like a bell — things stirred.
 - **§6 catastrophe — PLAYED (d10 = 5, "The Moor came down"):** a famished **moor-troll** ("Moor's Hunger") broke the Reach open mid-test. Shown above the PC's weight; **Maerwyn** named the apex and cut Shake loose. The campaign now points down the *fifth* road — the **Old Faith / the Heath** — and into the waking-barrow crisis.
 
-## Chaos Factor: 6
-_(1–9; +1 because Shake ended Scene 1 overwhelmed, wounded, and hauled out on Maerwyn's terms, not his own.)_
+## Chaos Factor: 5
+_(1–9; −1 because Shake decisively and quietly slipped the Reach on his own terms in Scene 2.)_
 
 > **Lists (Threads & Characters):** edit only via `state.py thread|char add|weight|remove`, then run
 > `state.py render <campaign>` to regenerate the block below (do not hand-edit it).
@@ -33,11 +33,11 @@ _(1–9; +1 because Shake ended Scene 1 overwhelmed, wounded, and hauled out on 
 5. Whoever holds the strangers holds Cuthbert's vote — the Reach is Brackenford, the Coronation's wildcard
 6. Find Akhil among the scattered drift-come — Shake's younger brother, somewhere in this flood of strangers
 7. Re-arm — your pack, tools, armour and the road back to Samosa & Daegon lie lost in the mud of the Reach
-8. Escape the besieged Reach — free of the pen, but the town is a killing-ground; the five roads out  _(weight 2)_
-9. FRONT: A wasting spreads — plague or curse rising from the broken Reach (Working-trace? mass death?), and it does not spare the drift-come [clock 0/6 regional]
-10. FRONT: The dead don't lie still — the Crossing's bell woke restless spirits; the Reach's sealed Aureothan undercroft answers [clock 0/6 regional]
-11. FRONT: The Red Captain rises — freed in the chaos, a lone apex working the roads for the scattered drift-come [clock 0/6 regional]
-_Σ weighted slots = 15_
+8. FRONT: A wasting spreads — plague or curse rising from the broken Reach (Working-trace? mass death?), and it does not spare the drift-come [clock 0/6 regional]
+9. FRONT: The dead don't lie still — the Crossing's bell woke restless spirits; the Reach's sealed Aureothan undercroft answers [clock 0/6 regional]
+10. FRONT: The Red Captain rises — freed in the chaos, a lone apex working the roads for the scattered drift-come [clock 0/6 regional]
+11. The Hidden Hand — someone harvests drift-come with a bone-stone that finds you; the nurse & the kid were wagoned north out the Reach, and Maerwyn fears them unnamed
+_Σ weighted slots = 14_
 
 ## Characters List — generated snapshot of characters.json (do not hand-edit)
 1. Maerwyn — cunning-woman of the Old Faith (Veiled Mother); tests by reading, likeliest to cut you loose; her road runs to the Heath [ties §6]  _(weight 3)_
@@ -50,7 +50,8 @@ _Σ weighted slots = 15_
 8. Sefa — young huscarl, decent and out of her depth; Godric's escape-ally
 9. The penned drift-come — fellow New Yorkers (a paralegal clinging to his title, a nurse already triaging, a kid with no one)  _(weight 2)_
 10. The moor-troll — Moor's Hunger made flesh; what the waking Heath drove down on the Reach [§6 catastrophe]
-_Σ weighted slots = 14_
+11. The drift-come takers — hooded, calm, methodical; a bone-stone kindles near a drift-come; they sort and wagon them off [the Hidden Hand]
+_Σ weighted slots = 15_
 
 <!-- LISTS:END -->
 
@@ -74,9 +75,16 @@ with the **Red Captain's marauders**, among scared New Yorkers (paralegal, triag
 - **End-of-scene Front (pressure nat-20 → three Regional threats):** Plague/Curse · Restless Spirits · the Red
   Captain as Lone Apex — now three live 0/6 clocks (Threads 9–11).
 
-## SCENE 2 — pending (frame & Scene-Test next)
-Shake & Maerwyn in a side-lane in the **besieged Reach**, the troll feeding behind them, the town coming apart,
-the five roads the only way out. Player intent open. **Scene-Test on resume:** `dice.py scene 6`.
+## SCENE 2 — Turning Point (Interrupt) — ✅ RESOLVED
+Fleeing for a postern, Shake & Maerwyn came on **the Hidden Hand**: hooded figures calmly sorting the
+drift-come onto a wagon at a side-gate, a **bone-stone that kindles near a drift-come** picking them out —
+the **nurse and the kid** among the taken. Shake chose to **disengage** and follow Maerwyn; a clean Stealth
+exit (23) slipped them out the north postern. The wagon rolled north with his people; he carries it.
+
+## SCENE 3 — the north road with Maerwyn (Expected) — ACTIVE
+Out of the Reach on the cart-track north, frost and dark, the town burning behind. First chance to breathe,
+tend the claw-wound, and reckon with the cunning-woman who claimed him: what she is, what "the Mother's"
+costs, where this road runs, and what she would not name back in the yard.
 
 ## Clocks (live world ledger)
 - **Moor's Hunger / the Heath wakes** [§6 apex] — **1/8** (the troll reached the Reach and drew blood)
