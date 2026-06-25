@@ -2,7 +2,11 @@
  "kind": "thread",
  "entries": [
   {
-   "name": "Survive the Crown's intake — a stranger in Crown custody at the Reach; what they decide you are decides whether you walk, work, or hang",
+   "name": "Moor's Hunger — the Heath is waking; the famished Moor that broke the Reach is one sign, and something older stirs under the heather [campaign spine]",
+   "weight": 2
+  },
+  {
+   "name": "The barrows wake — Howe-Stirring; the Crossing's Working cracked the old howe-seals and the restless dead are rising on the eastern heath [clock 0/4]",
    "weight": 2
   },
   {
@@ -10,27 +14,23 @@
    "weight": 1
   },
   {
-   "name": "Count Edmund wants the strangers dead — pressing the Crown for the authority to put the drift-come to the sword [clock 0/6]",
+   "name": "Find your people — brother Akhil and the friends/family the Crossing may have scattered into Hethrun",
    "weight": 1
   },
   {
-   "name": "Stonebay wants to own them — Ranulf's agents work the intake to buy or steal the strangers for the eastern markets [clock 0/6]",
+   "name": "The drift-come scatter east — survivors of the Reach disperse along the Stonebay road, prey for slavers and Ranulf's agents; your people are out there, unprotected",
    "weight": 1
   },
   {
-   "name": "The Crown just wants the headache gone — indifferent to your fate, but it will NOT let Stonebay have you, nor wear Edmund's massacre",
+   "name": "Stonebay traffics in strangers — you're walking east, into the duchy that wanted to buy the drift-come; Ranulf's reach grows the closer you get",
    "weight": 1
   },
   {
-   "name": "Find your people — the others the Crossing scattered across the realm; whoever you're looking for",
+   "name": "The stranger who does magic — you cast light and walls before a hundred witnesses; word of a drift-come with power is now spreading, and the realm fears sorcerer-strangers as demons",
    "weight": 1
   },
   {
-   "name": "Conflated with the Stonebay 'brigands' — the PC was taken among men the Crown calls rebels and Stonebay calls lawful tithe-men; that dispute colors what the PC is taken to be",
-   "weight": 1
-  },
-  {
-   "name": "Mossdrowen conscripts — the wood-wardens want bodies for the failing frontier; a hard road out of Crown custody",
+   "name": "Sefa, unmoored — a Crown guard who walked off her post beside a stranger; what she is now, and whether she stays",
    "weight": 1
   }
  ]

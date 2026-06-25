@@ -48,12 +48,14 @@
 ## Familiar — Daegon (NOT currently summoned)
 - Falcon/hawk (owl reskin). **Requires Find Familiar (10 gp components, 1 hr) — unavailable at intake.**
 
-## ⚠ CURRENT STATE AT INTAKE (what's true right now)
-- **Bound, slim, unarmed, no armor.** Wearing the clothes he crossed in (modern, conspicuously strange to the Reach).
-- **No equipment** crossed: no breastplate, +1 shield, +1 longsword, dagger, tools, piano, dungeoneer's pack, or 29 gp. **AC is unarmored (10 + DEX 2 = 12), no weapon in hand.**
-- **No spellcasting focus.** Artificer casting requires a tool focus in hand; with no tools, his Artificer spells (Cure Wounds, Shield, Heroism, etc.) and Find Familiar are **locked** until he gets tools/components. Verbal/somatic-only cantrips may be arguable case-by-case (adjudicate in play).
-- **No companions present** (Samosa unsummoned, Daegon unsummoned).
-- **What he DOES have:** his mind and full medical/scientific knowledge (germ theory, anatomy, triage, pharmacology, public health), lapsed TKD training, military-history/RPG-literacy, and the latent class capacity to rebuild all of the above once he has tools, components, and a safe hour.
+## ⚠ CURRENT STATE (post-Reach, on the barrow-heath)
+- **Re-armed** from the confiscated-kit cart during the siege (all **plain/mundane**, not his enchanted kit): **longsword, shield, breastplate, backpack, a tool-kit.** Still wearing the modern clothes he crossed in under the armor.
+- **AC 16** (breastplate, DEX cap +2); **AC 18** with shield readied; unarmored 12. *(Breastplate takes ~5 min to don — buckle on at a safe halt.)*
+- **Spellcasting focus RESTORED** (the tool-kit) → **magic is back online.** Spent **Guidance + Silent Image** during the escape; **3× 1st-level slots remain** (Cure Wounds, Shield, Heroism, False Life, Absorb Elements, Silent Image). Cantrips at will.
+- **Mundane longsword caveat:** Battle Ready (INT to-hit/damage) only applies to **magic** weapons — with a plain longsword he's STR-based (STR 8 → +1 to hit, 1d8−1). He is **not** a melee threat to anything heavy until he gets a magic weapon or makes one.
+- **Companions still unsummoned:** **Samosa** needs smith's tools + a long rest; **Daegon** needs Find Familiar (10 gp components, 1 hr). Both are recovery goals.
+- **Traveling with Sefa** (young ex-Crown guard, owes him her life).
+- **What he always has:** his mind and full medical/scientific knowledge (germ theory, anatomy, triage, pharmacology, public health), lapsed TKD, military-history/RPG-literacy — leverage against people, near-useless against the Heath's horrors.
 
 ## Ties (seed the Lists)
 - **Looking for:** brother Akhil, and any of the friends/family the Crossing may have scattered into Hethrun.
