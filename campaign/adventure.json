@@ -1,10 +1,10 @@
 {
  "theme_order": [
-  "Tension",
-  "Social",
-  "Mystery",
   "Action",
-  "Personal"
+  "Social",
+  "Tension",
+  "Personal",
+  "Mystery"
  ],
  "tens": 1,
  "style": "intrigue"
