@@ -1,14 +1,15 @@
 # Character Sheet — Abhishek "Shake" Rao   (D&D 2024 / 5.5e · Marchlands drift-come PC)
 
-> **⛓️ COLD-OPEN STATUS (the Crossing → the pen at Skellan's Reach):** Torn out of New York in the
-> Crossing and woke **bound** in a Reach holding-pen, wrists roped, a sack-hood just pulled off —
-> **conflated with the Red Captain's marauders** and condemned. **Gear confiscated** onto the raiders'
-> kit-cart (his drift-come longsword / shield / breastplate / tools / pack got lumped with the band's
-> seized steel — §8). **Samosa not yet manifested · Daegon not yet summoned** (both return once he is
-> free, re-tooled, and can take a rest). **Bound hands + no focus → no reliable spellcasting in the pen.**
-> His live edge is the surgeon's nerve and modern know-how (triage, how a mob turns, how to talk a scared
-> man down) — leverage against people, worthless against what §6 drags in. The full build below is intact
-> and returns as he re-arms.
+> **🩸 STATUS (after Scene 1 — escaped the besieged Reach):** Freed when a **moor-troll** ("Moor's Hunger," §6)
+> broke the Reach open mid-test. The Old-Faith cunning-woman **Maerwyn** cut him loose, named the apex, and
+> hauled him out — he fled **with** her, throwing in toward the Heath / Old-Faith road ("you're the Mother's
+> now"). Went back into the troll's kill-zone for his confiscated gear and got only his **+1 longsword** clear —
+> **lost the pack, all tools, dagger, breastplate and +1 shield** in the mud. Took a claw across the back fleeing.
+> **HP 17/24 · unarmoured (AC 12) · half-armed · bleeding · in debt to Maerwyn.**
+> **⚙️ Magic locked:** no arcane focus and **no tools** (tools were his Battle-Smith spellcasting focus) → he
+> **cannot reliably cast**, and **cannot re-form Samosa or re-summon Daegon**, until he recovers/replaces a
+> focus & tools. His live edge remains the surgeon's nerve and modern know-how. The full build below stands —
+> and returns *only* as he re-arms.
 
 - **Name / concept:** Abhishek "Shake" Rao — frontline rune-knight. A sword-and-shield Battle Smith whose craft is battlefield medicine made arcane: subtle rune magic, an enchanted Steel Defender (the German Shepherd **Samosa**), and a falcon familiar (**Daegon**).
 - **Drift-come origin:** Indian-American, 30, vascular surgery chief resident at NYU (Tisch / Bellevue / the VA). Lived in Manhattan hospital housing; from Newark, Delaware. Pulled from New York by the Crossing. **What crossed over:** a surgeon's hands and unshakeable composure under pressure — read here as uncanny healing and rune-craft — plus the bonded constructs/spirits and the rune-gear that manifested with the awakening. No native coin; speaks Common (he understands the local Hethrun-Saxon tongue) and Elvish.
@@ -23,10 +24,10 @@
 - **Senses:** passive Perception 13  ·  **Languages:** Common, Elvish
 
 ## Defense & health
-- **AC:** 19 (breastplate + +1 shield)  ·  **Initiative:** +2  ·  **Speed:** 30 ft.
-- **HP:** 24 / 24  ·  **Hit Dice:** 3d8
+- **AC:** 12 (unarmoured — breastplate & +1 shield lost at the Reach)  ·  **Initiative:** +2  ·  **Speed:** 30 ft.
+- **HP:** 17 / 24  ·  **Hit Dice:** 3d8 (unused)
 - **Death saves:** ☐☐☐ success / ☐☐☐ fail
-- **Lingering injuries (5.5e §20):** none
+- **Lingering injuries (5.5e §20):** none mechanical — four claw-furrows raked across the back (untended; within HP)
 
 ## Combat
 - **+1 Longsword:** +6 to hit, 1d8+4 slashing  (INT for atk/dmg via Battle Ready)
@@ -45,17 +46,18 @@
 - **Force-Empowered Rend:** +5 to hit, 1d8+5 force
 - **Repair (3/day):** heal a construct/object 2d8+3
 - **Deflect Attack (reaction):** impose disadvantage when a creature within 5 ft. attacks a target other than Samosa
-- _Cold-open: not manifested. Re-form with smith's tools over a long rest once free & re-equipped._
+- _LOST ACCESS: smith's tools gone in the mud at the Reach — **cannot re-form Samosa** until tools are recovered or replaced._
 
 **Daegon — falcon familiar** (Find Familiar; hawk/falcon reskin of the owl) — scout, Help action, shared senses.
-- _Cold-open: not summoned. Re-cast Find Familiar (1/day) once free._
+- _Not summoned. Find Familiar needs a focus + 10 gp of components (charcoal/incense/herbs) — unavailable until re-equipped._
 
 ## Kit & wealth
-- **Confiscated onto the raiders' kit-cart (§8):** breastplate · +1 shield · +1 longsword · dagger · thieves' tools · tinker's tools · smith's tools · woodcarver's tools · dungeoneer's pack (backpack, caltrops, crowbar, 2 flasks oil, 10 days rations, rope, tinderbox, 10 torches, waterskin)
+- **RECOVERED (Scene 1 — the one thing he got clear):** **+1 longsword**, cloth-wrapped.
+- **LOST in the mud of the Reach (Scene 1 — went back for the cart, failed the grab):** breastplate · +1 shield · dagger · thieves' tools · tinker's tools · smith's tools · woodcarver's tools · dungeoneer's pack (backpack, caltrops, crowbar, 2 flasks oil, 10 days rations, rope, tinderbox, 10 torches, waterskin). ⚙️ Recovering/replacing the **tools** is the road back to Samosa, Daegon, and a casting focus.
 - _(left in his old life: the piano, costume, fine clothes)_
 - **Coin:** 29 gp (New York — no native value here)  ·  no Hethrun coin yet  ·  Mount / property: —
-- **On his person in the pen:** the clothes he crossed over in, his wits, and whatever the rope hasn't taken.
-- **Spell slots used:** none — full (3× 1st). Invisibility (1/day) + Heroic Inspiration available. _(All moot while bound & focus-less.)_
+- **On his person now:** the +1 longsword, the clothes he crossed over in (cut & bloodied across the back), his wits. No coin, no focus, no tools, no pack.
+- **Spell slots:** full (3× 1st). Invisibility (1/day) + Heroic Inspiration available. _(Effectively locked — no focus/tools to cast with until re-equipped.)_
 
 ## Ties (seed the Lists at Session Zero)
 - **Bonds / goals:** Find the people the Crossing took — above all his younger brother **Akhil** (med student, Mount Sinai; the one he'd miss day-to-day), now scattered somewhere among the drift-come. Understand the Crossing and whether the drift can be undone. Find a place in this world.
