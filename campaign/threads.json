@@ -2,31 +2,35 @@
  "kind": "thread",
  "entries": [
   {
-   "name": "Escape the Reach — bound and condemned in the pen; the five roads are the only way out [this scene]",
+   "name": "Survive the Crown's intake — a stranger in Crown custody at the Reach; what they decide you are decides whether you walk, work, or hang",
    "weight": 2
   },
   {
-   "name": "Moor's Hunger — the Heath is waking; the famished moor-troll it drove onto the Reach is the least of what's coming [§6 apex]",
-   "weight": 2
-  },
-  {
-   "name": "What was the Crossing — ~8 million New Yorkers torn across the realm in one black second — and is there a way home?",
+   "name": "The Crossing — ~8 million New Yorkers torn into Hethrun in one black second; what did it, and is there a way home?",
    "weight": 1
   },
   {
-   "name": "Are the drift-come demons? — the faiths will test you, and whose method wins (Codex ordeal vs Old Faith reading) decides if you burn",
+   "name": "Count Edmund wants the strangers dead — pressing the Crown for the authority to put the drift-come to the sword [clock 0/6]",
    "weight": 1
   },
   {
-   "name": "Who holds you, and on what terms — free / bound / owing (the four powers: oath / contract / enlistment / chains)",
+   "name": "Stonebay wants to own them — Ranulf's agents work the intake to buy or steal the strangers for the eastern markets [clock 0/6]",
    "weight": 1
   },
   {
-   "name": "Whoever holds the strangers holds Cuthbert's vote — the Reach is Brackenford, the Coronation's wildcard",
+   "name": "The Crown just wants the headache gone — indifferent to your fate, but it will NOT let Stonebay have you, nor wear Edmund's massacre",
    "weight": 1
   },
   {
-   "name": "Find Akhil among the scattered drift-come — Shake's younger brother, somewhere in this flood of strangers",
+   "name": "Find your people — the others the Crossing scattered across the realm; whoever you're looking for",
+   "weight": 1
+  },
+  {
+   "name": "Conflated with the Stonebay 'brigands' — the PC was taken among men the Crown calls rebels and Stonebay calls lawful tithe-men; that dispute colors what the PC is taken to be",
+   "weight": 1
+  },
+  {
+   "name": "Mossdrowen conscripts — the wood-wardens want bodies for the failing frontier; a hard road out of Crown custody",
    "weight": 1
   }
  ]

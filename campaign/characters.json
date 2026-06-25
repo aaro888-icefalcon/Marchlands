@@ -2,43 +2,43 @@
  "kind": "character",
  "entries": [
   {
-   "name": "Maerwyn — cunning-woman of the Old Faith (Veiled Mother); tests by reading, likeliest to cut you loose; her road runs to the Heath [ties §6]",
+   "name": "Reeve Godric — the Crown's man running the intake at the Reach; tired, shrewd, wants the strangers off his ledger — and won't let Stonebay's buyers near them",
    "weight": 2
   },
   {
-   "name": "Reeve Godric — holds the Reach for boy-king Hadric; binds by OATH (sworn Crown ward); buried thread: the dragon-blooded king (Vaerelloth)",
+   "name": "Hask — Count Edmund's factor on the ground, arguing loudly that the strangers are a danger best ended now",
    "weight": 1
   },
   {
-   "name": "The Tally-man — one-eyed Bone-Sayer, Ranulf of Stonebay's buyer; binds by COERCIVE CONTRACT; buried thread: the Burning One (Branwald)",
+   "name": "Stonebay's buyer — Ranulf of Stonebay's agent at the intake, pricing the strangers and angling to take them east",
    "weight": 1
   },
   {
-   "name": "Serjeant Brona — Mosswood Warden; binds by ENLISTMENT (oath-of-the-wood); buried thread: the Smokeless Throne / the Sere",
+   "name": "Sefa — a young Crown guard at the intake; decent, low on the ladder, a possible crack in the wall",
    "weight": 1
   },
   {
-   "name": "Hask — Count Edmund's factor; binds by ENSLAVEMENT (brand & coffle to the Aureothan dig); buried thread: Coelius the Lich",
+   "name": "The other strangers — fellow New Yorkers in Crown custody (a nurse, a paralegal, a kid alone, and more)",
    "weight": 1
   },
   {
-   "name": "Inquisitor Caine — Codex war-priest; tests for taint by ordeal, and the fire if you fail",
+   "name": "Count Edmund — the hard-line lord whose March crowds the Reach; wants the strangers executed",
    "weight": 1
   },
   {
-   "name": "The Red Captain — leader of the marauder band penned with you; already reckons the strangers are worth more free than dead",
+   "name": "Duke Ranulf of Stonebay — lord of the eastern duchy; wants the strangers, and now claims the captured 'brigands' were his lawful tithe-men",
    "weight": 1
   },
   {
-   "name": "Sefa — young huscarl, decent and out of her depth; Godric's escape-ally",
+   "name": "A Stonebay noble — at the intake; contends the captured men lawfully gathered Duke Ranulf's tithe (not raided), and presses to have them — and the strangers — released to Stonebay",
    "weight": 1
   },
   {
-   "name": "The penned drift-come — fellow New Yorkers (a paralegal clinging to his title, a nurse already triaging, a kid with no one)",
+   "name": "The Stonebay brigands/rebels — captured men the PC was lumped in with; the Crown calls them rebels, Stonebay calls them lawful tithe-collectors",
    "weight": 1
   },
   {
-   "name": "The moor-troll — Moor's Hunger made flesh; what the waking Heath drove down on the Reach [§6 catastrophe]",
+   "name": "Mossdrowen wardens — wood-watch at the intake, looking to conscript strangers and captives to hold the failing frontier",
    "weight": 1
   }
  ]
