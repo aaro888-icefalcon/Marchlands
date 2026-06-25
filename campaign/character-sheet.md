@@ -51,7 +51,7 @@
 ## ⚠ CURRENT STATE (post-Reach, on the barrow-heath)
 - **Re-armed** from the confiscated-kit cart during the siege (all **plain/mundane**, not his enchanted kit): **longsword, shield, breastplate, backpack, a tool-kit.** Still wearing the modern clothes he crossed in under the armor.
 - **AC 16** (breastplate, DEX cap +2); **AC 18** with shield readied; unarmored 12. *(Breastplate takes ~5 min to don — buckle on at a safe halt.)*
-- **Spellcasting focus RESTORED** (the tool-kit) → **magic is back online.** Spent **Guidance + Silent Image** during the escape; **3× 1st-level slots remain** (Cure Wounds, Shield, Heroism, False Life, Absorb Elements, Silent Image). Cantrips at will.
+- **Spellcasting focus RESTORED** (the tool-kit) → **magic is back online.** Cast **Guidance** (cantrip) + **Silent Image** (1st-level → 1 slot spent) during the escape; **2× 1st-level slots remain** (no long rest yet). Prepared/known 1st: Cure Wounds, Shield, Heroism, False Life, Absorb Elements, Silent Image. Cantrips at will.
 - **Mundane longsword caveat:** Battle Ready (INT to-hit/damage) only applies to **magic** weapons — with a plain longsword he's STR-based (STR 8 → +1 to hit, 1d8−1). He is **not** a melee threat to anything heavy until he gets a magic weapon or makes one.
 - **Companions still unsummoned:** **Samosa** needs smith's tools + a long rest; **Daegon** needs Find Familiar (10 gp components, 1 hr). Both are recovery goals.
 - **Traveling with Sefa** (young ex-Crown guard, owes him her life).
