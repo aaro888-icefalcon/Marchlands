@@ -1,6 +1,6 @@
 # Character Sheet — Abhishek "Shake" Rao
 
-> Drift-come New Yorker pulled into Hethrun by the Crossing. English-speaking (common tongue, no
+> Drift-folk New Yorker pulled into Hethrun by the Crossing. English-speaking (common tongue, no
 > barrier). Built diegetically at the Crown's intake, Skellan's Reach. **What crossed over: himself,
 > his mind, his training, his class levels — NOT his gear, NOT his summoned companions.** See
 > "Current state at intake" below.
@@ -14,7 +14,7 @@
 ## Who Shake is (background color)
 - Indian-American man, 30. 5'11", ~140 lb, slim. Manhattan (NYU hospital housing); originally Newark, Delaware.
 - **Family:** dad Bhaskar (vascular surgeon, inventive/scattered/entrepreneurial), mom Sudha (retired general surgeon, grounded), younger brother **Akhil** (med student, Mount Sinai — closest tie, the one he'd miss day-to-day). Cousin/aunt/uncle/grandma in Bergen County, NJ.
-- **Friends (potential drift-come / ties — see "Find your people"):** Denice (OBGYN, Chicago), Alex (radiologist, Philly), Bella (finance), Henry (ophthalmologist, Boston), Saurabh (cardiology, San Diego); coworkers Jason (senior co-resident, wry/blunt), Jessica (junior co-resident, kind/efficient).
+- **Friends (potential drift-folk / ties — see "Find your people"):** Denice (OBGYN, Chicago), Alex (radiologist, Philly), Bella (finance), Henry (ophthalmologist, Boston), Saurabh (cardiology, San Diego); coworkers Jason (senior co-resident, wry/blunt), Jessica (junior co-resident, kind/efficient).
 - **Interests/skills:** heavy reader, action RPGs, military history; former Tae Kwon Do (lapsed). Practical, calm, dry-funny, emotionally contained, blunt when task-focused, gives people autonomy, figures things out under pressure; loop-closing/organization inconsistent.
 
 ## D&D 2024 / 5.5e build
@@ -58,9 +58,9 @@
 - **Daegon — SUMMONED** (falcon familiar; Find Familiar, components scrounged in Stanwic). Scout/senses-sharing/Help; can deliver touch spells. *(Re-summoning later costs 10 gp components again.)*
 - **Samosa — SUMMONED & ACTIVE.** Steel Defender (German Shepherd, subtle runic): Medium construct, AC 15, HP 20, Speed 40, darkvision 60; **Force Rend +5 / 1d8+5 force**, **Repair 3/day (2d8+3)**, **Deflect Attack** (reaction). Devoted; understands his languages. *(Built overnight at Stanwic with Wystan's smith's tools.)*
 - **Smith's tools:** now **carried** (Wystan's parting gift) — supports infusions/Samosa repair on the road.
-- **Company:** Sefa (ex-Crown guard, plans to carry the warning north to the Harrowmark watch), the nurse, the child, the six freed drift-come (indentured/laboring in Stanwic).
+- **Company:** Sefa (ex-Crown guard, plans to carry the warning north to the Harrowmark watch), the nurse, the child, the six freed drift-folk (indentured/laboring in Stanwic).
 - **Always has:** full modern medical/scientific knowledge, lapsed TKD, military-history literacy — leverage vs. people, little vs. the Heath's horrors.
 
 ## Ties (seed the Lists)
 - **Looking for:** brother Akhil, and any of the friends/family the Crossing may have scattered into Hethrun.
-- **Standing here:** an undocumented drift-come stranger in Crown custody, lumped in with captured "Stonebay brigands," name about to go on the Crown's ledger.
+- **Standing here:** an undocumented drift-folk stranger in Crown custody, lumped in with captured "Stonebay brigands," name about to go on the Crown's ledger.

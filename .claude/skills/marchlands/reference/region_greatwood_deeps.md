@@ -2,7 +2,7 @@
 
 ## Essence
 
-The Greatwood Deeps are the old-forest interior beyond Hethrun's wood-road verge — the territory the verge-crofters point at and do not enter. Where `eorldom_mossdrowen.md` ends at the Greatwood verge, this region begins: a roadless expanse of ancient timber running west and south toward the Silvering's true borders. It is not Hethrun's. It is not, quite, anyone's. The Silvering elves hold its margins, the Smokeless Throne courts its hollows, and older things hold its wounded heart. For a Hethrun party this is the first genuinely wild place — a tier-2-to-3 region of fae law, deep quiet, and a forest that remembers being injured. Drift-come hooks, House Hollantun's bargain, and the wood-road's longer mysteries all lead here.
+The Greatwood Deeps are the old-forest interior beyond Hethrun's wood-road verge — the territory the verge-crofters point at and do not enter. Where `eorldom_mossdrowen.md` ends at the Greatwood verge, this region begins: a roadless expanse of ancient timber running west and south toward the Silvering's true borders. It is not Hethrun's. It is not, quite, anyone's. The Silvering elves hold its margins, the Smokeless Throne courts its hollows, and older things hold its wounded heart. For a Hethrun party this is the first genuinely wild place — a tier-2-to-3 region of fae law, deep quiet, and a forest that remembers being injured. Drift-folk hooks, House Hollantun's bargain, and the wood-road's longer mysteries all lead here.
 
 ## Geography and terrain
 
@@ -42,7 +42,7 @@ In the outer wood, a day past the verge, stands **the Sleeping Magistrate** — 
 - Wood-Things and Deepwood Beasts (`bestiary.md`, Groups 2A and 2B — the verge groups deepen and intensify here)
 - Blight spreading outward from the Sere (the further in, the thicker)
 - Smokeless Throne emissaries (offering bargains — the wood's signature temptation)
-- Drift-come who wandered in and did not wander out (the Deeps catch the lost; some are dead, some are changed, a few are alive and want the way home)
+- Drift-folk who wandered in and did not wander out (the Deeps catch the lost; some are dead, some are changed, a few are alive and want the way home)
 - Direction-failure and lost time (the middle wood and the Sere bend travel itself; treat as a recurring non-combat hazard)
 
 ## Place in the campaign

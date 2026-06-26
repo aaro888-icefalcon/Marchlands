@@ -17,32 +17,32 @@ Run every step in order. Every roll is recorded **verbatim** from the table — 
 0. **Inhabitant type, then race.** Two parts.
 
    **0a. Inhabitant type.** GM/AI selects one. No roll.
-   - **Native** — Hethrun-born or naturalized through the regular Hethrun-region origins. Run the procedure as written below. If the dice later land on a drift-come result (Origin step 3 = 12, OR Twist step 5 lands on Hethrun Twist d8 = 1), the NPC is **hidden drift-come** — secretly from Earth, presenting as Hethrun-native. Their American identity is concealed; their public Hethrun identity is the face they wear.
-   - **Transported** — overtly drift-come from Earth. **Skip step 3 (Origin roll)**; Origin is preset to "Drift-come from Earth (overt)." Their status is known to those around them, or at least not actively concealed. **Race is automatically Human** — drift-come arrive from modern Earth where non-human races do not exist as biological reality. Skip step 0b.
+   - **Native** — Hethrun-born or naturalized through the regular Hethrun-region origins. Run the procedure as written below. If the dice later land on a drift-folk result (Origin step 3 = 12, OR Twist step 5 lands on Hethrun Twist d8 = 1), the NPC is **hidden drift-folk** — secretly from Earth, presenting as Hethrun-native. Their American identity is concealed; their public Hethrun identity is the face they wear.
+   - **Transported** — overtly drift-folk from Earth. **Skip step 3 (Origin roll)**; Origin is preset to "Drift-folk from Earth (overt)." Their status is known to those around them, or at least not actively concealed. **Race is automatically Human** — drift-folk arrive from modern Earth where non-human races do not exist as biological reality. Skip step 0b.
 
    **0b. Race (Native only).** d3.
-   - **1**: Non-human. Roll d20 on the **Race table** in the Race section (immediately below the procedure). The rolled race may override step 3 (Origin) and/or modify step 7 (Name) — see the Race section for each race's setting integration and naming guidance. **Non-humans cannot also be drift-come** — if step 3 d12 rolls 12 or step 5 rolls Hethrun Twist d8 = 1, re-roll. Non-humans are native to Hethrun's world.
+   - **1**: Non-human. Roll d20 on the **Race table** in the Race section (immediately below the procedure). The rolled race may override step 3 (Origin) and/or modify step 7 (Name) — see the Race section for each race's setting integration and naming guidance. **Non-humans cannot also be drift-folk** — if step 3 d12 rolls 12 or step 5 rolls Hethrun Twist d8 = 1, re-roll. Non-humans are native to Hethrun's world.
    - **2–3**: Human. No further race roll. Proceed normally.
 1. **Class.** GM picks Underclass / Commoner / Gentry, OR picks a specific d12 table (Criminals, Merchants, Nobility, Tribals, Villagers, Warriors). No roll.
 2. **Role.** d100 on **Random NPC Types** (read the chosen class column) OR d12 on the chosen specific table. Record entry verbatim. This is their current Hethrun station.
 3. **Origin.**
-   - If **Transported** (step 0a): skip this step. Origin is preset to "Drift-come from Earth (overt)."
+   - If **Transported** (step 0a): skip this step. Origin is preset to "Drift-folk from Earth (overt)."
    - If **Native** AND race is **Elf, Dwarf, Gnome, or Dragonborn** (from step 0b): skip this step. Origin is set by race — see the Race section for each race's default origin.
    - If **Native** AND race is **Human, Half-elf, Half-orc, Halfling, or Tiefling**: d12 on **Hethrun origin**. If result = 11, sub-roll d8 on **Foreign origin**. Record verbatim.
-     - For **Human** only: if result = 12, the NPC is **hidden drift-come** — mark the flag. For their public-cover origin (what they claim to locals), re-roll d12 once, ignoring results 11 and 12; record that as the public-facing origin and keep "Drift-come from Earth (concealed)" as the true origin.
-     - For non-human races (Half-elf, Half-orc, Halfling, Tiefling): if result = 12, **re-roll** the d12 — non-humans are native to Hethrun's world and cannot be drift-come.
+     - For **Human** only: if result = 12, the NPC is **hidden drift-folk** — mark the flag. For their public-cover origin (what they claim to locals), re-roll d12 once, ignoring results 11 and 12; record that as the public-facing origin and keep "Drift-folk from Earth (concealed)" as the true origin.
+     - For non-human races (Half-elf, Half-orc, Halfling, Tiefling): if result = 12, **re-roll** the d12 — non-humans are native to Hethrun's world and cannot be drift-folk.
 4. **Appearance — five rolls.** Build (d4), Movement (d6), Clothing (d8), Difference (d12), Mannerism (d20). Record each verbatim.
 5. **Twist gate.** d4. If 1–3, no twist (skip to step 6). If 4, roll d3 to pick category, then the indicated die: **1** → d12 Characteristic Twist; **2** → d10 Hethrun Complication; **3** → d8 Hethrun Twist. Record verbatim.
-   - *If the rolled twist is Hethrun Twist d8 = 1 (Drift-come) AND inhabitant type is **Native** AND race is **Human**: mark the **hidden drift-come** flag (if not already set from step 3). The d12 Hethrun origin already rolled in step 3 becomes their public-cover origin automatically; no re-roll needed.*
-   - *If Hethrun Twist d8 = 1 is rolled AND inhabitant type is **Transported**: re-roll the d8 — the drift-come result is redundant since drift-come is already established as overt.*
-   - *If Hethrun Twist d8 = 1 is rolled AND race is non-human (any race from step 0b other than Human): re-roll the d8 — non-humans are native to Hethrun's world and cannot be drift-come.*
+   - *If the rolled twist is Hethrun Twist d8 = 1 (Drift-folk) AND inhabitant type is **Native** AND race is **Human**: mark the **hidden drift-folk** flag (if not already set from step 3). The d12 Hethrun origin already rolled in step 3 becomes their public-cover origin automatically; no re-roll needed.*
+   - *If Hethrun Twist d8 = 1 is rolled AND inhabitant type is **Transported**: re-roll the d8 — the drift-folk result is redundant since drift-folk is already established as overt.*
+   - *If Hethrun Twist d8 = 1 is rolled AND race is non-human (any race from step 0b other than Human): re-roll the d8 — non-humans are native to Hethrun's world and cannot be drift-folk.*
 6. **Sex.** d2 (1 = male, 2 = female) if not predetermined by Role.
 7. **Name.** Four cases (race may add or override):
-   - **Native human, no drift-come (Origin ≠ 12 AND no Hethrun Twist 1 rolled):** d100 on the Hethrun male or female name table for the chosen sex. Record verbatim.
-   - **Native human, hidden drift-come (Origin = 12 OR Hethrun Twist 1 rolled):** roll BOTH names. d100 on the Hethrun name table for the chosen sex (this is their **public name** — the cover identity locals know). THEN d100 on **American First Names** for the chosen sex + d100 on **American Surnames** (this is their **true name** — concealed Earth identity, kept as secret in the output).
-   - **Transported (overt drift-come, always Human):** d100 on **American First Names** for the chosen sex + d100 on **American Surnames**. Record both. This is their primary name. Locals may use a Hethrunized informal form (GM-improvised in play).
+   - **Native human, no drift-folk (Origin ≠ 12 AND no Hethrun Twist 1 rolled):** d100 on the Hethrun male or female name table for the chosen sex. Record verbatim.
+   - **Native human, hidden drift-folk (Origin = 12 OR Hethrun Twist 1 rolled):** roll BOTH names. d100 on the Hethrun name table for the chosen sex (this is their **public name** — the cover identity locals know). THEN d100 on **American First Names** for the chosen sex + d100 on **American Surnames** (this is their **true name** — concealed Earth identity, kept as secret in the output).
+   - **Transported (overt drift-folk, always Human):** d100 on **American First Names** for the chosen sex + d100 on **American Surnames**. Record both. This is their primary name. Locals may use a Hethrunized informal form (GM-improvised in play).
    - **Native non-human (race from step 0b):** see the Race section for naming guidance. Half-elf, Half-orc, Halfling, and Tiefling use the standard Hethrun name tables (they are raised among humans). Elf, Dwarf, Gnome, and Dragonborn use race-appropriate names — short suggestion lists are provided in the Race section, with notes on whether the NPC has also adopted a Hethrun use-name.
-8. **Previous American life.** Run this step if the NPC is **Transported** OR **Native with hidden drift-come** (Origin = 12 OR Hethrun Twist 1). d100 on **American Previous Jobs**. Record verbatim. This is the modern occupation they held before the Drift; it sits alongside their current Hethrun Role from step 2. For hidden drift-come, this is **concealed** — part of the secret block. (Skip this step for Native, non-drift-come NPCs.)
+8. **Previous American life.** Run this step if the NPC is **Transported** OR **Native with hidden drift-folk** (Origin = 12 OR Hethrun Twist 1). d100 on **American Previous Jobs**. Record verbatim. This is the modern occupation they held before the Drift; it sits alongside their current Hethrun Role from step 2. For hidden drift-folk, this is **concealed** — part of the secret block. (Skip this step for Native, non-drift-folk NPCs.)
 9. **Tag 1.** d100 on the **Character Tag table**. Record tag name.
 10. **Tag 1 sub-rolls (three d3, in order):**
     - 10a. d3 on Tag 1's **Ambitions** — record verbatim.
@@ -61,11 +61,11 @@ Run every step in order. Every roll is recorded **verbatim** from the table — 
     - **Position 5 (identity):** 1 = **-T** (Turbulent), 2 = **-A** (Assertive)
 
     *Example: d2 rolls of 2, 1, 2, 2, 1 → **INFP-T**.*
-14. **Emit the output schema** (below). The Rolled block is filled strictly from steps 0–13 — no invention. Hidden drift-come content goes in the Secret sub-block, flagged as not known to the PCs. The Agenda block is composed per the **Agenda derivation rules**. Every NPC carries a **Dormant Clock** — a concrete offscreen action drawn from their rolled Ambition + Power + Dread + the scene location, that would impact the location regardless of PC involvement. **WANT is composed last**, after the Dormant Clock and all other Agenda fields are in place; it is the convergence of Temperament, both rolled Ambitions, the Twist if any, Role, Origin, inhabitant type, the Dormant Clock, and the current scene.
+14. **Emit the output schema** (below). The Rolled block is filled strictly from steps 0–13 — no invention. Hidden drift-folk content goes in the Secret sub-block, flagged as not known to the PCs. The Agenda block is composed per the **Agenda derivation rules**. Every NPC carries a **Dormant Clock** — a concrete offscreen action drawn from their rolled Ambition + Power + Dread + the scene location, that would impact the location regardless of PC involvement. **WANT is composed last**, after the Dormant Clock and all other Agenda fields are in place; it is the convergence of Temperament, both rolled Ambitions, the Twist if any, Role, Origin, inhabitant type, the Dormant Clock, and the current scene.
 
 **Rule on the rolled entries:** AMBITION, POWER, and DREAD are each filled by **both** tags' d3 results — listed in parallel, both verbatim. There is no "pick whichever tag fits better." Both are in play. Temperament colors *how* those entries manifest in dialogue and decision; it does not replace them. WANT is the convergence point — it is composed last because every prior roll feeds it.
 
-**Rule on hidden drift-come:** For Native NPCs whose dice surface drift-come status, the Earth identity is a **secret** — it is real (the dice say so), but the NPC presents as Hethrun-native to PCs and to most NPCs around them. Their public Hethrun name, public-cover origin, and outward behavior carry the cover. Their true American name, true origin, and previous American life sit in the Secret sub-block of the output and surface only through investigation, mistakes, accumulated trust, or exposure events. Drift-come knowledge they carry (Earth-facts, modern concepts) is often a POWER they use covertly, and exposure is often a DREAD that drives the scene.
+**Rule on hidden drift-folk:** For Native NPCs whose dice surface drift-folk status, the Earth identity is a **secret** — it is real (the dice say so), but the NPC presents as Hethrun-native to PCs and to most NPCs around them. Their public Hethrun name, public-cover origin, and outward behavior carry the cover. Their true American name, true origin, and previous American life sit in the Secret sub-block of the output and surface only through investigation, mistakes, accumulated trust, or exposure events. Drift-folk knowledge they carry (Earth-facts, modern concepts) is often a POWER they use covertly, and exposure is often a DREAD that drives the scene.
 
 ---
 
@@ -134,7 +134,7 @@ A White Mountains foothill people, allied to the dwarves but distinct. Tinkers, 
 
 A dragonborn in Hethrun is exotic. Three lineages are possible: (1) a far-eastern visitor from the Jade Throne or beyond, where dragonborn lineages are recognized aristocracies; (2) a Tihatchee-touched lineage — descendant of someone who accepted Vaerelloth's blessing in the Mtosi cult or before, the heritage now showing in the third or fourth generation; (3) a Vaerelloth-direct bloodline, two or three generations from the dragon herself, extremely rare and politically dangerous to acknowledge. Immediately recognizable to anyone — most Hethrunfolk will never have seen one. The Codex calls them "wyrm-touched" and is genuinely uncertain whether they are people or symptoms. The Old Faith leaves them entirely alone.
 
-- **Origin (override step 3):** "Jade Throne / far-eastern" (most common) / "Tihatchee (Mtosi cult lineage)" / "White Mountains (Vaerelloth-bloodline; deeply concealed)" — GM picks per role. If Vaerelloth-bloodline, the lineage itself is treated as a secret comparable to hidden drift-come.
+- **Origin (override step 3):** "Jade Throne / far-eastern" (most common) / "Tihatchee (Mtosi cult lineage)" / "White Mountains (Vaerelloth-bloodline; deeply concealed)" — GM picks per role. If Vaerelloth-bloodline, the lineage itself is treated as a secret comparable to hidden drift-folk.
 - **Name:** dragon-tongue or far-foreign. Suggested examples: *Akra, Vex, Drahzin, Sora-of-Smoke, Kharvol, Mehen, Surina, Talisanth, Rezmir, Aurnen.*
 
 ### Tiefling
@@ -309,7 +309,7 @@ Where they're from. Roll d12. Sub-roll d8 on the foreign table if the result is 
 | 9 | **One of the independent thanedoms** — sub-roll: 1–2 Hollowford March (displaced or Edmund's man), 3 Saltwick, 4 Wardmoor, 5 Eldfield, 6 Hartshaw or Stormness |
 | 10 | **Wessmark or a vassal duchy** — Saxon-purer, the High King's realm, looks faintly down on Norse-Hethrun ways |
 | 11 | **Foreign** — sub-roll on the **Foreign origin** table below |
-| 12 | **Drift-come** — an isekai arrival, here for weeks or months, still half-stunned, names and customs not quite right |
+| 12 | **Drift-folk** — an isekai arrival, here for weeks or months, still half-stunned, names and customs not quite right |
 
 ### d8 foreign origin (rolled on Origin = 11)
 
@@ -444,7 +444,7 @@ Roll d4. On a **4**, roll d3 to pick a category, then roll the chosen table. On 
 | 4 | Lost a kinsman, a boat, or a village to the recent unidentified North Coast raids |
 | 5 | Have been quietly noticed by Severin's Codex bishopric — visits, questions, a list of names |
 | 6 | Caught between the Old Faith and the Codex, must conceal one to live with the other |
-| 7 | A drift-come neighbor appeared from nowhere months ago and is asking the wrong questions |
+| 7 | A drift-folk neighbor appeared from nowhere months ago and is asking the wrong questions |
 | 8 | The Coronation crisis is about to cost them their patron — pick a side or be left under no one's roof |
 | 9 | An Aurelio Maron / House Tassard caravan-factor has been pressing them with strangely generous offers |
 | 10 | They've been having dreams — the Heath, the barrows, a chant they don't know but can sing |
@@ -453,7 +453,7 @@ Roll d4. On a **4**, roll d3 to pick a category, then roll the chosen table. On 
 
 | Roll | Twist |
 |------|-------|
-| 1 | **Drift-come** — an isekai arrival; their grasp of Hethrun customs is patchy, their accent wrong, their assumptions all off |
+| 1 | **Drift-folk** — an isekai arrival; their grasp of Hethrun customs is patchy, their accent wrong, their assumptions all off |
 | 2 | **Aelfric's war veteran** — fought in the late king's last campaign against Aurean encroachment; carries the scars and the politics |
 | 3 | **Covert Old Faith devotee** — Codex on Sundays, Veiled Mother or Sky-Father at the season-rites, terrified of exposure |
 | 4 | **Bone-Sayer informant** — sells small reports to Edrid's people for small coin; doesn't think of themselves as a spy |
@@ -676,9 +676,9 @@ Hethrun names blend Saxon, Norse, and Roman-remnant elements. Saxon dominates th
 
 ---
 
-## American names — Drift-come
+## American names — Drift-folk
 
-Use these tables instead of the Hethrun lists when the NPC is **Drift-come** (Origin step 3 = 12 OR Twist step 5 = Hethrun Twist d8 = 1). Roll d100 on the first-name table for the chosen sex, then d100 on the surname table. The result is the name the NPC carried in the world before; locals may have Hethrunized it ("Jen" becomes "Genovere," "Mike" stays "Mike").
+Use these tables instead of the Hethrun lists when the NPC is **Drift-folk** (Origin step 3 = 12 OR Twist step 5 = Hethrun Twist d8 = 1). Roll d100 on the first-name table for the chosen sex, then d100 on the surname table. The result is the name the NPC carried in the world before; locals may have Hethrunized it ("Jen" becomes "Genovere," "Mike" stays "Mike").
 
 ### American male first names (d100)
 
@@ -991,7 +991,7 @@ Use these tables instead of the Hethrun lists when the NPC is **Drift-come** (Or
 
 ---
 
-## American Previous Jobs (d100) — Drift-come
+## American Previous Jobs (d100) — Drift-folk
 
 The modern occupation this NPC held back in America before the Drift took them to Hethrun. Held for at least a couple of years; this is the work they would describe if asked "what did you do back home?" and the skill-set they carried across. Sits alongside their current Hethrun Role from step 2 — the two are often awkwardly mismatched.
 
@@ -1106,17 +1106,17 @@ Every NPC rolls two character tags. For each tag, three further d3 rolls produce
 
 ### Output schema
 
-The output has two zones. The **Rolled** zone is filled strictly from the dice. The **Agenda** zone is composed per the derivation rules below — each field is a pointer to specific rolled content plus, where unavoidable, one short scene-aware addition. Hidden drift-come content sits in a **Secret** sub-block at the bottom of the Rolled zone, flagged as not known to PCs.
+The output has two zones. The **Rolled** zone is filled strictly from the dice. The **Agenda** zone is composed per the derivation rules below — each field is a pointer to specific rolled content plus, where unavoidable, one short scene-aware addition. Hidden drift-folk content sits in a **Secret** sub-block at the bottom of the Rolled zone, flagged as not known to PCs.
 
 ```
 === ROLLED ===
-Inhabitant type: [step 0a — "Native" / "Transported (overt drift-come)" / "Native — hidden drift-come"]
+Inhabitant type: [step 0a — "Native" / "Transported (overt drift-folk)" / "Native — hidden drift-folk"]
 Race:            [step 0b — "Human" / "Half-elf" / "Half-orc" / "Elf" / "Dwarf" / "Halfling" / "Gnome" / "Dragonborn" / "Tiefling"]
 Name (public):   [step 7 — Hethrun name for Native human; race-appropriate name (with optional Hethrun use-name) for Elf / Dwarf / Gnome / Dragonborn; Hethrun name for Half-elf / Half-orc / Halfling / Tiefling; American first + surname for Transported]
 Sex:             [step 6 — d2]
 Role:            [step 2 — d100 or d12 entry, verbatim]
-Origin (public): [step 3 — d12 entry for Native non-drift-come humans and the human-raised non-humans (Half-elf, Half-orc, Halfling, Tiefling); race-set origin for Elf (Silvering), Dwarf (White Mountains), Gnome (White Mountains foothills or Aurean College of Iron), Dragonborn (Jade Throne / Tihatchee / Vaerelloth-bloodline); re-rolled d12 entry if hidden drift-come via step 3 = 12; original d12 entry if hidden drift-come via Twist = Hethrun 1; "Drift-come from Earth (overt)" if Transported]
-Previous American life: [step 8 — d100 American Previous Jobs entry, verbatim; ONLY present if Transported. For hidden drift-come, this lives in the Secret block below instead. OMIT this line for Native non-drift-come.]
+Origin (public): [step 3 — d12 entry for Native non-drift-folk humans and the human-raised non-humans (Half-elf, Half-orc, Halfling, Tiefling); race-set origin for Elf (Silvering), Dwarf (White Mountains), Gnome (White Mountains foothills or Aurean College of Iron), Dragonborn (Jade Throne / Tihatchee / Vaerelloth-bloodline); re-rolled d12 entry if hidden drift-folk via step 3 = 12; original d12 entry if hidden drift-folk via Twist = Hethrun 1; "Drift-folk from Earth (overt)" if Transported]
+Previous American life: [step 8 — d100 American Previous Jobs entry, verbatim; ONLY present if Transported. For hidden drift-folk, this lives in the Secret block below instead. OMIT this line for Native non-drift-folk.]
 Build:           [step 4 — d4 entry, verbatim]
 Movement:        [step 4 — d6 entry, verbatim]
 Clothing:        [step 4 — d8 entry, verbatim]
@@ -1135,11 +1135,11 @@ Tag 2 (d100 = M): [tag name]
   Power    (d3 = E): [Tag 2's Power bullet E, verbatim]
   Dread    (d3 = F): [Tag 2's Dread bullet F, verbatim]
 
-[SECRET — only present if Inhabitant type = Native — hidden drift-come.
+[SECRET — only present if Inhabitant type = Native — hidden drift-folk.
  This block is NOT known to PCs and most NPCs. It surfaces only via investigation, mistakes, trust-building, or exposure events.]
-=== SECRET (hidden drift-come) ===
+=== SECRET (hidden drift-folk) ===
 True name:       [step 7 — American First Name + American Surname]
-True origin:     Drift-come from Earth (concealed)
+True origin:     Drift-folk from Earth (concealed)
 Previous American life: [step 8 — d100 American Previous Jobs entry, verbatim]
 
 === AGENDA (read in play; compose in this order, WANT last) ===
@@ -1152,7 +1152,7 @@ DORMANT CLOCK
   Segments:   [4 personal / 6 faction-scale / 8 campaign-scale. Most NPCs warrant 4.]
   Advances:   [conditions for the clock to tick — time, opportunity, the Dread sharpening, a Power becoming usable, a PC inadvertently helping]
   Impact:     [what changes in the scene location when the action lands — concrete and specific. Examples: "House Stenmark loses its marriage alliance, scandal eats the Aldermarket gossip-economy for a month"; "Stonebay grain market crashes; three competing factors are ruined"; "Something walks out of the barrow; village rites stop working"]
-WANT (this scene) — [GM, composed LAST. One concrete short-term sentence. Heavily shaped by Temperament + both rolled Ambitions + Twist (if any) + Role + Origin + inhabitant type (overt drift-come behaves differently from hidden drift-come, which behaves differently from native) + current scene. May or may not be a small step toward the Dormant Clock action — sometimes the WANT is the clock-step; sometimes WANT is a sideline; sometimes WANT is at right angles to the clock and the two pull against each other.]
+WANT (this scene) — [GM, composed LAST. One concrete short-term sentence. Heavily shaped by Temperament + both rolled Ambitions + Twist (if any) + Role + Origin + inhabitant type (overt drift-folk behaves differently from hidden drift-folk, which behaves differently from native) + current scene. May or may not be a small step toward the Dormant Clock action — sometimes the WANT is the clock-step; sometimes WANT is a sideline; sometimes WANT is at right angles to the clock and the two pull against each other.]
 
 Stat hook: [noncombatant by default; tier 1 bestiary reference if Role is martial — soldier, criminal, warrior tables, etc.]
 ```
@@ -1180,7 +1180,7 @@ The Rolled zone is closed-form — every line is a die result, recorded verbatim
 - **WANT** — **Composed LAST.** One concrete short-term sentence. The convergence of every prior roll. Influence weights, in order:
   1. **Temperament** — the five-letter code shapes how this specific personality channels desire in the moment (see Temperament rule below).
   2. **The two rolled Ambition entries** — the longer arcs the WANT serves. WANT should be a small step toward at least one of them.
-  3. **Inhabitant type** — a Native acts from their station and context openly. A Transported drift-come acts from displacement and asymmetric knowledge openly. A hidden drift-come acts through cover — every WANT must be compatible with maintaining that cover unless the scene has already broken it.
+  3. **Inhabitant type** — a Native acts from their station and context openly. A Transported drift-folk acts from displacement and asymmetric knowledge openly. A hidden drift-folk acts through cover — every WANT must be compatible with maintaining that cover unless the scene has already broken it.
   4. **Twist** if rolled — what is bearing down on them right now; usually accelerates or distorts the WANT.
   5. **Role and Origin (public)** — the station and context they're acting from.
   6. **Current scene** — what is actually on the table in the next minute or two.
@@ -1206,7 +1206,7 @@ Temperament does not replace any rolled entry; it shapes how those entries manif
 - Does not invent new Ambitions, Powers, or Dreads when composing the Dormant Clock action. The three inputs must be three of the six rolled entries (one Ambition, one Power, one Dread). The Action sentence synthesizes them with the location into a concrete move.
 - Does not write a generic Dormant Clock Impact. The Impact must name a specific change to a specific element of the scene location.
 - Does not write a generic WANT. WANT must visibly reflect the rolled Temperament and at least one of the two rolled Ambitions.
-- Does not casually expose the Secret block. For hidden drift-come NPCs, the True name, True origin, and Previous American life are private to the GM. They surface only through PC investigation, NPC mistakes the GM plays honestly, exposure events the GM resolves with dice, or accumulated trust that the NPC chooses to break with.
+- Does not casually expose the Secret block. For hidden drift-folk NPCs, the True name, True origin, and Previous American life are private to the GM. They surface only through PC investigation, NPC mistakes the GM plays honestly, exposure events the GM resolves with dice, or accumulated trust that the NPC chooses to break with.
 
 ### Clocks
 
@@ -1215,7 +1215,7 @@ Every NPC carries a **Dormant Clock** (see Agenda derivation above) — a concre
 Additional clocks may be added when:
 
 - The NPC's role spans multiple scenes and the dormant action is faction-scale (use 6 segments) or campaign-scale (use 8 segments).
-- The NPC is **hidden drift-come** — an Exposure clock (4–6 segments) tracks how close their Earth identity is to surfacing, advanced by probing PC questions, NPC mistakes, mounting cultural slips, or hostile investigation. This sits alongside the Dormant Clock, not in place of it.
+- The NPC is **hidden drift-folk** — an Exposure clock (4–6 segments) tracks how close their Earth identity is to surfacing, advanced by probing PC questions, NPC mistakes, mounting cultural slips, or hostile investigation. This sits alongside the Dormant Clock, not in place of it.
 
 Clock segments: **4** for a personal arc; **6** for a faction-scale plan; **8** for a campaign-scale scheme. Advance conditions and consequences sit with the NPC, not the player.
 

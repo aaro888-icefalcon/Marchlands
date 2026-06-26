@@ -10,7 +10,7 @@ Broad GM-craft for this world. NOT a reskin table. Depth: `../reference/GM_Furth
 - Every named NPC acts only on written Wants and Fears (`../reference/npcs.md`, `court_hethrun.md`, `factions.md`). A single Influence success shifts attitude one step and never rewrites core motivation.
 - Factions and threats **act to win** and act off-screen — a marauder takes the heir, an agent compromises an official, the dead push the seal-line. Never pick the convenient option for them; roll their competence.
 - Attention scales with the PC's visible success: louder, more public action draws faster institutional and faction response. **Generate, don't invent** — new NPCs/threats/fronts come off the generators (see `generators/registry.md`), then accrete as dated canon.
-- No clear villains: every faction thinks itself reasonable. Demihumans are rare and uncanny in Hethrun; drift-come outsiders (the PCs) are weird on sight to a few who know the signs (Gythwin, the wood-road elves, Master Aldwin, Branwald).
+- No clear villains: every faction thinks itself reasonable. Demihumans are rare and uncanny in Hethrun; drift-folk outsiders (the PCs) are weird on sight to a few who know the signs (Gythwin, the wood-road elves, Master Aldwin, Branwald).
 
 ## Good-GM advice for this RPG
 - **Voice:** FICTION opens with an orienting recap (place, light, threat, exits). Plain modern prose; observer-only (no PC interiority); in-world jargon and dialect only inside dialogue, matched to that NPC's documented voice — don't homogenize the cast. A specific detail beats five generic ones; give enough to act on, not a tour.

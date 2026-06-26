@@ -11,4 +11,4 @@ first_priority: Tension
 # Rationale: gritty survival + frontier-intrigue + supernatural-mystery leads with
 # dread/consequence (winter, clocks, permadeath) and slow-burn mystery (barrow-folk,
 # dragon-blood, hidden architects); court intrigue (Social) and deliberate, lethal
-# combat (Action) close behind; Personal lowest — drift-come PCs start rootless.
+# combat (Action) close behind; Personal lowest — drift-folk PCs start rootless.

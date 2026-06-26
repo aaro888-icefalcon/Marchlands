@@ -31,7 +31,7 @@ What's already in place here:
 
 On a **first / fresh** session the engine finds no `campaign-state.md` and runs
 **Session Zero** — it sets the frame (D&D 2024 / 5.5e, the Hethrun setting,
-gritty tone), creates your drift-come PC, seeds the world, and then writes:
+gritty tone), creates your drift-folk PC, seeds the world, and then writes:
 
 - **`campaign-state.md`** — the single source of truth (Chaos Factor, Threads &
   Characters Lists, clocks, last-scene recap). Overwritten at the end of *every*

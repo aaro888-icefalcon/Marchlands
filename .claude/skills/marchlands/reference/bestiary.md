@@ -47,7 +47,7 @@ Roll d4 on the zone for the active scene. The polity-to-zone map below tells you
 | 3 | 1C Blackfen Sickened | 2C The Bargained | 3C Saltmere's Pact-Touched | 4C The Displaced | 5C Carngarth Clan-Warbands |
 | 4 | 1D Eldgrave's Wards | 2D Wood-Road Hunters | 3D Sealhall Things | 4D Old Forest Things | 5D Old Norse Things |
 
-For area-wide pressure (drift-come hunted, Burning One cells active in any town, etc.), roll d6 on the area-wide table: 1 A1 Arrival-Hunters · 2 A2 Burning One's Cells · 3 A3 Bone-Sayers' Knives · 4 A4 Mtosi Cult Cells · 5 A5 House Volusen's Compound · 6 A6 Reformed Codex Zealots.
+For area-wide pressure (drift-folk hunted, Burning One cells active in any town, etc.), roll d6 on the area-wide table: 1 A1 Arrival-Hunters · 2 A2 Burning One's Cells · 3 A3 Bone-Sayers' Knives · 4 A4 Mtosi Cult Cells · 5 A5 House Volusen's Compound · 6 A6 Reformed Codex Zealots.
 
 ### Polity-to-zone map
 
@@ -87,7 +87,7 @@ When `threat_generator.md` returns a result, this table names the bestiary group
 | Cursed Land / Stirring Ruin | Named Threats / Aureothan Constructs, plus zone-appropriate group |
 | Creeping Affliction / Plague or Curse | 1C Blackfen Sickened, 1D Eldgrave's Wards, or Mode G with a sickness-overlay |
 | Creeping Affliction / Blighted Spread | 1C, 4D, or 3C; with a Named Threat as origin if severity is 8+ |
-| Creeping Affliction / Drift-Come Surge | A1 Arrival-Hunters as antagonists; the drift-come themselves as NPCs |
+| Creeping Affliction / Drift-Come Surge | A1 Arrival-Hunters as antagonists; the drift-folk themselves as NPCs |
 | Named Threat / Tyrant | Named Threats roster; house troops as their muscle |
 | Named Threat / Heretic | A2 Burning One, A4 Mtosi, A6 Codex Zealots; Named Threats for the heretic |
 | Named Threat / Beast | Named Threats (Vaerelloth, Sleeping Magistrate, Barrow-King), or Mode G apex |
@@ -453,8 +453,8 @@ These groups operate across the realm, not bound to a single zone. Roll d6 on th
 
 ### A1 Arrival-Hunters
 
-**Sphere:** anywhere drift-come are sought. The Arrival-Hunters are an external interest hunting isekai PCs across the Marchlands.
-**Signature trait — Drift-Trace:** Group members can sense drift-come within 1 mile (a faint pull, not a precise location); group members have +1 to attack rolls vs drift-come targets. **Counter:** non-drift-come targets see no bonus; a drift-come PC who acquires a Hethrun-native artifact of long-held local provenance (a fyrd-veteran's blade, a Veiled Mother charm of three generations) gains advantage on saves vs Drift-Trace effects.
+**Sphere:** anywhere drift-folk are sought. The Arrival-Hunters are an external interest hunting isekai PCs across the Marchlands.
+**Signature trait — Drift-Trace:** Group members can sense drift-folk within 1 mile (a faint pull, not a precise location); group members have +1 to attack rolls vs drift-folk targets. **Counter:** non-drift-folk targets see no bonus; a drift-folk PC who acquires a Hethrun-native artifact of long-held local provenance (a fyrd-veteran's blade, a Veiled Mother charm of three generations) gains advantage on saves vs Drift-Trace effects.
 **Role roster (MM 2024 anchors):**
 - *Minion (CR 1/4–1/2):* hell hound (lesser variant — a planar-bound tracker), spy, scout
 - *Standard (CR 1–2):* mage, assassin (lower-tier), war-priest
@@ -462,9 +462,9 @@ These groups operate across the realm, not bound to a single zone. Roll d6 on th
 - *Lieutenant (CR 5–6):* a planar hunter (cambion reskin), a high mage
 - *Boss (CR 7–9):* the Hunt's captain — a named planar agent, only if the campaign gives them a face.
 
-**Non-combat manifestations:** a stranger asks at three inns about "a man who arrived without a horse"; a Codex priest mentions a vision of "the un-baptised"; a hell-hound print in fresh snow with no other prints around it; a drift-come PC's Hethrun-native friend is questioned by an unknown party.
-**Hethrun ties:** the isekai default (setting.md); a hook arc that recurs whenever drift-come are at the heart of the scene.
-**Group clock:** the Hunt closes. Advance when a drift-come PC is publicly identified, when a hunter is killed without trace-erasure, when a planar agent makes the crossing.
+**Non-combat manifestations:** a stranger asks at three inns about "a man who arrived without a horse"; a Codex priest mentions a vision of "the un-baptised"; a hell-hound print in fresh snow with no other prints around it; a drift-folk PC's Hethrun-native friend is questioned by an unknown party.
+**Hethrun ties:** the isekai default (setting.md); a hook arc that recurs whenever drift-folk are at the heart of the scene.
+**Group clock:** the Hunt closes. Advance when a drift-folk PC is publicly identified, when a hunter is killed without trace-erasure, when a planar agent makes the crossing.
 
 ### A2 Burning One's Cells
 
@@ -492,7 +492,7 @@ These groups operate across the realm, not bound to a single zone. Roll d6 on th
 - *Lieutenant (CR 5–6):* assassin (high-tier), mage (information specialist)
 - *Boss (CR 7–9):* Edrid Bone-Sayer himself — see npcs.md — or his named senior knife.
 
-**Non-combat manifestations:** the inn-keep at the Stranger's Inn pours a stranger a different cup than the regulars; a Tassard caravan's ledgers are intact but breathing has happened over them; a Codex priest's confessional has a small white stone in the corner that wasn't there last service; a drift-come PC's name is heard in a tavern they have not entered.
+**Non-combat manifestations:** the inn-keep at the Stranger's Inn pours a stranger a different cup than the regulars; a Tassard caravan's ledgers are intact but breathing has happened over them; a Codex priest's confessional has a small white stone in the corner that wasn't there last service; a drift-folk PC's name is heard in a tavern they have not entered.
 **Hethrun ties:** eorldom_stonebay.md (the Bone-Sayers); npcs.md (Edrid); active_threats Clock 7 (the Bone-Sayer leverage operation).
 **Group clock:** the leverage compounds. Advance when a major figure is observed for a fortnight uninterrupted, when a piece of information becomes saleable, when Edrid moves a knife from observation to action.
 
@@ -765,7 +765,7 @@ When no group fits cleanly, build a new creature on a 2024 chassis. Five-step pr
 | 2 | Sea-pact | Wide-Eye's Mark (3A trait, single-use) |
 | 3 | Aureothan-residue | resistance to one damage type, vulnerability to one (GM choice, telegraphed) |
 | 4 | Wood-twisted | advantage on stealth in vegetation; -1 attack on open ground |
-| 5 | Drift-come hunted | +1 to attack vs drift-come PCs only |
+| 5 | Drift-folk hunted | +1 to attack vs drift-folk PCs only |
 | 6 | Faith-bound (Codex) | once per encounter, reroll a failed save against radiant or charm |
 | 7 | Faith-bound (Old Faith) | once per encounter, reroll a failed save against fear |
 | 8 | Pact-fiend | regain 5 HP when an ally hits a hostile creature; counter: visible pact-mark |

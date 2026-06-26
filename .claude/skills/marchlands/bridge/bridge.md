@@ -25,7 +25,7 @@ world. Any hook not overridden here uses the engine default. Full content lives 
     "world_model": "world-model.md"
   },
   "generators_map": {
-    "character": { "mode": "conjunction", "table": "generators/npc_role.json", "note": "layer npc_role + npc_tag onto the AC Character Crafter, then flesh from setting-canon factions; gentry/court use npc_role_gentry; add npc_quirk (npc_origin_quirk for a drift-come/outsider)" }
+    "character": { "mode": "conjunction", "table": "generators/npc_role.json", "note": "layer npc_role + npc_tag onto the AC Character Crafter, then flesh from setting-canon factions; gentry/court use npc_role_gentry; add npc_quirk (npc_origin_quirk for a drift-folk/outsider)" }
   }
 }
 ```

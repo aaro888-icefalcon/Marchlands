@@ -1,7 +1,7 @@
 # THE CROSSING AT SKELLAN'S REACH
 ### Session Zero opening for Marchlands (a mythic-gm companion)
 
-A cold open for a drift-come PC: New York to a binding-rope in one black second; condemned in a
+A cold open for a drift-folk PC: New York to a binding-rope in one black second; condemned in a
 crossroads town beside the very raiders you've been mistaken for, while **four powers** argue what you're
 *for* and **two faiths** argue what you *are* — until something the Crossing dragged in tears the town
 open, and you run.
@@ -72,7 +72,7 @@ piece, all for the rope.* This conflation is why you're **bound and condemned**,
 
 ## 5. What you're FOR, and what you ARE — four powers, two faiths
 Two questions hang over the pen, and the Reach can't move past either: **what are these strangers FOR**
-(four powers, four sets of terms) — and **what ARE they**, drift-come or demons (two faiths, two tests).
+(four powers, four sets of terms) — and **what ARE they**, drift-folk or demons (two faiths, two tests).
 The faiths insist you be cleared of taint before any power may claim you; the powers chafe at the delay.
 You may be mid-test when §6 lands.
 
@@ -128,7 +128,7 @@ with one of the four powers' threads — a clue that one of them is closer to th
 |----|----|----|
 | 1 | **Barrow-cold rises** — the Working cracks a seal; the barrow-dead claw up *(undead)* | the **Barrow-King** |
 | 2 | **The undercroft answered** — Aureothan dead & a war-construct grind up from the sealed station *(undead)* | **Coelius the Lich** / the lost empire |
-| 3 | **Drift-Hunters** — hell hounds + a cambion that rode the Crossing's wake in | a planar patron *hunting the drift-come* |
+| 3 | **Drift-Hunters** — hell hounds + a cambion that rode the Crossing's wake in | a planar patron *hunting the drift-folk* |
 | 4 | **The Red Captain's kin** — a berserker warband storms the gate to free the captives | a marauder Named Threat |
 | 5 | **The Moor came down** — a troll or breaching ankheg, driven south | the Heath stirs (Moor's Hunger) |
 | 6 | **Wyrm-touched** — a Mtosi scale-cult cell + a wyrmling, drawn to the Working | **Vaerelloth** & the dragon-cult |
@@ -154,7 +154,7 @@ control" applies) · or you seize the half-second yourself. Your hands come free
 A besieged crossroads town is full of suddenly-unguarded steel — the fyrd's rack, the smithy, the chapel,
 the cunning-woman's bag, a merchant's strong-room, the **raiders' confiscated kit on a cart**. The PC
 grabs **one good thing that says who they are.** *(For Shake, the natural grab is his own confiscated
-drift-come kit off that cart — the +1 longsword / +1 shield and his tools, which the fyrd lumped in with
+drift-folk kit off that cart — the +1 longsword / +1 shield and his tools, which the fyrd lumped in with
 the raiders' seized steel.)*
 
 ## 9. Escape the besieged Reach — and what sticks
@@ -181,16 +181,16 @@ Hethrun in front of you — and a clear sense of who, in this realm, already wan
 
 ## 10. What it seeds (load the engine's Lists at bookkeeping)
 - **Threads:** *Escape the Reach* (this scene) · *What was the Crossing — and is there a way home?* ·
-  *Are the drift-come demons? — and whose test decides* (the faiths) · *Who holds you, and on what terms?*
+  *Are the drift-folk demons? — and whose test decides* (the faiths) · *Who holds you, and on what terms?*
   (free / bound / owing — the four powers) · *[the §6 result's bigger threat → Moor's Hunger]* · *Whoever
   holds the strangers holds Cuthbert's vote.*
 - **The four buried apexes** (slow-burn threads, one per power you pull on): the dragon (Regency) ·
   the Burning One (Ranulf) · the Smokeless Throne (Mosswood Wardens) · Coelius the Lich (Count Edmund).
 - **Characters:** Reeve Godric · the Tally-man · Serjeant Brona · Hask · Inquisitor Caine · Maerwyn ·
   Sefa · the Red Captain · [the §6 threat → the moor-troll].
-- **Adventure Features:** the penned drift-come · the Aureothan undercroft · the besieged gates · the
+- **Adventure Features:** the penned drift-folk · the Aureothan undercroft · the besieged gates · the
   confiscated-kit cart.
-- **Clocks (start now):** *[the §6 threat's clock → Moor's Hunger]* · *The Codex's drift-come purge*
+- **Clocks (start now):** *[the §6 threat's clock → Moor's Hunger]* · *The Codex's drift-folk purge*
   (realm-wide, 0/8) · *Slavers work the roads for strays* (0/6) · *Coronation* (background) · each power's
   apex as a deep background clock.
 - **Chaos Factor:** start 5; this scene runs hot — likely +1 into the first turns.

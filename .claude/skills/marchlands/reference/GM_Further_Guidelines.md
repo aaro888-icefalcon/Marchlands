@@ -12,7 +12,7 @@ The Marchlands operate in three layered registers, none dominant:
 
 - **Feudal noble jousting.** Courts, eorls, marriages, succession, formal speech, the slow grind of political alliance and grudge. Indirect communication is normal; indirect threats are common; honor is a real currency.
 - **High fantasy.** Magic is real, dragons exist, the dead can rise, faerie courts make pacts, gods have witnesses. The world is mythic and the players will eventually act at mythic scale.
-- **Gritty survival.** Winter kills. Disease is real. Bog-iron extraction-workers cough up blood. Drift-come die in alleys. Permadeath is the default register and the players should feel it from the first session.
+- **Gritty survival.** Winter kills. Disease is real. Bog-iron extraction-workers cough up blood. Drift-folk die in alleys. Permadeath is the default register and the players should feel it from the first session.
 
 Move between registers without warning. A courtly negotiation can pivot to a mythic revelation can pivot to a death from infection. The Marchlands do not respect genre boundaries; the GM should not either.
 
@@ -22,13 +22,13 @@ Move between registers without warning. A courtly negotiation can pivot to a myt
 
 ---
 
-## 2. Setting facts for the drift-come PCs
+## 2. Setting facts for the drift-folk PCs
 
-The PCs are drift-come — Earth-souls displaced into the Marchlands. They are not special. Roughly 200-400 drift-come arrive across the Marchlands each year; Hethrun receives 40-80. A criminal infrastructure exists around predictable portal-zones. See `skeletons.md` for the registration system, regional policy differences, and the criminal ecosystem.
+The PCs are drift-folk — Earth-souls displaced into the Marchlands. They are not special. Roughly 200-400 drift-folk arrive across the Marchlands each year; Hethrun receives 40-80. A criminal infrastructure exists around predictable portal-zones. See `skeletons.md` for the registration system, regional policy differences, and the criminal ecosystem.
 
 ### Language at session zero
 
-Drift-come PCs arrive with native fluency in **Hethrun-Saxon** — the language is essentially English (or near enough that drift-come understand it without study). This solves the courtly-speech barrier from session one.
+Drift-folk PCs arrive with native fluency in **Hethrun-Saxon** — the language is essentially English (or near enough that drift-folk understand it without study). This solves the courtly-speech barrier from session one.
 
 Other Marchland and external languages require deliberate learning during downtime:
 - Aurean (Codex liturgy, Aurean court, House Volusen)
@@ -41,9 +41,9 @@ Other Marchland and external languages require deliberate learning during downti
 
 Influence DCs across language lines are GM-dynamic — see Section 6.
 
-### Drift-come status
+### Drift-folk status
 
-If the PCs register at one of three Crown waystations (Brendannian's Spring, Penbroke informal post, Eldermouth harbor commission), they receive a *writ of provisional standing* — one year's legal protection, right to work, right to grievance. After a year, they may petition for naturalization. Unregistered drift-come are functionally undocumented and may be detained, pressed, or sold by anyone with leverage.
+If the PCs register at one of three Crown waystations (Brendannian's Spring, Penbroke informal post, Eldermouth harbor commission), they receive a *writ of provisional standing* — one year's legal protection, right to work, right to grievance. After a year, they may petition for naturalization. Unregistered drift-folk are functionally undocumented and may be detained, pressed, or sold by anyone with leverage.
 
 The PCs will likely emerge from Skellan's Reach *unregistered*. Whether they register, hide, or improvise their legal standing is one of the first major campaign choices.
 
@@ -97,7 +97,7 @@ The Medicine check to stabilize a dying creature requires a healer's kit charge 
 
 ### Resurrection
 
-Standard 5.5e resurrection rules apply. The GM determines who in Hethrun is willing to cast and at what cost based on the lore files. Faction politics, diamond economics (300gp+ for the cheapest, scaling up), and theological doctrine (the Codex Patriarchate has not resolved whether drift-come have souls) shape availability.
+Standard 5.5e resurrection rules apply. The GM determines who in Hethrun is willing to cast and at what cost based on the lore files. Faction politics, diamond economics (300gp+ for the cheapest, scaling up), and theological doctrine (the Codex Patriarchate has not resolved whether drift-folk have souls) shape availability.
 
 ---
 
@@ -223,7 +223,7 @@ Drift into formality, indirection, or skaldic register only when the named NPC's
 - **`npcs.md`, `npcs.md`** — NPC speech, tics, wants, fears, hooks
 - **`active_threats.md`** — campaign clocks and pressures
 - **`adventure_seeds.md`** — eighteen tier-tagged hooks
-- **`skeletons.md`** — session zero, the Skellan's Reach opener, drift-come setting facts
+- **`skeletons.md`** — session zero, the Skellan's Reach opener, drift-folk setting facts
 - **`lore.md`** — the gods
 - **`lore.md`** — Aureoth's fall, the Marchland Breakaway, Hethrun's founding
 - **`lore.md`** — Aurea, Ostmark, Silvering, dwarves, Chola, etc.

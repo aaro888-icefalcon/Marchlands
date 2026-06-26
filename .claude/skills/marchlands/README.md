@@ -37,7 +37,7 @@ marchlands/
 ├── reference/               # full Marchlands library (rules, setting, generators)
 │   └── legacy/              #   the pre-mythic bespoke engine, retained for provenance only
 └── assets/templates/
-    └── character-sheet.md   # a 5.5e drift-come PC sheet for Session Zero
+    └── character-sheet.md   # a 5.5e drift-folk PC sheet for Session Zero
 ```
 
 ## The living world

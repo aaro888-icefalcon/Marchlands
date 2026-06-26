@@ -5,7 +5,7 @@ Condensed. Full depth: `../reference/setting.md`, `lore.md`, `factions.md`, `npc
 - The **Marchlands**: humanity's cold northern frontier, ~500 years after the fall of the **Aureothan Empire**. Play starts in the petty kingdom of **Hethrun** (a Norse-on-Saxon Danelaw), on the north peninsula.
 - Three registers at once: feudal noble jousting · high fantasy (magic, dragons, the risen dead are real political actors) · gritty survival (winter and disease kill; magic priced beyond peasants; **permadeath is the default**).
 - No clear villains, no chosen ones — every faction thinks itself reasonable. Demihumans are rare and uncanny in Hethrun.
-- **Isekai hook:** PCs arrive in Hethrun from another world — no native coin, maybe no shared tongue, alien abilities and coveted items. Early play is survival + integration. A few recognize a drift-come outsider on sight: **Gythwin the Cunning**, the wood-road **elves**, **Master Aldwin** (within a week), **Branwald the Star-Priest**.
+- **Isekai hook:** PCs arrive in Hethrun from another world — no native coin, maybe no shared tongue, alien abilities and coveted items. Early play is survival + integration. A few recognize a drift-folk outsider on sight: **Gythwin the Cunning**, the wood-road **elves**, **Master Aldwin** (within a week), **Branwald the Star-Priest**.
 
 ## Calendar & history
 - Time is reckoned in relative spans and a recent timeline; no fixed dated-year system in the source. Key deadline: the **Coronation must occur by midwinter** — the 42nd day after the boy-king enters his 13th year (~6 weeks out at session zero).

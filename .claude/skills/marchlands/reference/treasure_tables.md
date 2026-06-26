@@ -190,7 +190,7 @@ Apply one category to any rolled magic item to re-flavor the rename and descript
 
 **Tihatchee dragon-cult piece** — Mtosi-tied items, often carved with dragon-imagery or wyrm-script. Common: a one-use fire- or acid-effect. Uncommon: any wondrous item with a draconic property. The Mtosi overlay implies A4 Mtosi Cult Cells and Vaerelloth's investigation both notice the item.
 
-**Drift-come anomaly** — items from beyond Hethrun's normal magical inventory, brought (or matched) by a drift-come arrival. Strange materials, unfamiliar maker-marks, sometimes inscriptions in a language no Hethrun scholar reads. Common to Legendary, any rarity. The drift-come overlay implies A1 Arrival-Hunters are interested; the item may be a campaign-significant artifact.
+**Drift-folk anomaly** — items from beyond Hethrun's normal magical inventory, brought (or matched) by a drift-folk arrival. Strange materials, unfamiliar maker-marks, sometimes inscriptions in a language no Hethrun scholar reads. Common to Legendary, any rarity. The drift-folk overlay implies A1 Arrival-Hunters are interested; the item may be a campaign-significant artifact.
 
 ---
 
