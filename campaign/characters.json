@@ -3,7 +3,7 @@
  "entries": [
   {
    "name": "Count Edmund — Aurea-backed western hardliner, lord of Hollowford Keep, poised to rise in the war; your host-captor, deciding the captives' fate on his own ground",
-   "weight": 2
+   "weight": 3
   },
   {
    "name": "Count Halfdan — deep-north-backed northern marcher lord (Skarrgaard / Cloven Strand) whose troops took you; cold war-captain, here in a wary marriage-of-convenience with Edmund against Ranulf",
@@ -11,11 +11,11 @@
   },
   {
    "name": "The Crown delegation — the Regency's people at the keep, managing the crisis and contesting the prisoners for boy-king Hadric",
-   "weight": 1
+   "weight": 2
   },
   {
    "name": "The Stonebay marauder-captain — leader of Ranulf's raiders you're roped in with; pragmatic, dangerous, already working his own angle for a deal or a break",
-   "weight": 1
+   "weight": 2
   },
   {
    "name": "Ranulf's marauders — the captured Stonebay raiding-men you've been lumped in with; the company that colors what you're taken to be",
