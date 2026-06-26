@@ -3,7 +3,7 @@
  "entries": [
   {
    "name": "Survive Hollowford Keep — captured and roped in with Ranulf's marauders; what the lords in this hall decide you are decides whether you walk, work, ransom, hang, or worse [opening spine]",
-   "weight": 2
+   "weight": 3
   },
   {
    "name": "The Succession War — King Aelfric the Just is dead, his Ostmark invasion collapsed, the realm sliding into civil war; Ranulf already at open war, Edmund and Halfdan poised — and you've washed up in the middle of it",
@@ -27,6 +27,10 @@
   },
   {
    "name": "Three powers, one hall — Count Edmund (host, Aurea-backed, poised), Count Halfdan (captor, deep-north-backed, poised), and a Crown delegation (the Regency) — rival claims on the captives and on the war",
+   "weight": 2
+  },
+  {
+   "name": "A knife in Hollowford (Turning Point) — Aldwin's deadly 'turn' two days past reeks of foul play; someone in the Count's own house moved on his blood, and they are not finished",
    "weight": 2
   }
  ]
