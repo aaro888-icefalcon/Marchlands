@@ -2,11 +2,11 @@
  "kind": "thread",
  "entries": [
   {
-   "name": "Moor's Hunger — the Heath is waking; the famished Moor that broke the Reach is one sign, and something older stirs under the heather [campaign spine]",
+   "name": "Survive Hollowford Keep — captured and roped in with Ranulf's marauders; what the lords in this hall decide you are decides whether you walk, work, ransom, hang, or worse [opening spine]",
    "weight": 2
   },
   {
-   "name": "The barrows wake — Howe-Stirring; the Crossing's Working cracked the old howe-seals and the restless dead are rising on the eastern heath [clock 1/4]",
+   "name": "The Succession War — King Aelfric the Just is dead, his Ostmark invasion collapsed, the realm sliding into civil war; Ranulf already at open war, Edmund and Halfdan poised — and you've washed up in the middle of it",
    "weight": 2
   },
   {
@@ -14,35 +14,19 @@
    "weight": 1
   },
   {
-   "name": "Find your people — brother Akhil and the friends/family the Crossing may have scattered into Hethrun",
+   "name": "Find your people — brother Akhil and your ~50 (none in this coffle), scattered across a realm at war; finding them needs a city, news, and leverage",
    "weight": 1
   },
   {
-   "name": "The drift-folk scatter east — survivors of the Reach disperse along the Stonebay road, prey for slavers and Ranulf's agents; your people are out there, unprotected",
+   "name": "Drift-marked, and known for it — you kept your class (a skilled professional in Hethrun); valuable and notable, a thing these powers may want owned or used rather than hanged",
    "weight": 1
   },
   {
-   "name": "Stonebay traffics in strangers — you're walking east, into the duchy that wanted to buy the drift-folk; Ranulf's reach grows the closer you get",
+   "name": "Conflated with Ranulf's marauders — taken roped among Stonebay raiders; that taint colors what every lord here takes you to be",
    "weight": 1
   },
   {
-   "name": "The stranger who does magic — you cast light and walls before a hundred witnesses; word of a drift-folk with power is now spreading, and the realm fears sorcerer-strangers as demons",
-   "weight": 1
-  },
-  {
-   "name": "Sefa, unmoored — a Crown guard who walked off her post beside a stranger; what she is now, and whether she stays",
-   "weight": 1
-  },
-  {
-   "name": "The drift-folk are blamed — as the dead rise and the Crossing's horrors spread, frightened communities scapegoat the strangers; at Stanwic you turned a lynch-mob with a bargain, but the next town may not have a Sefa",
-   "weight": 1
-  },
-  {
-   "name": "Stanwic, a foothold on a leash — you're in: roof, rest, the forge, and the town standing a little behind you now. Drift-folk still bound to watch/labor/indenture; your worth proven as a rune-smith, the sky-witch rumor cooled here",
-   "weight": 1
-  },
-  {
-   "name": "Bron's grudge — the wayhouse-keeper, twice shamed in his own town (the mob turned, the forge won), won't try crowds again; expect a knife in the dark, a betrayal, or a quiet word to whoever's buying strangers",
+   "name": "Three powers, one hall — Count Edmund (host, Aurea-backed, poised), Count Halfdan (captor, deep-north-backed, poised), and a Crown delegation (the Regency) — rival claims on the captives and on the war",
    "weight": 1
   }
  ]

@@ -1,43 +1,39 @@
-# Seed Deck — The Crossing (post-Reach, the barrow-heath east)
-_Refreshed at Scene-1 bookkeeping for the new frame: the Heath waking, the howes stirring, the drift-folk
-scattering east toward Stonebay. **34 cards.** Half drawn from the live Lists/clocks. Refresh next bookkeeping._
+# Seed Deck — The Crossing: Hollowford Keep (new opening)
+_Built for the faction-war opening: captured with Ranulf's marauders, brought to Count Edmund's
+Hollowford Keep, a Crown delegation present, a realm sliding into civil war. **30 cards.** Refresh next bookkeeping._
 
-## Channel 1 — the live world (the waking Heath · the dead · the scatter · Sefa)
-1. **A howe's capstone is askew** — fresh-shifted earth, a stone door cracked from the inside. Something climbed out, or is climbing. *(Howe-Stirring 0/4)*
-2. **The cold that isn't weather** — a band of bone-deep chill, breath fogging, the heath gone silent of insects and birds. *(Howe-Stirring)*
-3. **Grave-light** — a pale corpse-glow drifting between the barrows at the edge of sight; it does not flicker like fire. *(Howe-Stirring)*
-4. **The first walking dead** — a howe-wight, a barrow-draugr, grave-wrapped and patient, testing whether the living here are prey. *(Howe-Stirring)*
-5. **The Moor is still hunting** — distant, that wet concussion in the dark; Moor's Hunger ranges from the Reach, and the heath is its country. *(Moor's Hunger)*
-6. **A survivor turns up changed** — one of the drift-folk who fled the Reach found among the howes, wrong now — bitten, frost-touched, or worse. *(scatter / Howe-Stirring)*
-7. **Sefa asks the question** — a Crown guard who walked off her post; does she go back, go on with you, or break? What is she now? *(Sefa)*
-8. **Sefa knows this country** — or claims to: a guard's road-lore about the heath, the howes, what the old folk say not to do here. *(Sefa)*
-9. **The rumor outruns you** — a traveler repeats it wrong and frightened: *a sky-stranger who makes light and walls with his hands.* Sorcerer. Demon. *(the stranger who does magic)*
-10. **Slavers work the strays** — Stonebay's people (or freelance coffle-men) comb the road for scattered drift-folk who can't fight back. *(scatter / Stonebay)*
-11. **A huddle of your people** — frightened New Yorkers camped among the stones: the nurse, the kid, the paralegal — alive, leaderless, in exactly the wrong place. *(scatter / Victory)*
-12. **They look to you** — armed, magic, the man who got them out: the survivors expect you to lead, and leading them slows you and paints a target.
-13. **Out of rations, out of road** — a night halt forces it: don the breastplate, treat the hurt, ration the water, decide who you carry. *(Victory → cost)*
-14. **The dead want the warm ones** — the howe-things are drawn to the living crowd exactly as the Moor was; your refuge is bait. *(Hidden Threat)*
+## Channel 1 — the live world (the keep · the captives · the three powers)
+1. **The lords argue over the catch:** Edmund (host), Halfdan's captain (captor), and the Crown delegation each want the prisoners for different ends — ransom, leverage, a hanging, a claim. *(Three powers, one hall)*
+2. **You're priced, not seen:** a steward tallies the captives like livestock; a drift-marked one is a line-item someone will want. *(Drift-marked / Survive)*
+3. **The marauder-captain's angle:** Ranulf's man has already worked out the captives are worth more as a bargaining chip than as corpses — and he's watching you. *(Conflated)*
+4. **The Crown wants the prisoners:** the Regency's delegate presses to take the captured Stonebay men to the capital as proof and leverage; Edmund and Halfdan resist. *(Three powers)*
+5. **Halfdan's price for handing them over:** the northern count drove a bargain to bring his catch *here*; what he wants from Edmund in return is the real game. *(Succession War)*
+6. **A hanging to make a point:** someone proposes stringing a batch of the marauders today, war being war — and your rope is in that batch. *(Survive)*
+7. **A use that isn't a rope:** a drift-marked smith-leech is worth more working than swinging; one of the powers floats keeping you. *(Drift-marked)*
+8. **The keep is on a war footing:** Hollowford bristles — Aurean coin, fresh walls, a standing garrison, couriers in and out. Edmund is *getting ready* for something. *(Succession War)*
+9. **A guard who'll bend:** a low man on the wall, sick of the lords' games or open to coin/sympathy — a crack. *(escape)*
+10. **Your gear, on a table:** the confiscated kit (the marauders' steel, your tools) is logged in a strong-room somewhere in the keep. *(recover gear → Samosa/casting)*
 
-## Channel 2 — canon near the PC (the heath · the road · Stonebay · the Reach behind)
-15. **The barrow-heath** — old, humped country thick with howes between the Reach and Stonebay; the barrow-folk's land, and the Old Faith's. *(Into the Unknown)*
-16. **A pilgrimage site** — a venerated howe / heath-shrine where folk leave offerings; the kind of place the Veiled Mother's people keep. *(wilderness: Pilgrimage Site)*
-17. **The barrow-folk** — heath-dwellers with their own law and their own dead; they know what's stirring and may help, or may hold you to blame for waking it.
-18. **The road to Stonebay** — east toward Ranulf's rich, people-trafficking duchy; safety and a trap in the same direction.
-19. **The Reach behind** — does anyone get out? Is Godric alive? Does the Crown send riders after the strangers who fled, or write the town off?
-20. **A wayhouse / steading** — a fortified farm or road-inn on the heath's edge; shelter, news, a price, and folk who'll notice strangers in odd clothes.
-21. **The Old Faith reads the signs** — a cunning-woman or hedge-priest who knows the howes are cracking, and why, and what the Working did to the seals. *(Moor's Hunger / Howe-Stirring)*
-22. **No coin, no name, no rights** — a drift-folk in Hethrun starts with nothing the law recognizes; even your stolen steel marks you a thief.
+## Channel 2 — canon near the PC (the war · the powers · the realm)
+11. **The dead king:** King Aelfric the Just — Marshal of the High King — died suddenly mid-muster for the Ostmark invasion; the realm's been unravelling since. *(Succession War / Crossing?)*
+12. **Ranulf is at war:** Stonebay's pretender is already campaigning; his raiders (your coffle-mates) are why Halfdan's men were out there. *(Succession War)*
+13. **Edmund & Halfdan, allies for now:** a wary marriage-of-convenience against Ranulf; it will not hold, and everyone knows it. *(Three powers)*
+14. **The boy-king's Coronation:** must happen by midwinter or the realm has no center at all; the Crown delegation is racing that clock. *(Succession War)*
+15. **Aurea behind Edmund, Ostmark behind Ranulf, the deep north behind Halfdan:** three foreign hands on three Hethrun lords. *(Succession War)*
+16. **The Aureothan dig:** Edmund is excavating an old imperial ruin beneath/near his March — and Hollowford's cellars are older than they look. *(novelty / horror)*
+17. **Magic is common here:** a keep this size has its own casters; your cantrips won't shock anyone — it's being *drift-marked* and *Ranulf's* that marks you. *(Drift-marked)*
+18. **The roads of a realm at war:** Eldermouth (capital, south — news & your search), Stonebay (east, the enemy), the north (Halfdan's), the Greatwood west — every road now a front or a refuge.
 
-## Channel 3 — novelty / hooks (find your people · the unknown · the take)
-23. **A face from home** — among the survivors or on the road, a New Yorker Shake half-knows, or who knows someone he's looking for. *(Find your people)*
-24. **Word of another cluster** — strangers landed elsewhere on the heath, or in Stonebay; a lead toward Akhil or the others. *(Find your people / the Crossing)*
-25. **A scuffed but respectable laborer** — a drover or freeholder on the road, wary, with a cart, news, and reasons of his own. *(npc: laborer)*
-26. **The howe's hoard** — grave-goods glinting in an opened barrow: torcs, a sword, a circlet — *(useless treasure: cursed, claimed by the dead, or worthless metal)*. *(ruin: Useless Treasure)*
-27. **A weapon worth the risk** — somewhere in the dead's keeping, real steel or an old enchantment a Battle Smith could actually use — guarded by what owns it.
-28. **Smith's tools / a forge** — the one thing that gets Samosa back: a steading's smithy, a tinker's wagon, a dead armorer's kit. *(restore Steel Defender)*
-29. **An hour and 10gp of components** — and a quiet place — would bring Daegon back to the sky. *(restore familiar)*
-30. **Someone needs a doctor** — a wound, a fever, a birth gone wrong; the work that makes Shake valuable, and that ties him down. *(Find your people / leverage)*
-31. **A choice of roads** — the heath forks: deeper toward the pilgrimage howe (answers, the Old Faith), or out toward the road and Stonebay (people, danger).
-32. **The thing that woke it** — a sign that the Crossing's Working is *still* straining the seals, that this gets worse, not better, and points back toward what tore 8 million souls across. *(the Crossing / spine)*
-33. **A debt comes due** — someone you helped at the Reach (or didn't) reappears with a claim, a thanks, or a grudge.
-34. **The wrong kind of attention** — you do something only a drift-folk could, in front of the wrong eyes, and the sorcerer-rumor gets a name and a direction. *(the stranger who does magic)*
+## Channel 3 — novelty / hooks (find your people · drift-marked · the Crossing)
+19. **Word of another cluster:** a guard or captive mentions sky-folk landing elsewhere — a thread toward Akhil or your ~50. *(Find your people)*
+20. **A face that knows a face:** someone here has met a drift-folk who matches one of your people. *(Find your people)*
+21. **Someone needs a doctor:** a festering wound, a fevered child, a lord's ailment — the work that turns "captive" into "too useful to kill." *(Drift-marked / leverage)*
+22. **Smith's tools / a forge:** Hollowford has a smithy; access to it (or your confiscated kit) is the road back to Samosa. *(recover companion)*
+23. **A quiet hour + components:** what it would take to call Daegon back to the sky. *(recover companion)*
+24. **The invisibility card:** no one here knows you can vanish once; the question is *when* spending it buys the most. *(escape)*
+25. **A debt or a grudge from the road:** how exactly did the Crossing drop you among Ranulf's raiders? Someone in the coffle remembers you arriving. *(Conflated / Crossing)*
+26. **The drift-tainted slur:** a hard-liner (Codex-leaning) names you *drift-tainted* and means harm; another sees *drift-blessed* and means use. *(Drift-marked)*
+27. **A patron's offer:** one of the three powers quietly offers terms — service, oath, indenture — in exchange for your neck. The hardest, most hooked start. *(Three powers)*
+28. **The war comes to the gate:** a raid, a courier with black news, an attack — the keep's attention yanked away at a useful (or terrible) moment. *(Succession War)*
+29. **The thing in the cellars:** Edmund's old stone holds something the war has made everyone forget to fear. *(horror / the dig)*
+30. **The wrong kind of attention:** you do something only a drift-marked could, in front of a lord — and now you're a prize three powers will fight over. *(Drift-marked)*

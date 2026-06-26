@@ -1,9 +1,8 @@
 # Character Sheet — Abhishek "Shake" Rao
 
-> Drift-folk New Yorker pulled into Hethrun by the Crossing. English-speaking (common tongue, no
-> barrier). Built diegetically at the Crown's intake, Skellan's Reach. **What crossed over: himself,
-> his mind, his training, his class levels — NOT his gear, NOT his summoned companions.** See
-> "Current state at intake" below.
+> **Drift-marked** New Yorker pulled into Hethrun by the Crossing — one of the rare drift-folk who kept their
+> class powers on transfer (= a skilled professional here). English-speaking (common tongue, no barrier).
+> Captured in the succession war and brought to Count Edmund's **Hollowford Keep**. See "Current state" below.
 
 ## Concept / origin
 - **Name:** Abhishek "Shake" Rao
@@ -41,26 +40,23 @@
 - **Combat lines (with gear):** +1 Longsword +6 / 1d8+4 · Booming Blade +6 / 1d8+4 + move rider · Shield reaction → AC 24 · Cure Wounds 2d8+3
 
 ## Steel Defender — Samosa (NOT currently summoned)
-- Large friendly German Shepherd, subtle runic enchantment. Medium Construct, AC 15, HP 20, Speed 40 ft. STR 14 DEX 12 CON 14 INT 4 WIS 10 CHA 6. Darkvision 60 ft; understands his languages.
+- **Reads as an ordinary dog:** a large, calm, well-trained German Shepherd; the runic enchantment is subtle and **NOT obvious** — onlookers see a normal hound, not a construct/familiar.
+- Medium Construct, AC 15, HP 20, Speed 40 ft. STR 14 DEX 12 CON 14 INT 4 WIS 10 CHA 6. Darkvision 60 ft; understands his languages.
 - Force-Empowered Rend +5 / 1d8+5 force · Repair 3/day 2d8+3 · Deflect Attack (reaction).
-- **Requires smith's tools + a long rest to (re)create — unavailable at intake.**
+- **Requires smith's tools + a long rest to (re)create.**
 
 ## Familiar — Daegon (NOT currently summoned)
-- Falcon/hawk (owl reskin). **Requires Find Familiar (10 gp components, 1 hr) — unavailable at intake.**
+- **Reads as an ordinary hawk:** a normal-looking, normal-acting falcon/hawk (owl statblock reskin) — **NOT an obvious familiar** to onlookers. **Requires Find Familiar (10 gp components, 1 hr) to (re)summon.**
 
-## ⚠ CURRENT STATE (Stanwic, after a long rest — re-equipped)
-- **Gear** (scavenged off the kit-cart, now **infused**): **+1 longsword**, **+1 shield**, breastplate (worn), backpack, tinker's/thieves' tool-kit (arcane focus). Modern clothes under the armor.
-- **Replicate Magic Item — ACTIVE infusions (2/2):** Weapon +1 (longsword), Shield +1 (shield). Known plans: Weapon +1, Shield +1, Goggles of Night, Bag of Holding.
-- **AC 19** (breastplate 14 + DEX 2 + shield 2 + infusion 1); **24** for a round with the Shield spell. Unarmored 12.
-- **Battle Ready ONLINE** (magic weapon in hand): **+1 longsword → +6 to hit, 1d8+4** slashing (INT-driven). Booming Blade likewise +6 / 1d8+4 + move-rider.
-- **Spells (after long rest):** **3/3 first-level slots.** Prepared/known 1st: Cure Wounds (2d8+3), Shield, Heroism, False Life, Absorb Elements, Silent Image. Save DC 13, Atk +5. Cantrips at will.
-- **Shape Shadows (Mark of Shadow):** **Invisibility 1/long rest — AVAILABLE (unused)** (free, CHA, conc. ≤1 hr, drops on attack/cast; hides only him).
-- **Daegon — SUMMONED** (falcon familiar; Find Familiar, components scrounged in Stanwic). Scout/senses-sharing/Help; can deliver touch spells. *(Re-summoning later costs 10 gp components again.)*
-- **Samosa — SUMMONED & ACTIVE.** Steel Defender (German Shepherd, subtle runic): Medium construct, AC 15, HP 20, Speed 40, darkvision 60; **Force Rend +5 / 1d8+5 force**, **Repair 3/day (2d8+3)**, **Deflect Attack** (reaction). Devoted; understands his languages. *(Built overnight at Stanwic with Wystan's smith's tools.)*
-- **Smith's tools:** now **carried** (Wystan's parting gift) — supports infusions/Samosa repair on the road.
-- **Company:** Sefa (ex-Crown guard, plans to carry the warning north to the Harrowmark watch), the nurse, the child, the six freed drift-folk (indentured/laboring in Stanwic).
-- **Always has:** full modern medical/scientific knowledge, lapsed TKD, military-history literacy — leverage vs. people, little vs. the Heath's horrors.
+## ⚠ CURRENT STATE (Hollowford Keep — captured & stripped)
+- **Bound prisoner**, roped in a coffle with Ranulf's marauders; brought to Count Edmund's keep with a Crown delegation present. Plain captive's clothes.
+- **Gear CONFISCATED:** no weapon, no armor, no tools, no coin (the marauders' steel + his own kit logged in the keep's strong-room somewhere). **AC unarmored 12; HP 24/24.**
+- **No spellcasting focus** (tools taken) → his **leveled casting is LOCKED** (Cure Wounds, Shield, Heroism, Silent Image, Find Familiar, etc. unavailable until he gets tools/a focus). V/S-only cantrips: adjudicate case-by-case.
+- **Shape Shadows — Invisibility 1/long rest: AVAILABLE.** Needs **no focus/components** (CHA-based) — his one ace: an escape/positioning card. Concentration ≤1 hr; drops on attack/cast; hides only him.
+- **Companions dispersed:** Samosa (needs smith's tools + a rest) and Daegon (needs Find Familiar components) — recovery goals; both read as **ordinary animals** once back.
+- **Drift-marked & known:** if these lords learn he kept real class powers he's a *skilled professional* — valuable (worth owning/using) and notable. Basic magic is common in Hethrun; a **drift-marked** one isn't.
+- **Always has:** full modern medical/scientific knowledge, lapsed TKD, military-history literacy — leverage vs. people.
 
 ## Ties (seed the Lists)
-- **Looking for:** brother Akhil, and any of the friends/family the Crossing may have scattered into Hethrun.
-- **Standing here:** an undocumented drift-folk stranger in Crown custody, lumped in with captured "Stonebay brigands," name about to go on the Crown's ledger.
+- **Looking for:** brother Akhil + his ~50 (none in this coffle), scattered across a realm at war — a long campaign needing a city, news, and leverage.
+- **Standing here:** a bound, stripped prisoner conflated with Ranulf's marauders at Hollowford Keep — three powers (Edmund, Halfdan, the Crown) deciding what he is.

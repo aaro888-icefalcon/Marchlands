@@ -5,16 +5,23 @@ at the start of a session and overwrites it as you play.
 
 ## ▶ Current campaign — configured & ready to play
 
-**The Crossing at Skellan's Reach** (PC: Abhishek "Shake" Rao) is **set up and
-waiting on its First Scene.** Session Zero is already done — so a fresh session
-**resumes** (it does *not* re-run Session Zero). Just say **"continue Marchlands"**
-or **"be my GM for Marchlands"** and the GM opens **Scene 1 — the pen at Skellan's
-Reach.**
+**The Crossing: Hollowford Keep** (PC: Abhishek "Shake" Rao, *drift-marked* Battle Smith
+Artificer 3) is **set up and waiting on its First Scene.** Session Zero is done — a fresh
+session **resumes** (it does *not* re-run Session Zero). Say **"continue Marchlands"** /
+**"be my GM for Marchlands"** and the GM opens **Scene 1 — captured at Hollowford Keep**
+(roped with Ranulf's marauders, Halfdan's troops as captors, Count Edmund hosting, a Crown
+delegation present, in a realm sliding into civil war).
+
+> Revised setting (this branch): Hethrun is now a **major ~2M-soul power** in a **succession
+> war** (late King Aelfric the Just, Marshal of the High King, died mid-Ostmark-muster); **magic
+> is common at the low end / rare-costly high**; **drift-folk** are a known exploited underclass,
+> rare **drift-marked** ones keep class powers. Prior Skellan's-Reach arc is archived on branch
+> `claude/festive-curie-g8clny`.
 
 What's already in place here:
-- **`campaign-state.md`** — frame (5.5e · Hethrun · grimdark/HARDCORE · CF 5), the
-  First Scene, the live clocks, and the rolled opening catastrophe.
-- **`character-sheet.md`** — the PC (Shake Rao), reset to the cold-open (bound in the pen).
+- **`campaign-state.md`** — frame (5.5e · Hethrun-at-war · HARDCORE · CF 5), the First Scene
+  (Hollowford Keep), live clocks (the war, the Coronation, Halfdan's bid).
+- **`character-sheet.md`** — the PC (Shake Rao), drift-marked, captured & stripped at the keep.
 - **`threads.json` / `characters.json` / `adventure.json`** — the Lists & theme
   config (the single source of truth the dice roll; the snapshot in
   `campaign-state.md` is *generated* from them via `state.py render`).

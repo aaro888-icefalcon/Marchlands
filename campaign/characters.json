@@ -2,43 +2,23 @@
  "kind": "character",
  "entries": [
   {
-   "name": "Sefa — young ex-Crown guard who walked off her post and fled the Reach at your side; owes you her life, looking to you for what comes next",
+   "name": "Count Edmund — Aurea-backed western hardliner, lord of Hollowford Keep, poised to rise in the war; your host-captor, deciding the captives' fate on his own ground",
    "weight": 2
   },
   {
-   "name": "The Moor — the famished thing out of the waking Heath that broke the Reach; Moor's Hunger given a body, and a sign of worse beneath the heather",
+   "name": "Count Halfdan — deep-north-backed northern marcher lord (Skarrgaard / Cloven Strand) whose troops took you; cold war-captain, here in a wary marriage-of-convenience with Edmund against Ranulf",
    "weight": 1
   },
   {
-   "name": "The howe-dead — restless dead stirring in the barrows of the eastern heath as the Working's strain cracks their seals",
+   "name": "The Crown delegation — the Regency's people at the keep, managing the crisis and contesting the prisoners for boy-king Hadric",
    "weight": 1
   },
   {
-   "name": "Reeve Godric — the Crown's man who held the Reach; spent himself at the breach to buy the pen its seconds, fate unknown",
+   "name": "The Stonebay marauder-captain — leader of Ranulf's raiders you're roped in with; pragmatic, dangerous, already working his own angle for a deal or a break",
    "weight": 1
   },
   {
-   "name": "The nurse & the child — two drift-folk you pulled off the howe-field; now flee east with you and Sefa. The rest of the Reach's survivors scattered into the waking barrow-heath in the night, most likely lost",
-   "weight": 1
-  },
-  {
-   "name": "The Stonebay buyer — Ranulf's agent who fled the siege; still pricing strangers, and you're walking toward his master's markets",
-   "weight": 1
-  },
-  {
-   "name": "Duke Ranulf of Stonebay — lord of the eastern duchy that traffics in people; wants the drift-folk",
-   "weight": 1
-  },
-  {
-   "name": "Count Edmund — the hardline lord who would put the drift-folk to the sword; a standing power to the west",
-   "weight": 1
-  },
-  {
-   "name": "Bron — Stanwic's wayhouse-keeper; tried to feed the drift-folk to the heath, then to seize the town's defense — beaten both times (the mob, then the forge). Twice-shamed, cold, committed: a quiet, vengeful enemy now, not a loud one",
-   "weight": 2
-  },
-  {
-   "name": "Wystan — Stanwic's smith; cagey and circuitous, but he saw Shake work real steel and respects it. Granted forge + smith's-tools access (the road to rebuilding Samosa). A possible ally if handled right",
+   "name": "Ranulf's marauders — the captured Stonebay raiding-men you've been lumped in with; the company that colors what you're taken to be",
    "weight": 1
   }
  ]
