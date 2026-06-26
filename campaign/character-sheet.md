@@ -56,7 +56,8 @@
 - **Spells (after long rest):** **3/3 first-level slots.** Prepared/known 1st: Cure Wounds (2d8+3), Shield, Heroism, False Life, Absorb Elements, Silent Image. Save DC 13, Atk +5. Cantrips at will.
 - **Shape Shadows (Mark of Shadow):** **Invisibility 1/long rest — AVAILABLE (unused)** (free, CHA, conc. ≤1 hr, drops on attack/cast; hides only him).
 - **Daegon — SUMMONED** (falcon familiar; Find Familiar, components scrounged in Stanwic). Scout/senses-sharing/Help; can deliver touch spells. *(Re-summoning later costs 10 gp components again.)*
-- **Samosa — STILL UNSUMMONED.** Steel Defender needs **smith's tools** (the scavenged kit is tinker's/thieves', not smith's) + the work of a long rest. **Stanwic has a forge** → secure smith's tools there = the path to Samosa.
+- **Samosa — SUMMONED & ACTIVE.** Steel Defender (German Shepherd, subtle runic): Medium construct, AC 15, HP 20, Speed 40, darkvision 60; **Force Rend +5 / 1d8+5 force**, **Repair 3/day (2d8+3)**, **Deflect Attack** (reaction). Devoted; understands his languages. *(Built overnight at Stanwic with Wystan's smith's tools.)*
+- **Smith's tools:** now **carried** (Wystan's parting gift) — supports infusions/Samosa repair on the road.
 - **Company:** Sefa (ex-Crown guard, plans to carry the warning north to the Harrowmark watch), the nurse, the child, the six freed drift-come (indentured/laboring in Stanwic).
 - **Always has:** full modern medical/scientific knowledge, lapsed TKD, military-history literacy — leverage vs. people, little vs. the Heath's horrors.
 
