@@ -2,43 +2,23 @@
  "kind": "character",
  "entries": [
   {
-   "name": "Reeve Godric — the Crown's man running the intake at the Reach; tired, shrewd, wants the strangers off his ledger — and won't let Stonebay's buyers near them",
+   "name": "Count Edmund — Aurea-backed western hardliner, lord of Hollowford Keep, poised to rise in the war; your host-captor, deciding the captives' fate on his own ground",
    "weight": 2
   },
   {
-   "name": "Hask — Count Edmund's factor on the ground, arguing loudly that the strangers are a danger best ended now",
+   "name": "Count Halfdan — deep-north-backed northern marcher lord (Skarrgaard / Cloven Strand) whose troops took you; cold war-captain, here in a wary marriage-of-convenience with Edmund against Ranulf",
    "weight": 1
   },
   {
-   "name": "Stonebay's buyer — Ranulf of Stonebay's agent at the intake, pricing the strangers and angling to take them east",
+   "name": "The Crown delegation — the Regency's people at the keep, managing the crisis and contesting the prisoners for boy-king Hadric",
    "weight": 1
   },
   {
-   "name": "Sefa — a young Crown guard at the intake; decent, low on the ladder, a possible crack in the wall",
+   "name": "The Stonebay marauder-captain — leader of Ranulf's raiders you're roped in with; pragmatic, dangerous, already working his own angle for a deal or a break",
    "weight": 1
   },
   {
-   "name": "The other strangers — fellow New Yorkers in Crown custody (a nurse, a paralegal, a kid alone, and more)",
-   "weight": 1
-  },
-  {
-   "name": "Count Edmund — the hard-line lord whose March crowds the Reach; wants the strangers executed",
-   "weight": 1
-  },
-  {
-   "name": "Duke Ranulf of Stonebay — lord of the eastern duchy; wants the strangers, and now claims the captured 'brigands' were his lawful tithe-men",
-   "weight": 1
-  },
-  {
-   "name": "A Stonebay noble — at the intake; contends the captured men lawfully gathered Duke Ranulf's tithe (not raided), and presses to have them — and the strangers — released to Stonebay",
-   "weight": 1
-  },
-  {
-   "name": "The Stonebay brigands/rebels — captured men the PC was lumped in with; the Crown calls them rebels, Stonebay calls them lawful tithe-collectors",
-   "weight": 1
-  },
-  {
-   "name": "Mossdrowen wardens — wood-watch at the intake, looking to conscript strangers and captives to hold the failing frontier",
+   "name": "Ranulf's marauders — the captured Stonebay raiding-men you've been lumped in with; the company that colors what you're taken to be",
    "weight": 1
   }
  ]

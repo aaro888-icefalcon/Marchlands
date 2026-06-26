@@ -1,9 +1,9 @@
-# Character Sheet — <name>   (D&D 2024 / 5.5e · Marchlands drift-come PC)
+# Character Sheet — <name>   (D&D 2024 / 5.5e · Marchlands drift-folk PC)
 Copy this into the campaign/working folder at Session Zero. Roll any randomized values via the
 engine's `dice.py roll`. The engine's loop tracks the live values; this is the PC's home record.
 
 - **Name / concept:**
-- **Drift-come origin:** (who they were in the other world; what crossed over with them — alien skill, coveted item, no native coin/tongue)
+- **Drift-folk origin:** (who they were in the other world; what crossed over with them — alien skill, coveted item, no native coin/tongue)
 - **Species / Background / Class & level:**
 - **XP:** current / next-level requirement  (award only at completion triggers: trivial 1/40 · minor 1/20 · medium 1/10 · major 1/4 of the requirement)
 

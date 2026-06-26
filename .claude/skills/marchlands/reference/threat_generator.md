@@ -8,6 +8,12 @@ All threat content here is original Hethrun design. Move and front concepts are 
 
 -----
 
+## Framing — Marchlands threats run high-powered and deadly
+
+The grit of the Marchlands lives in its **threats**, not in any scarcity of player-side magic (low magic is common — see `npc_generator.md` and `GM_Further_Guidelines.md`). When generating any threat or Front here, **lean dangerous**: pick the harder severity when in doubt, frame opening moves and dire fates so they land with real weight, and skew the linked `bestiary.md` groups toward the tougher, higher-powered end of their rosters for the PCs' tier. A Marchlands threat should out-punch a generic threat of the same nominal tier — that lethality (plus winter, disease, and the cost of reliable high magic) is what keeps permadeath real. This is a framing instruction for generation, not a license to rewrite individual `bestiary.md` stat blocks: build the bestiary's stated counters honestly, but assume the world's dangers run hot.
+
+-----
+
 ## When to invoke
 
 **Single Threat** at scene start when:
@@ -170,7 +176,7 @@ Seize people, traffic, sell.
 
 **Face — typecast (1–4):** Criminals d12 — Smuggler dealing in very illegal wares, Coldly professional assassin, Wealthy madame with vast blackmail files; tag *Ruinous Vice* or *Veiled Backers*.
 
-**Face — off-cast (5–6):** a Codex chaplain who has been quietly disappearing parish-poor for years (Commoners — Priest; *Concealed Sin*); a Stonebay guildmaster whose trade roster doubles as a captive ledger (Gentry — Merchant-prince; *Veiled Backers*); a recovering drift-come who runs the outfit and recruits other drift-come into the route (Foreign + Drift-come; *Hidden Origins*).
+**Face — off-cast (5–6):** a Codex chaplain who has been quietly disappearing parish-poor for years (Commoners — Priest; *Concealed Sin*); a Stonebay guildmaster whose trade roster doubles as a captive ledger (Gentry — Merchant-prince; *Veiled Backers*); a recovering drift-folk who runs the outfit and recruits other drift-folk into the route (Foreign + Drift-folk; *Hidden Origins*).
 
 **Supporting villains:** a bought local official (Commoners — Corrupt petty clerk, or Gentry — Magistrate; *Ruinous Vice*); the foreign buyer's factor on the ground (Gentry — Diplomat or Spymaster; *Veiled Backers*).
 
@@ -320,7 +326,7 @@ Barrows, burial mounds, grave-fields awakening.
 
 **Face — typecast (1–4):** Gentry d100 — Local temple's high priest, Abbot; Commoners — Local ascetic. An Eldgrave priest gone wrong, or a Veiled Mother cunning-woman managing the dead through compromise. Tag *Concealed Sin* or *Inherited Pact*.
 
-**Face — off-cast (5–6):** a Brackenford reeve whose grandfather sealed the original barrow and never told anyone (Commoners — Reeve; *Inherited Duty*); a drift-come pawnbroker who has been buying barrow-grave goods at a discount and noticing patterns no Hethrun-native would (Foreign + Drift-come; *Hidden Origins*); a Codex bishop who has been holding back the warnings to maintain his seat (Gentry — Abbot; *Concealed Sin*).
+**Face — off-cast (5–6):** a Brackenford reeve whose grandfather sealed the original barrow and never told anyone (Commoners — Reeve; *Inherited Duty*); a drift-folk pawnbroker who has been buying barrow-grave goods at a discount and noticing patterns no Hethrun-native would (Foreign + Drift-folk; *Hidden Origins*); a Codex bishop who has been holding back the warnings to maintain his seat (Gentry — Abbot; *Concealed Sin*).
 
 **Supporting villains:** a Bone-Sayer buying lists of the disturbed dead (Criminals — Master spy; *Veiled Backers*); an Aurean Codex militant priest framing it as heresy to advance the Reform (Gentry — Local temple's high priest; *Irrational Hatred*).
 
@@ -665,7 +671,7 @@ Specific site becomes active — disgorging things, drawing pilgrims, summoning 
 **Sub-type distribution (d6):**
 - 1–3 Plague or Curse (50%)
 - 4–5 Blighted Spread (33%)
-- 6 Drift-Come Surge (17%)
+- 6 Drift-Folk Surge (17%)
 
 ### Moves
 
@@ -731,26 +737,26 @@ Corrupted land plus corrupted population mixed.
 
 **Dire fate:** the blighted zone expands beyond containment. The displaced become a permanent underclass in a neighboring region. The corruption becomes endemic to the affected territory; future PC actions there must account for it.
 
-### Sub-type 3 — Drift-Come Surge (d6 6)
+### Sub-type 3 — Drift-Folk Surge (d6 6)
 
-New wave of arrivals with their own crisis.
+New wave of drift-folk arrivals with their own crisis — almost all drift-free (unpowered, dispossessed) and exploited as an underclass; a rare drift-marked individual among them keeps class powers and is, in practice, a skilled local professional.
 
 | Region | Bestiary |
 |--------|----------|
-| Heath | A1 Arrival-Hunters (the hunters, not the drift-come); rare |
+| Heath | A1 Arrival-Hunters (the hunters, not the drift-folk); rare |
 | Greatwood verge | A1 Arrival-Hunters; rare |
-| Coast | A1 Arrival-Hunters (drift-come often arrive coastal) |
-| Greenways | A1 Arrival-Hunters; A5 Volusen Compound (intercepting Aurean-tied drift-come) |
+| Coast | A1 Arrival-Hunters (drift-folk often arrive coastal) |
+| Greenways | A1 Arrival-Hunters; A5 Volusen Compound (intercepting Aurean-tied drift-folk) |
 | Fells | A1 Arrival-Hunters; rare |
 | Elsewhere | A1 Arrival-Hunters; A5 Volusen Compound; Mode G reskin for hunter specifics |
 
-**Face — typecast (1–4):** the drift-come leader themselves (Foreign origin + Drift-come twist; any role); tag *Last Survivor* or *Blithe Idealist*.
+**Face — typecast (1–4):** the drift-folk leader themselves (Foreign origin + Drift-folk twist; any role); tag *Last Survivor* or *Blithe Idealist*.
 
-**Face — off-cast (5–6):** a Hethrun-native who has been helping drift-come for years and now has too many to hide (Commoners — Local innkeeper; *Concealed Sin*); a Codex priest who has decided the drift-come are angels or demons and is acting on it (Commoners — Priest; *Blithe Idealist* or *Irrational Hatred*); a drift-come who has fully assimilated and now runs the smuggling-network for newer arrivals (Gentry — Diplomat from a foreign land; *Hidden Origins*).
+**Face — off-cast (5–6):** a Hethrun-native who has been helping drift-folk for years and now has too many to hide (Commoners — Local innkeeper; *Concealed Sin*); a Codex priest who has decided the drift-folk are angels or demons and is acting on it (Commoners — Priest; *Blithe Idealist* or *Irrational Hatred*); a drift-folk who has fully assimilated and now runs the smuggling-network for newer arrivals (Gentry — Diplomat from a foreign land; *Hidden Origins*).
 
-**Supporting villains:** an Arrival-Hunters captain tracking the surge (Warriors — Nondescript hired killer; *Inherited Duty*); a Volusen factor buying drift-come into bondage (Gentry — Diplomat from a foreign land; *Veiled Backers*).
+**Supporting villains:** an Arrival-Hunters captain tracking the surge (Warriors — Nondescript hired killer; *Inherited Duty*); a Volusen factor buying drift-folk into bondage (Gentry — Diplomat from a foreign land; *Veiled Backers*).
 
-**Dire fate:** the surge establishes a permanent drift-come community. The Arrival-Hunters and the Hethrun realm both notice. A new faction forms — either of drift-come or of those hunting them — and joins the realm's politics permanently.
+**Dire fate:** the surge establishes a permanent drift-folk community. The Arrival-Hunters and the Hethrun realm both notice. A new faction forms — either of drift-folk or of those hunting them — and joins the realm's politics permanently.
 
 -----
 
@@ -988,7 +994,7 @@ Apex creature with territory, grudge, or hunger. PULL FROM CANON.
 
 **Face — typecast (1–4):** the cult or handler around the Beast (Tribals — Zealous shaman; *Magical Gift* or *Doomed Love*); for the rare Beast that acts as its own Face, use the Named Threat statblock directly.
 
-**Face — off-cast (5–6):** the descendant of someone who originally bound the Beast and is now its reluctant warden (Gentry — Venerable family elder; *Inherited Duty*); a Codex bishop who has been keeping the Beast's existence secret to preserve faith stability (Gentry — Abbot; *Concealed Sin*); a drift-come who arrived attached to the Beast and is its only ongoing voice (Foreign + Drift-come; *Hidden Origins*).
+**Face — off-cast (5–6):** the descendant of someone who originally bound the Beast and is now its reluctant warden (Gentry — Venerable family elder; *Inherited Duty*); a Codex bishop who has been keeping the Beast's existence secret to preserve faith stability (Gentry — Abbot; *Concealed Sin*); a drift-folk who arrived attached to the Beast and is its only ongoing voice (Foreign + Drift-folk; *Hidden Origins*).
 
 **Supporting villains:** the Beast's first servitor or chief acolyte (Warriors — Consecrated temple defender or crusader; *Blithe Idealist*); a noble quietly feeding the Beast Hethrun-native enemies (Gentry — Treacherous noble plotter; *Concealed Sin*).
 
@@ -1009,7 +1015,7 @@ Singular oppressor with reach and resources.
 
 **Face — typecast (1–4):** Nobility d12 — Scheming lesser noble with grand ideas, Ruthless noble clan patriarch, Treacherous but trusted noble plotter; tag *Concealed Sin* or *Grand Plan*.
 
-**Face — off-cast (5–6):** a fishwife who married into a thane house and now rules her dead husband's holdings with a viciousness her family did not predict (Commoners — Someone important's mistress; *Up From the Gutter*); a Codex priest whose hold over a Hollowford-March parish has metastasized into territorial control (Commoners — Priest; *Concealed Sin*); a drift-come whose modern-world political instincts make them surprisingly effective as a regional tyrant (Foreign + Drift-come; *Stolen Reputation*).
+**Face — off-cast (5–6):** a fishwife who married into a thane house and now rules her dead husband's holdings with a viciousness her family did not predict (Commoners — Someone important's mistress; *Up From the Gutter*); a Codex priest whose hold over a Hollowford-March parish has metastasized into territorial control (Commoners — Priest; *Concealed Sin*); a drift-folk whose modern-world political instincts make them surprisingly effective as a regional tyrant (Foreign + Drift-folk; *Stolen Reputation*).
 
 **Supporting villains:** the tyrant's chief enforcer (Warriors — Cunning thug or hired enforcer; *Family Chains*); a betrayed insider who knows where the bodies are and is now the tyrant's most reliable lieutenant out of fear (Commoners — Reeve; *Misplaced Trust*).
 
@@ -1066,5 +1072,5 @@ Charismatic ideologue with a growing following.
 - Faces are villains the PCs can meet, talk to, kill, or compromise. Supporting villains exist to give the threat more handles and more textures. When the Face dies, supporting villains carry the threat forward.
 - "No Face" threats are environmental or institutional. They cannot be parlayed with — only suffered, mitigated, or outlasted. Severe Weather and Earth Calamity default to no Face; some Apex Beasts, Hunting Packs, Tainted Regions, Failing Workings, Blighted Spreads, and Plagues also operate without one.
 - Dire fates are the consequence at full clock. They are catastrophic by design. They are not optional or softened by GM mercy; they are what the threat does when not stopped. PCs can choose what to do about a dire fate after it lands, but they cannot un-fire it.
-- Typecast Face rolls (d6 1–4) keep the recognizable archetypes in rotation. Off-cast rolls (d6 5–6) ground villains in unexpected social origins — the fishwife turned bandit-chief, the Codex priest become heretic, the drift-come tyrant — and keep the campaign textured.
+- Typecast Face rolls (d6 1–4) keep the recognizable archetypes in rotation. Off-cast rolls (d6 5–6) ground villains in unexpected social origins — the fishwife turned bandit-chief, the Codex priest become heretic, the drift-folk tyrant — and keep the campaign textured.
 - When a threat resolves (PCs run the clock to zero, or the threat's purpose is removed), retire the entry from `active_threats.md` and note the resolution in the campaign session-log.

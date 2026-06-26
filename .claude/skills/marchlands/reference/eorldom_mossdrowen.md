@@ -8,7 +8,7 @@ Mossdrowen is the eorldom of the Greatwood verge — Hethrun's westernmost perma
 
 ## Mossdrowen — the seat
 
-Mossdrowen is a fortified hold of roughly 1,500 on the Greatwood verge — stone walls well kept, a mounted force out of all proportion to its size, and a working military discipline the larger Hethrun towns conspicuously lack. It exists to watch the verge, and has done so conscientiously for fifteen years. Two pressures define it.
+Mossdrowen is a fortified hold of roughly 8,000 on the Greatwood verge — the smallest of the eorl-seats, but stone-walled and well kept, with a mounted force out of all proportion to its size and a working military discipline the larger Hethrun towns conspicuously lack. It exists to watch the verge, and has done so conscientiously for fifteen years. Two pressures define it.
 
 **Incompetent Leaders.** Eorl Hagan is competent at exactly one thing — wood-warding the verge — and by his own admission not much good at anything else. He cannot read; he cannot do basic arithmetic and is cheated by his own reeves; he has refused four marriage offers because he cannot negotiate the contracts and is too proud to delegate them. His Witan votes are reliable only in that he does what the last person he respected told him to — which means the order in which his visitors arrive can flip the eorldom's alignment. The hold's mounted force, by contrast, is genuinely well-drilled: that part Hagan can do, and his retainers love him for training and fighting alongside them.
 

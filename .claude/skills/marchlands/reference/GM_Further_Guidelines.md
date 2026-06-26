@@ -12,7 +12,7 @@ The Marchlands operate in three layered registers, none dominant:
 
 - **Feudal noble jousting.** Courts, eorls, marriages, succession, formal speech, the slow grind of political alliance and grudge. Indirect communication is normal; indirect threats are common; honor is a real currency.
 - **High fantasy.** Magic is real, dragons exist, the dead can rise, faerie courts make pacts, gods have witnesses. The world is mythic and the players will eventually act at mythic scale.
-- **Gritty survival.** Winter kills. Disease is real. Bog-iron extraction-workers cough up blood. Drift-come die in alleys. Permadeath is the default register and the players should feel it from the first session.
+- **Gritty survival.** Winter kills. Disease is real. Bog-iron extraction-workers cough up blood. Drift-folk die in alleys. Permadeath is the default register and the players should feel it from the first session.
 
 Move between registers without warning. A courtly negotiation can pivot to a mythic revelation can pivot to a death from infection. The Marchlands do not respect genre boundaries; the GM should not either.
 
@@ -20,15 +20,17 @@ Move between registers without warning. A courtly negotiation can pivot to a myt
 
 **The world is in motion regardless of PC action.** The clocks in `active_threats.md` advance. NPCs pursue their wants in `npcs.md` and `npcs.md`. The Coronation Clock fills if the PCs do nothing. The barrow-folk stir on schedule. The campaign is not waiting for the players.
 
+**The live backdrop — the succession war.** Hethrun is a **major Marchland power** (~2,000,000 souls), not a petty kingdom. Its late king rose to **Marshal of the High King** and was organizing a Marchlands-wide **invasion of the Aureothan Empire (Ostmark)** when he **died suddenly**; the mobilized armies and ambitions have turned inward, and the realm is sliding into **civil war** around boy-king Hadric's Coronation. **Eorl Ranulf of Stonebay is already in open war**; **Count Edmund** (Aurea-backed, west) and **Count Halfdan** (northern, deep-north-backed) are poised to follow. Treat the realm as large, wealthy, and fracturing — every regional move the PCs witness is a tremor of that larger break.
+
 ---
 
-## 2. Setting facts for the drift-come PCs
+## 2. Setting facts for the drift-folk PCs
 
-The PCs are drift-come — Earth-souls displaced into the Marchlands. They are not special. Roughly 200-400 drift-come arrive across the Marchlands each year; Hethrun receives 40-80. A criminal infrastructure exists around predictable portal-zones. See `skeletons.md` for the registration system, regional policy differences, and the criminal ecosystem.
+The PCs are drift-folk — Earth-souls displaced into the Marchlands. They are not special. Roughly 200-400 drift-folk arrive across the Marchlands each year; Hethrun receives 40-80. A criminal infrastructure exists around predictable portal-zones. See `skeletons.md` for the registration system, regional policy differences, and the criminal ecosystem.
 
 ### Language at session zero
 
-Drift-come PCs arrive with native fluency in **Hethrun-Saxon** — the language is essentially English (or near enough that drift-come understand it without study). This solves the courtly-speech barrier from session one.
+Drift-folk PCs arrive with native fluency in **Hethrun-Saxon** — the language is essentially English (or near enough that drift-folk understand it without study). This solves the courtly-speech barrier from session one.
 
 Other Marchland and external languages require deliberate learning during downtime:
 - Aurean (Codex liturgy, Aurean court, House Volusen)
@@ -41,17 +43,28 @@ Other Marchland and external languages require deliberate learning during downti
 
 Influence DCs across language lines are GM-dynamic — see Section 6.
 
-### Drift-come status
+### Drift-folk status
 
-If the PCs register at one of three Crown waystations (Brendannian's Spring, Penbroke informal post, Eldermouth harbor commission), they receive a *writ of provisional standing* — one year's legal protection, right to work, right to grievance. After a year, they may petition for naturalization. Unregistered drift-come are functionally undocumented and may be detained, pressed, or sold by anyone with leverage.
+If the PCs register at one of three Crown waystations (Brendannian's Spring, Penbroke informal post, Eldermouth harbor commission), they receive a *writ of provisional standing* — one year's legal protection, right to work, right to grievance. After a year, they may petition for naturalization. Unregistered drift-folk are functionally undocumented and may be detained, pressed, or sold by anyone with leverage.
 
 The PCs will likely emerge from Skellan's Reach *unregistered*. Whether they register, hide, or improvise their legal standing is one of the first major campaign choices.
 
 ---
 
-## 3. Magic in public — trappings and registration
+## 3. Magic in public — prevalence, trappings, and registration
 
-Magic is real but not commonplace. Every form of magical practice carries an institutional affiliation that locals recognize by its trappings — the visible, audible, gestural signature of the craft. PCs casting in public are read by their trappings, and the trappings are expected to match a registered tradition. Unregistered casting is *weird* — it draws stares, gets reported to fyrd-watch, and depending on the spell, may trigger institutional response within hours.
+**Low magic is common; high magic is rare.** Marchlands magic runs on a tiered model, and the GM should populate the world accordingly:
+
+- **Cantrips** are widespread. Most villages have at least one dabbler — a hedge-caster, a cunning-woman, a charm-seller — of any class (artificer, wizard, sorcerer, bard, warlock, cleric, druid). Casting a cantrip in public is **unremarkable**; nobody flinches at a light, a mending, a mage-hand.
+- **Low spells (1st–2nd level)** are **medium-common**. A typical village has someone who can manage a basic spell or two; towns have several practitioners; cities have many. Basic public casting at this tier is ordinary working life, not a wonder.
+- **Mid spells (3rd–5th level)** are **medium-uncommon** and sold for real coin. A town might field one or two practitioners who can reach this tier; a city has several.
+- **High magic (6th level and up), guaranteed cures, and resurrection** are **rare, costly, Codex-gated, and plot-tier.** This is where awe, scarcity, and faction-politics live — not at the low end.
+
+The grit of the world does **not** come from magic being scarce; it comes from the **threats** (Section 4, `threat_generator.md`, `bestiary.md`), from winter and disease, and from the cost of *reliable* high magic. Do not run the setting as one where a single rare caster serves a whole town, where peasants gawp at a spark, or where every casting is priced beyond commoners. The low end is everywhere; the high end is the prize.
+
+### Trappings and registration
+
+Casting at the low end is common, but every form of magical practice still carries an institutional affiliation that locals recognize by its trappings — the visible, audible, gestural signature of the craft. The trappings tell observers *which tradition* a caster belongs to, not *whether magic is strange*. PCs casting in public are read by their trappings, and the trappings are expected to match a known tradition. Casting whose trappings match **no** recognizable tradition — a drift-folk's untaught spellwork, an unaffiliated style — is what draws notice: not "magic exists!" but "whose magic is that, and why don't I know the school?"
 
 ### By class
 
@@ -66,14 +79,14 @@ Magic is real but not commonplace. Every form of magical practice carries an ins
 
 ### Response calibration
 
-If a PC casts in public without trappings matching a known tradition, treat as social provocation — not necessarily hostile, but unmistakably noteworthy:
+Casting with trappings that match a known, locally-accepted tradition draws no special response at the low tiers — a cantrip or a basic spell from a recognizable hedge-caster, cunning-woman, or registered practitioner is part of ordinary life. The response below is for casting whose **trappings match no recognizable tradition** (the usual drift-folk problem), scaled by tier:
 
-- **Cantrips** draw extended stares. Patrons go quiet. A barkeep takes a step back.
-- **First-level spells** get reported to fyrd-watch within the day. Wulfhere of the Walls or his counterpart in other settlements will follow up.
-- **Higher-level spells** get a fyrd response, possibly an arrest, possibly a cathedral visit.
-- **Damage spells in public** are read as combat by default; bystanders flee, fyrd responds with force.
+- **Cantrips and basic (1st–2nd) spells** from an *unaffiliated* caster draw curiosity and questions — "where did you train?" — more than alarm. The same spell from a known local practitioner draws nothing.
+- **Mid spells (3rd–5th)** from anyone unaffiliated get reported to fyrd-watch within the day. Wulfhere of the Walls or his counterpart in other settlements will follow up; this tier is uncommon enough to be noted regardless of trappings.
+- **High spells (6th+)** get a fyrd response, possibly an arrest, possibly a cathedral visit, because this tier is rare anywhere.
+- **Damage spells in public** are read as combat by default at any tier; bystanders flee, fyrd responds with force.
 
-In private (a closed inn room, a wilderness camp, behind shrubs in the Greenways) magic is invisible to the institutions. The GM's job is to track *who is watching*.
+In private (a closed inn room, a wilderness camp, behind shrubs in the Greenways) magic is invisible to the institutions. The GM's job is to track *who is watching* and *whether the trappings read as belonging.*
 
 ---
 
@@ -97,7 +110,7 @@ The Medicine check to stabilize a dying creature requires a healer's kit charge 
 
 ### Resurrection
 
-Standard 5.5e resurrection rules apply. The GM determines who in Hethrun is willing to cast and at what cost based on the lore files. Faction politics, diamond economics (300gp+ for the cheapest, scaling up), and theological doctrine (the Codex Patriarchate has not resolved whether drift-come have souls) shape availability.
+Standard 5.5e resurrection rules apply. The GM determines who in Hethrun is willing to cast and at what cost based on the lore files. Faction politics, diamond economics (300gp+ for the cheapest, scaling up), and theological doctrine (the Codex Patriarchate has not resolved whether drift-folk have souls) shape availability.
 
 ---
 
@@ -223,7 +236,7 @@ Drift into formality, indirection, or skaldic register only when the named NPC's
 - **`npcs.md`, `npcs.md`** — NPC speech, tics, wants, fears, hooks
 - **`active_threats.md`** — campaign clocks and pressures
 - **`adventure_seeds.md`** — eighteen tier-tagged hooks
-- **`skeletons.md`** — session zero, the Skellan's Reach opener, drift-come setting facts
+- **`skeletons.md`** — session zero, the Skellan's Reach opener, drift-folk setting facts
 - **`lore.md`** — the gods
 - **`lore.md`** — Aureoth's fall, the Marchland Breakaway, Hethrun's founding
 - **`lore.md`** — Aurea, Ostmark, Silvering, dwarves, Chola, etc.

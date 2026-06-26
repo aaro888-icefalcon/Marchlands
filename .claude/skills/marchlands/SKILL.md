@@ -2,7 +2,7 @@
 name: marchlands
 description: >-
   Companion content pack for the mythic-gm engine: run the MARCHLANDS, a gritty D&D 2024
-  (5.5e) isekai campaign in the petty kingdom of Hethrun on a fallen-empire northern frontier.
+  (5.5e) isekai campaign in the kingdom of Hethrun on a fallen-empire northern frontier.
   Use whenever the user wants to play, start, or continue Marchlands; create a 5.5e character
   dropped into Hethrun; resolve a 5.5e action, combat, clock, or faction move; or explore the
   eorldoms, the Heath and its barrows, the Greatwood, or the Iron Strait. Triggers on
@@ -59,7 +59,7 @@ Threads/Characters Lists, surface as **Random Events, Turning Points, and scene 
 ## Session Zero (Marchlands choices)
 Run mythic-gm's Session Zero with these settings:
 - **Ruleset** → `bridge/system-profile.md` (D&D 5.5e). **Setting** → `bridge/setting-canon.md`. **Genre/tone** → `bridge/interpretation.md` + `bridge/chaos-tendency.md`. **Themes** → `bridge/theme-weights.md`.
-- **Create the PC:** a 5.5e character **dropped into Hethrun as a drift-come outsider** (`assets/templates/character-sheet.md`). Walk real choices; roll any stats via `dice.py roll`.
+- **Create the PC:** a 5.5e character **dropped into Hethrun as a drift-folk outsider** (`assets/templates/character-sheet.md`). Walk real choices; roll any stats via `dice.py roll`.
 - **Seed the Lists** from the eorldom of arrival and its tensions (`world-model.md` §2). The classic opening is **Skellan's Reach / Eldermouth**, with the **Coronation crisis** as the default campaign spine (`reference/active_threats.md`, `reference/adventure_seeds.md`).
 
 ## Content map (`reference/` — read only the file you need)

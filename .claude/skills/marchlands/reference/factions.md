@@ -4,7 +4,7 @@ Every coherent organized force whose action affects Hethrun at session zero or d
 
 ## Entity index
 
-**Internal Hethrun factions** — The Boy-King's Regency (Hadric, Isolde, Severin, Aldwin) · Ranulf's Faction (Stonebay, the pretender) · Cuthbert's Wildcards (Brackenford) · Old Faith in Hethrun (Gythwin, Old Eorland, Asgrim, Mildryd)
+**Internal Hethrun factions** — The Boy-King's Regency (Hadric, Isolde, Severin, Aldwin) · Ranulf's Faction (Stonebay, the pretender, already at war) · Count Edmund's Hollowford March (Aurea-backed, west) · Count Halfdan's Northern Marchers (deep-north-backed, North Coast) · Cuthbert's Wildcards (Brackenford) · Old Faith in Hethrun (Gythwin, Old Eorland, Asgrim, Mildryd)
 
 **Transregional faith factions** — The Codex Church (Patriarch Hadrian XII, Severin, Aldhelm) · The Marchland Old Faith broader network (Ealhswith, Bogumir) · The Burning One Cult (Branwald, Theron Heliodoros)
 
@@ -16,7 +16,7 @@ Every coherent organized force whose action affects Hethrun at session zero or d
 
 <!-- merged from: factions.md -->
 
-This file covers the four primary internal Hethrun factions: the boy-king's regency, Eorl Ranulf's faction, Eorl Cuthbert's wildcards, and the Old Faith network operating within Hethrun. Each is a coherent force with clocks, methods, and named leadership. Other internal forces (the Eldermouth guilds, Stonebay's Council of Twelve, the Hollow-Hill Crew) are treated in their respective settlement and region files.
+This file covers the primary internal Hethrun factions and the live spine that organizes them — **the Succession War.** Hethrun's late king (boy-king Hadric's father) had risen to **Marshal of the High King** and was rallying a Marchlands-wide invasion of the Aureothan Empire (Ostmark, in the east). He **died suddenly** — cause ambiguous and suspicious, an Ostmark or Ranulf hand a live possibility to discover in play — and the armies and ambitions he had mobilized turned *inward*. The realm is now sliding into civil war, with the **Coronation** (Hadric must be crowned by midwinter, roughly six weeks out) as the flashpoint. There are four power-players: the **legitimate-but-weak Regency** (Hadric, Isolde); **Eorl Ranulf of Stonebay**, Ostmark-backed, the pretender, **already in open war**; **Count Edmund of the Hollowford March**, Aurea-backed (House Volusen) western hardliner, **poised to rise**; and **Count Halfdan**, deep-north-backed (Skarrgaard / the Cloven Strand Jarldom), moving on the dying Eorl Berthwald's North Coast succession, also **poised**. Edmund and Halfdan are in a wary marriage-of-convenience against Ranulf. Each of these, plus Eorl Cuthbert's wildcards and the Old Faith network, is sketched below as a coherent force with clocks, methods, and named leadership. Other internal forces (the Eldermouth guilds, Stonebay's Council of Twelve, the Hollow-Hill Crew) are treated in their respective settlement and region files.
 
 ---
 
@@ -24,7 +24,7 @@ This file covers the four primary internal Hethrun factions: the boy-king's rege
 
 ### Essence
 
-The faction is the queen-mother's regency around the twelve-year-old King Hadric, supported by Master Aldwin and (in fading capacity) Sigevard the Silver-Tongue, increasingly dependent on Aurean envoy Cassian Drey and the Eldermouth Codex bishopric. It defends the legitimate succession while making strategic errors that benefit its enemies.
+The faction is the queen-mother's regency around the twelve-year-old King Hadric, supported by Master Aldwin and (in fading capacity) Sigevard the Silver-Tongue, increasingly dependent on Aurean envoy Cassian Drey and the Eldermouth Codex bishopric. It is the legitimate but weak center of a realm sliding into civil war: Hadric's father, the late king, had risen to Marshal of the High King and was rallying a Marchlands-wide invasion of Ostmark when he died suddenly; the armies and ambitions he mobilized have turned inward, and the regency now inherits an unfinished war it cannot command and three rival lords (Ranulf already in open war, Edmund and Halfdan poised) it cannot defeat. It defends the legitimate succession while making strategic errors that benefit its enemies.
 
 ### Tier and Hold
 
@@ -59,7 +59,7 @@ The faction's strategic execution is, at the working level, sincerely incompeten
 - **The Eldermouth royal household**, court ceremonial, the appearance of legitimacy
 - **Aurean connections** through Isolde personally and Cassian Drey diplomatically; House Volusen will move resources at Isolde's request if asked correctly
 - **Codex Church alignment**, Severin's support, the diocese's intelligence and money
-- **The royal fyrd-watch** (forty men under Wulfhere of the Walls) and theoretical command of the wider Hethrun fyrd (which would not muster reliably under regency call alone)
+- **The royal fyrd-watch** (the Eldermouth household guard, several hundred under Wulfhere of the Walls) and theoretical command of the wider Hethrun fyrd — a major realm's levy of many thousands, mostly committed or stranded by the late Marshal-king's aborted invasion mobilization, and which would not muster reliably under regency call alone
 
 ### Leadership
 
@@ -112,7 +112,7 @@ The faction's strategic execution is, at the working level, sincerely incompeten
 
 ### Resources
 
-The regency commands the royal treasury (depleted), the royal fyrd-watch (forty men, plus theoretical fyrd-call authority for ~600 fyrdmen across the kingdom), the cathedral's discreet support, the Aurean compound's resources via Drey, Master Aldwin's arcane services (limited; Aldwin is not at his peak), the kingdom's ceremonial and legal authority, and the boy-king himself as a legitimacy asset.
+The regency commands the royal treasury (depleted), the royal fyrd-watch (the Eldermouth household guard, several hundred strong, plus nominal fyrd-call authority over a major realm's levy of many thousands — most of it mobilized for the late Marshal-king's invasion and now leaderless, scattered, or drifting to other lords), the cathedral's discreet support, the Aurean compound's resources via Drey, Master Aldwin's arcane services (limited; Aldwin is not at his peak), the kingdom's ceremonial and legal authority, and the boy-king himself as a legitimacy asset.
 
 ### Hooks
 
@@ -130,7 +130,7 @@ The regency is sympathetic at first acquaintance — Lady Isolde is genuine, Ald
 
 ### Essence
 
-The faction is built around Eorl Ranulf of Stonebay, openly contesting the succession by procedural means, supported by the Stonebay Council of Twelve (especially the Bone-Sayers), the Cloven Strand jarldom in quiet cooperation, the Burning One cult through Branwald the Star-Priest, and Eorl Hagan of Mossdrowen when last persuaded. The faction is the kingdom's most coherent organized force at session zero.
+The faction is built around Eorl Ranulf of Stonebay, the pretender, who has moved past procedural obstruction into **open war** — the first of the four power-players to do so. He still presses the procedural argument in the Witan (a boy-king cannot be crowned without consensus, which he denies), but his Stonebay levies and Cloven Strand-routed raiders are now skirmishing in the marches, and Count Halfdan's northern troops are skirmishing them back. He is supported by the Stonebay Council of Twelve (especially the Bone-Sayers), the Cloven Strand jarldom in quiet cooperation, the Burning One cult through Branwald the Star-Priest, secret Ostmark backing (the very empire the late Marshal-king meant to invade), and Eorl Hagan of Mossdrowen when last persuaded. The faction is the kingdom's most coherent organized force at session zero.
 
 ### Tier and Hold
 
@@ -161,10 +161,11 @@ Someone in Ranulf's faction has a hidden magical gift that has been instrumental
 
 ### Methods and tools
 
-- **Procedural obstruction** of the Witan — Ranulf has not formally claimed the throne, just refused to consent to Hadric's coronation
+- **Open war** — Ranulf has not formally proclaimed himself king (he waits for the Witan to call him), but he has stopped waiting on the field: Stonebay levies and raiders are loose in the marches, and he has the strongest single host of any contender
+- **Procedural obstruction** of the Witan — the legal track he runs in parallel: refuse consent to Hadric's coronation, deny the realm its consensus, force the council to call him
 - **Stonebay's Council of Twelve** and especially the Bone-Sayers' intelligence operation
-- **The Cloven Strand jarldom** in quiet alliance (Hadolf One-Hand has not committed troops but will if needed)
-- **Branwald's quiet pact-power** and Ostmark connections
+- **The Cloven Strand jarldom** in quiet alliance (Hadolf One-Hand has not committed his main force but his raiders are already in play, and the rest will follow if needed)
+- **Branwald's quiet pact-power** and secret Ostmark backing
 - **Genuine political talent**; Ranulf is genuinely good at this work, separately from luck
 - **Cedric of Stonebay** (Hadric's companion) as an information channel into the regency
 - **The Aldermarket counter-rumor** capability (Edrid Bone-Sayer)
@@ -179,7 +180,9 @@ Someone in Ranulf's faction has a hidden magical gift that has been instrumental
 
 ### Relationships to other factions
 
-- **The regency** — Status -2 (hostile contest)
+- **The regency** — Status -3 (open war)
+- **Count Edmund's Hollowford March** — Status -2 (hostile; Edmund is one of the two lords whose marriage-of-convenience is aimed squarely at Ranulf)
+- **Count Halfdan's Northern Marchers** — Status -2 (hostile; Halfdan's troops are actively skirmishing Ranulf's raiders in the northern marches)
 - **Cuthbert's wildcards** — Status 0 to +1, depending on which way Cuthbert most recently voted
 - **Old Faith in Hethrun** — Status 0 (neutral; Ranulf is Norse, Sky-Father and Raven inclined, the Old Faith respects but does not yet trust him)
 - **Codex Church (Severin)** — Status -2 (opposed; Severin needs the regency)
@@ -221,7 +224,7 @@ Someone in Ranulf's faction has a hidden magical gift that has been instrumental
 
 ### Resources
 
-Stonebay's wealth, the Council of Twelve's organizational power, the Bone-Sayers' intelligence reach, Cloven Strand naval and raiding capability (potential, not yet committed), Branwald's pact-power and Ostmark backing, the Stonebay fyrd (~250 fyrdmen, better-armed than Eldermouth's), and the goodwill of Norse-blooded Hethrunfolk broadly.
+Stonebay's wealth (the wealthiest eorldom of a major realm), the Council of Twelve's organizational power, the Bone-Sayers' intelligence reach, Cloven Strand naval and raiding capability (raiders already committed, the main fleet held in reserve), Branwald's pact-power and Ostmark backing, the Stonebay fyrd (several thousand, the best-armed and most coherent host any contender fields, already mustered for war), and the goodwill of Norse-blooded Hethrunfolk broadly.
 
 ### Hooks
 
@@ -232,7 +235,102 @@ Stonebay's wealth, the Council of Twelve's organizational power, the Bone-Sayers
 
 ### Notes for the AI Game Master
 
-Ranulf is genuinely sympathetic in person — competent, well-spoken, dignified. His case for the throne is procedurally legitimate. Players who only meet him casually may come away thinking the regency is the wrong side. Branwald is the central reason the faction is more dangerous than it looks; the GM should be careful to show his calm patience rather than have him scheme visibly. The faction's dread is the dragon-blood; if Hadric manifests at the wrong moment, Ranulf's coalition fractures.
+Ranulf is genuinely sympathetic in person — competent, well-spoken, dignified. His case for the throne is procedurally legitimate. Players who only meet him casually may come away thinking the regency is the wrong side. Branwald is the central reason the faction is more dangerous than it looks; the GM should be careful to show his calm patience rather than have him scheme visibly. The faction's dread is the dragon-blood; if Hadric manifests at the wrong moment, Ranulf's coalition fractures. Remember that Ranulf is already at war: he is not merely obstructing, he is *fighting*, and his raiders are loose where Halfdan's troops patrol.
+
+---
+
+## Count Halfdan's Northern Marchers
+
+### Essence
+
+The faction is built around **Count Halfdan**, a hard, cold northern marcher lord and war-captain who is moving to seize the dying Eorl Berthwald's North Coast succession before any other claimant — Berthwald's own heir Wulfric the Younger included — can secure it. Halfdan is **deep-north-backed**: Skarrgaard (Jarl Sigridr Bone-Reader) and the Cloven Strand Jarldom's wider deep-north network (Hadolf One-Hand) have quietly thrown their weight behind him as a counter to Ranulf's reach into the same northern waters. He is the fourth power-player of the Succession War: **poised**, not yet in open contest for the crown, but his troops already patrol the northern marches and skirmish Ranulf's raiders. He and Count Edmund of the Hollowford March hold a wary marriage-of-convenience, each backing the other against Ranulf while distrusting the other's patrons.
+
+### Tier and Hold
+
+- **Tier:** 3 — county-equivalent in seat, but fielding a war-captain's host disproportionate to his lands and propped by deep-north backing
+- **Hold:** Strong — Halfdan's troops are disciplined, in the field, and unencumbered by the regency's procedural paralysis; what is weak is his *legitimacy*, which the North Coast succession is meant to supply
+
+### Status vs party
+
+- **Starting status:** 0 — neutral. Halfdan's men took the captives in the campaign's opening skirmish; first contact may well be from the wrong end of his patrols.
+
+### Character Tags
+
+#### Cold Captain
+
+Halfdan's defining quality is a hard, deliberate coldness. He is not cruel for sport, but he spends men and burns villages with the unsentimental arithmetic of a war-captain who has decided the prize justifies the price. His ambition is naked and his patience tactical. Where Ranulf believes he is fated and Edmund craves recognition, Halfdan simply *means to win*, and has counted the cost in advance.
+
+- **Ambition:** Take the North Coast succession by the time Berthwald dies — by moot, by marriage, by force, or by all three — and convert a borrowed deep-north host into a marcher eorldom of his own.
+- **Power:** A disciplined, war-ready host and the deep-north's quiet silver and ships behind it, at a moment when every rival's strength is committed, scattered, or paralyzed.
+- **Dread:** That his deep-north patrons (Skarrgaard, the Cloven Strand) own him more than he owns them — that he is a tool being positioned, and that the day he is no longer useful they will trade him to Ranulf as easily as they backed him.
+
+#### Marriage of Convenience
+
+Halfdan's alliance with Count Edmund is a cold bargain between two ambitious men who trust neither each other nor their respective foreign backers (the deep-north for Halfdan, Aurea / House Volusen for Edmund), but who agree on one thing: Ranulf must not take the crown. Each expects to outlast and outmaneuver the other once Ranulf is dealt with.
+
+- **Ambition:** Use Edmund's Aurean coin and western weight to pin Ranulf from the south while Halfdan's host pins him from the north — and to be the one still standing when the bargain inevitably breaks.
+- **Power:** A two-front squeeze on Ranulf that neither lord could mount alone.
+- **Dread:** That Edmund's excavation — whatever is changing him — makes Edmund the greater danger, and that Halfdan has allied himself to a thing he does not understand.
+
+### Methods and tools
+
+- **A war-ready host** — disciplined northern troops already deployed along the marches, the most immediately usable force of any contender bar Ranulf
+- **Deep-north backing** — Skarrgaard's silver and ships and the Cloven Strand network's quiet weight, channeled to Halfdan as a counter to Ranulf
+- **The North Coast succession** — the legitimacy-prize he is racing for; Berthwald is dying, the heir Wulfric the Younger is untested, and the moot can be courted, coerced, or pre-empted
+- **Skirmish-warfare in the northern marches** — patrols, raids, and counter-raids against Ranulf's incursions, which keep Ranulf's northern flank bleeding
+- **The Edmund marriage-of-convenience** — a southern pincer-partner against the common enemy
+
+### Leadership
+
+- **Count Halfdan.** Personal stake: a marcher eorldom of his own carved from the North Coast, and freedom from the patrons who backed him. Vulnerability: he is more dependent on the deep-north than his cold manner admits, and may be a piece on someone else's board. (See `npcs.md`.)
+- **Jarl Sigridr Bone-Reader of Skarrgaard** and **Jarl Hadolf One-Hand of the Cloven Strand**, his deep-north patrons (each with their own agenda; see their faction and NPC entries).
+- **Count Edmund of the Hollowford March**, his wary southern ally-of-convenience.
+
+### Relationships to other factions
+
+- **The regency** — Status -1 (friction; Halfdan is poised, not yet openly against the crown, but his land-grab pre-empts a crown succession decision and he answers to foreign patrons)
+- **Ranulf's faction** — Status -2 (hostile; active skirmishing in the northern marches)
+- **Count Edmund's Hollowford March** — Status +1 (wary alliance-of-convenience against Ranulf)
+- **Cuthbert's wildcards** — Status 0 (neutral; not yet engaged)
+- **Old Faith in Hethrun** — Status 0 (neutral)
+- **Codex Church (Severin)** — Status -1 (friction; Halfdan is northern, deep-north-backed, and no friend of the Aurean Codex)
+- **Skarrgaard** — Status +2 (patron)
+- **The Cloven Strand jarldom** — Status +2 (patron-network; note this overlaps Ranulf's old sworn-brotherhood with Hadolf, a tension Halfdan exploits)
+- **The High King's observer** — Status -1 (friction; Cyneberht prefers a settled, lawful Hethrun, not a deep-north-propped land-grab)
+
+### Active project clocks
+
+#### Clock 1: Seize the North Coast succession
+
+- **Segments:** 3 / 6 — Berthwald is dying, Halfdan's troops are in position, and the North Coast moot is being worked; the heir Wulfric the Younger is the chief obstacle
+- **Advances when:** Berthwald's health fails further; Halfdan wins or coerces North Coast moot-support; a marriage-tie or a battlefield fact is established; Ranulf's raiders are visibly driven off (which makes Halfdan the coast's protector)
+- **Empties when:** Wulfric the Younger secures a clean succession; the regency or High King formally backs a rival claimant; Halfdan's deep-north backing is exposed and discredited; the Edmund alliance collapses, leaving Halfdan to face Ranulf alone
+- **Triggers at completion:** Halfdan holds the North Coast in fact if not yet in law; he becomes a fourth crowned-realm power and a direct counterweight to Ranulf in the north
+- **Linked rumors:** Berthwald's failing health; northern village-burnings and counter-raids; deep-north ships off the fjord-coast; Halfdan's couriers to Edmund
+
+### Downtime moves (d6)
+
+1. **Patrol and counter-raid against Ranulf's incursions** — opportunistic; bleeds Ranulf's northern flank; may advance Clock 1 (Halfdan as the coast's protector)
+2. **Court or coerce a North Coast moot-voice** — advances Clock 1
+3. **Coordinate with Count Edmund** — opportunistic; tightens the southern pincer on Ranulf
+4. **Receive deep-north silver or ships** — opportunistic; resupplies the host; deepens the patron-debt
+5. **Press the dying Berthwald's court** — advances Clock 1; risks galvanizing Wulfric the Younger's defenders
+6. **Take and hold captives / prizes from a skirmish** — opportunistic; leverage and intelligence (this is how the campaign's opening captives were taken)
+
+### Resources
+
+A disciplined war-ready host out of proportion to his county; deep-north silver and ships (Skarrgaard, Cloven Strand); position astride the North Coast succession; the Edmund alliance's southern weight against Ranulf; a war-captain's hard reputation that makes wavering northern lords calculate carefully.
+
+### Hooks
+
+- Halfdan's patrols took captives in a marches skirmish (the campaign's opening); the party may be among them, sent to ransom them, or hired to recover prisoners or prizes.
+- A North Coast moot-voice, or Berthwald's heir Wulfric the Younger, seeks help against Halfdan's pre-emption of the succession.
+- Halfdan himself hires hard, capable outsiders for marcher work — scouting Ranulf's raiders, escorting deep-north couriers, or carrying a cold message to Count Edmund.
+- The deep-north backing is the secret worth uncovering: who truly commands Halfdan's host, and whether he knows he may be a piece on Skarrgaard's board.
+
+### Notes for the AI Game Master
+
+Halfdan is the coldest of the four power-players and the one most willing to *act* — Ranulf is at war but believes himself fated; Edmund is poised but craves recognition; Halfdan simply moves. Play him as deliberate, unsentimental, and economical, a man who has already done the arithmetic. He and Edmund are allies who each plan to betray the other; the GM should let that tension show in their dealings without resolving it early. His deep-north patrons are the thread that, pulled, unravels him — and connects the Succession War to Skarrgaard and the Cloven Strand's own games.
 
 ---
 
@@ -338,6 +436,8 @@ Cuthbert is genuinely undecided. The GM should not pre-determine his decision; i
 ### Essence
 
 The Old Faith in Hethrun is the network of Sky-Father, Raven, and Veiled Mother adherents working as a quiet coalition against the Codex Church's increasing political weight. It is not a formal organization; it is a coordinated mutual support among priests, cunning-folk, midwives, skalds, and laypeople whose faith the Codex would prefer to suppress. The network is led, in functional terms, by Gythwin the Cunning (Heath) for the Veiled Mother strand, Old Eorland at Stormwatch Hermitage for the Sky-Father strand, and Sigevard the Silver-Tongue for the Raven strand. Sister Halgrid the Lay in Eldermouth, Wennild at Penbroke Crossroads, the elderly Sky-Father priest Aelfwin at court, and Eorlswife Mildryd at Brackenford are key middle-tier figures.
+
+**On drift-folk, the Old Faith is simply indifferent.** Where the Codex frets over whether a given drift-folk soul is holy or damned, the older faiths see no theological problem at all: people arrive from elsewhere as they always have, the world is wide and strange, and a stranger is a stranger. The Old Faith neither stigmatizes nor venerates the drift-folk for what they are; it judges them, like anyone, by their conduct. (This indifference is itself a quiet point of contrast the network can use against the Codex's anxious case-by-case scrutiny.)
 
 ### Tier and Hold
 
@@ -454,6 +554,8 @@ This file covers the three transregional faith factions whose ambitions extend b
 ### Essence
 
 The Codex Church is the transnational Aureothan-continuator faith, organized under the Patriarch in Aurea, with bishoprics in every Marchland region and ambitions extending to all regions where it does not yet dominate. In Hethrun specifically, the Eldermouth diocese under Father Severin is positioned to elevate to metropolitan status if the political dynamics resolve favorably. The Church holds significant economic power, considerable intelligence capacity (the weekly accounting tradition), and a deep institutional culture descending five centuries from Aureoth's collapse.
+
+**On drift-folk, the Codex is divided** — and this is a live political fault line, not a settled doctrine. A revered major prophet of the Church was, by tradition, drift-folk; a recent reviled heretic and "anti-Christ" was also drift-folk. The Church therefore treats drift-folk **case-by-case**: such a soul may be drift-blessed or drift-tainted, holy or damned, a sign of grace or of corruption, and which a given cleric (or faction within the Church) decides can turn on politics as much as piety. Severin and his hard-liners lean toward suspicion; moderates (Sister Aelfwyn's circle) toward charity. There is no demon-panic here — the question is one of judgment and faction, and the players can find clerics on either side of it.
 
 ### Tier and Hold
 
@@ -1257,7 +1359,7 @@ Wulfgar is the subject of an external power's long-game design. Which external p
 
 ### Essence
 
-Norse jarldom on the northern North Coast, ruled by **Jarl Hadolf One-Hand**, sworn-brother of Ranulf's youth, now wary ally. The jarldom is the most independent of the Marchland coastal Norse polities, having broken from Skarrgaard a century ago and never fully reconciled with either the Norse pirate-state or the Hethrun crown.
+Norse jarldom on the northern North Coast, ruled by **Jarl Hadolf One-Hand**, sworn-brother of Ranulf's youth, now wary ally. The jarldom is the most independent of the Marchland coastal Norse polities, having broken from Skarrgaard a century ago and never fully reconciled with either the Norse pirate-state or the Hethrun crown. In the Succession War the Cloven Strand plays a double game: still allied to Ranulf in form, the deep-north network around Hadolf has also become a quiet **patron of Count Halfdan**, the northern marcher seizing the North Coast succession — a hedge that keeps a deep-north hand on both sides of the northern fighting.
 
 ### Tier and Hold
 
@@ -1298,7 +1400,7 @@ The Cloven Strand peninsula contains an offshore island called **Stridvik** ("St
 
 ### Essence
 
-The Hollowford March is the southern Hethrun border county under **Count Edmund**, technically a vassal of the Hethrun crown but politically positioning toward Aurean alignment and serving as Hethrun's main land-bridge to the Wessmark frontier. Edmund is the rival figure Cuthbert worries about. The March is one of Hethrun's six independent crown-vassal thanedoms; this sheet treats Edmund as an antagonist faction, while `independent_thanedoms.md` covers the March as a place — its seat, Hollowford Monastery, the enclosure lands, and the hooks.
+The Hollowford March is the western Hethrun border county under **Count Edmund**, technically a vassal of the Hethrun crown but politically positioning toward Aurean alignment (House Volusen funds him) and serving as Hethrun's main land-bridge to the Wessmark frontier. Edmund is one of the four power-players of the Succession War: a western hardliner and **encloser**, **poised to rise**, holding a strong keep and excavating an Aureothan ruin whose sealed chamber is changing him. He is the rival figure Cuthbert worries about — and he is in a **wary marriage-of-convenience with Count Halfdan** (the deep-north-backed northern marcher), each backing the other against Eorl Ranulf while distrusting the other's foreign patrons and each meaning to outlast the bargain. The March is one of Hethrun's crown-vassal thanedoms; this sheet treats Edmund as an antagonist faction, while `independent_thanedoms.md` covers the March as a place — its seat, Hollowford Monastery, the enclosure lands, and the hooks.
 
 ### Tier and Hold
 
@@ -1332,6 +1434,7 @@ Edmund's other tag-context is the more intimate one. He craves *recognition* —
 - Edmund's enclosures have displaced peasants who appeal to the party for help.
 - Edmund hires the party to "investigate suspicious activity" on his lands (away from the chamber).
 - An object from the chamber turns up in Eldermouth, and the trail leads back.
+- A cold courier passes between Edmund and Count Halfdan — the wary marriage-of-convenience against Ranulf — and the party may intercept, carry, or sour it.
 
 ---
 
@@ -1421,7 +1524,7 @@ Obasi-of-Bright-Veil's public face is the temple-speaker; his private face is th
 
 ### Essence
 
-The Norse pirate-state of Skarrgaard, occupying the southwestern archipelago of the Vellanaadu seas, in slow-burn war with the Chola protectorate. Currently led by **Jarl Sigridr Bone-Reader**, a former rune-witch turned jarl after winning the formal succession-duels eleven years ago.
+The Norse pirate-state of Skarrgaard, occupying the southwestern archipelago of the Vellanaadu seas, in slow-burn war with the Chola protectorate. Currently led by **Jarl Sigridr Bone-Reader**, a former rune-witch turned jarl after winning the formal succession-duels eleven years ago. Despite Sigridr's exhaustion, Skarrgaard has reached north into the Hethrun Succession War as a **patron of Count Halfdan**, lending silver and ships to his bid for the North Coast — a low-cost way to plant a deep-north client on the Iron-Strait flank and counter Ranulf's own northern reach.
 
 ### Tier and Hold
 

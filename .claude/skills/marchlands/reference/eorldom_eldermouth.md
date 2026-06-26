@@ -4,15 +4,15 @@ The crown demesne — Eldermouth and the central Greenways — held by the King 
 
 ## The crown demesne — essence
 
-The crown demesne is the heart of Hethrun: the walled capital of Eldermouth, the central Greenways farmland around it, and the royal forests west of the River Elder. The King holds it directly — at session zero that means the regency holds it, governing for the boy-king Hadric. Three crown-thanes hold thanelands of the demesne, owing service to the crown rather than to any eorl. The demesne is the realm's administrative and trade centre and the ground on which the Coronation crisis is most densely fought: all three crisis factions keep residences within a quarter-mile of the Royal Hall.
+The crown demesne is the heart of Hethrun: the walled capital of Eldermouth, the central Greenways farmland around it, and the royal forests west of the River Elder. The King holds it directly — at session zero that means the regency holds it, governing for the boy-king Hadric, whose father, the late Marshal of the High King, died suddenly: his planned Marchlands-wide invasion of the Aureothan Empire collapsed, the mustered armies and ambitions have turned inward, and the realm is sliding into civil war. Three crown-thanes hold thanelands of the demesne, owing service to the crown rather than to any eorl. The demesne is the realm's administrative and trade centre and the ground on which the Coronation crisis is most densely fought: all three crisis factions keep residences within a quarter-mile of the Royal Hall.
 
 ## Eldermouth — the capital
 
-Eldermouth is a walled town of roughly 12,000 at the mouth of the River Elder, built on Aureothan foundations — Hethrun's capital, chief southern port, and seat of the Codex bishopric. Two pressures define it.
+Eldermouth is a walled city of roughly 45,000 at the mouth of the River Elder, built on Aureothan foundations — Hethrun's capital, chief southern port, and seat of the Codex bishopric. Two pressures define it.
 
 **Toxic Economy.** Eldermouth's prosperity rests on three loads its merchants do not advertise. Bog-iron from the Heath is drawn under the Old Faith's ancient bog-water exemption, but the extraction-workers sicken, and the Codex Church does not treat them free. Much "southern trade" through Eldermouth's customs is Aurean coastal-raid plunder, fenced through the Hollow-Hill Crew with customs officials taking a cut. The cathedral's silver altarware was paid two generations ago by a single Heath bog-iron contract that left fifteen years of visible illness behind it. The wealth is real; the cost is real; most townsfolk choose not to think about it.
 
-**Population Boom.** The town has roughly doubled in twenty years — Aurean trade, bog-iron expansion, Codex administrative growth, and Greenways refugees displaced by Count Edmund's enclosures. Its institutions have not kept up: walls built for 6,000 hold 12,000, the New Quarter outside the southern wall is unwalled and ramshackle, the watch is forty fyrdmen and undermanned, and a sharp class tension runs between established Hethrunfolk and the newcomers they treat as freeloaders.
+**Population Boom.** The city has roughly doubled in twenty years — Aurean trade, bog-iron expansion, Codex administrative growth, and Greenways refugees displaced by Count Edmund's enclosures. Its institutions have not kept up: walls raised for some 22,000 now hold 45,000, the New Quarter outside the southern wall is unwalled and ramshackle, the watch is a few hundred fyrdmen and badly undermanned for the press of people, and a sharp class tension runs between established Hethrunfolk and the newcomers they treat as freeloaders.
 
 ## Eldermouth — quarters and notable places
 

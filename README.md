@@ -3,8 +3,8 @@
 A solo / GM-less tabletop RPG you play **with Claude**, in this repository.
 Say *"be my GM for Marchlands"* and Claude runs the game.
 
-**Marchlands** is a gritty, low-magic **isekai** campaign: a drift-come outsider
-(you) dropped into the petty kingdom of **Hethrun**, on the northern frontier of
+**Marchlands** is a gritty, low-magic **isekai** campaign: a drift-folk outsider
+(you) dropped into the kingdom of **Hethrun**, on the northern frontier of
 a fallen empire — D&D 2024 (5.5e) rules, permadeath on by default, honest dice,
 no rescues.
 

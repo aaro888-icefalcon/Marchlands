@@ -8,7 +8,7 @@ NPC sketches for every named figure who acts in or on Hethrun. Each entry covers
 
 **The seven eorls of the Witan** — Ranulf of Stonebay · Cuthbert of Brackenford · Eorlswife Mildryd of Brackenford · Hagan of Mossdrowen · Berthwald of the North Coast · Hereward of the Harrowmark · Osgar of the Wealdvale · Ketil of the Fells
 
-**Counts of the independent thanedoms** — covered in eorldoms/thanedoms reference
+**Counts of the independent thanedoms** — Count Edmund (Hollowford March) · Count Halfdan (northern marcher, North Coast succession) · others covered in eorldoms/thanedoms reference
 
 **Codex bishopric** — Father Severin (Eldermouth) · Sister Aelfwyn (Hollowford)
 
@@ -324,7 +324,7 @@ The intent is utility at the table: read the sketch, find the voice, play the sc
 
 **What he wants:** A peaceful succession in his eorldom (his son **Wulfric the Younger** is the expected heir and is genuinely capable). A coronation that he lives to see. To die at home at Sandhaven.
 
-**What he fears:** Dying before the coronation. The sea-thing (he has heard its devotees on the coast for forty years and has never quite forgotten the sound). His son being passed over by the next regime if the succession goes badly.
+**What he fears:** Dying before the coronation. The sea-thing (he has heard its devotees on the coast for forty years and has never quite forgotten the sound). His son being passed over — most immediately by **Count Halfdan**, the cold northern war-captain whose deep-north-backed host is already moving to seize the North Coast succession before Wulfric the Younger can secure it.
 
 **PC hooks:** Berthwald will support a party that has been recommended by Old Eorland (the Stormwatch hermit is on his fyrd-lands; the two have an old acquaintance). The North Coast (Sealhalls expedition, the burnt villages, the sea-thing pact-holders) is largely his territory.
 
@@ -398,7 +398,27 @@ The intent is utility at the table: read the sketch, find the voice, play the sc
 
 ## The counts of the independent thanedoms
 
-The six crown-vassal counts hold their lands of the Crown directly, sit no Witan, and are detailed in full — character, seat, secret, lean, hooks — in `independent_thanedoms.md`. In brief, as an NPC index: **Count Edmund** of the Hollowford March, the realm's encloser and standing antagonist-county, Volusen-funded; **Count Osmaer** of Saltwick, the merchant-count of the crown's eastern port, openly for sale; **Count Wulfhere** of Wardmoor, the old soldier warding the Heath frontier, regency for order's sake; **Count Leofwine** of Eldfield, the courtier-count who lives at the Royal Hall and serves his own advancement; **Count Cynehelm** of Hartshaw, the woodsman-count entangled with the Greatwood and disengaged from the throne; and **Count Beorhtsige** of Stormness, the storm-coast count consumed by the North Coast succession next door.
+The six crown-vassal counts hold their lands of the Crown directly, sit no Witan, and are detailed in full — character, seat, secret, lean, hooks — in `independent_thanedoms.md`. In brief, as an NPC index: **Count Edmund** of the Hollowford March, the realm's western encloser and one of the four Succession-War power-players, Volusen-funded, excavating an Aureothan ruin, poised to rise (see the Hollowford March faction in `factions.md`); **Count Osmaer** of Saltwick, the merchant-count of the crown's eastern port, openly for sale; **Count Wulfhere** of Wardmoor, the old soldier warding the Heath frontier, regency for order's sake; **Count Leofwine** of Eldfield, the courtier-count who lives at the Royal Hall and serves his own advancement; **Count Cynehelm** of Hartshaw, the woodsman-count entangled with the Greatwood and disengaged from the throne; and **Count Beorhtsige** of Stormness, the storm-coast count consumed by the North Coast succession next door.
+
+### Count Halfdan
+
+**Fifty-one. The cold northern war-captain. The fourth Succession-War power-player; deep-north-backed, moving on the North Coast succession.**
+
+**First impression:** A hard, spare, grey-eyed northern marcher lord in plain mail and undyed wool worn as if it were armour even at table, a war-captain's economy in every movement. No ornament but a heavy iron arm-ring. He does not smile to put a room at ease and does not seem to notice that he hasn't. The first thing most people feel from him is that he has already decided what they are worth to him.
+
+**Speech pattern:** Blunt, clipped northern Norse-Hethrun, the marcher's hard accent. Says exactly what he means in as few words as it takes, and then stops. Does not flatter, does not soften, does not repeat himself.
+
+**Verbal tic:** "Count the cost —" (his way of opening any judgment; he means it literally, and he has usually already done the counting).
+
+**Mannerism:** Turns the iron arm-ring a quarter-turn on his forearm while he reckons a problem — the only restlessness he permits himself.
+
+**What he wants:** The North Coast succession, before the dying Eorl Berthwald's heir Wulfric the Younger can secure it — by moot, marriage, or force. A marcher eorldom of his own, carved from a borrowed deep-north host. To win the Succession War's northern theatre and walk out of it owning himself rather than owing himself to Skarrgaard and the Cloven Strand.
+
+**What he fears:** That his deep-north patrons own him more than he owns them — that he is a piece on Sigridr Bone-Reader's and Hadolf One-Hand's board, to be traded to Ranulf the day he stops being useful. That Count Edmund, his ally-of-convenience, is the greater danger — that whatever Edmund is digging up in his ruin makes the western count a thing Halfdan should never have allied with.
+
+**Key relationships:** Jarl Sigridr Bone-Reader of Skarrgaard and Jarl Hadolf One-Hand of the Cloven Strand (his deep-north patrons; each with their own agenda). Count Edmund of the Hollowford March (his wary marriage-of-convenience against Ranulf; each means to outlast the bargain). Eorl Berthwald of the North Coast (the dying lord whose seat Halfdan means to take) and Wulfric the Younger (Berthwald's heir, Halfdan's chief obstacle). Eorl Ranulf of Stonebay (his enemy in the field; their troops skirmish in the northern marches).
+
+**PC hooks:** Halfdan's patrols took the captives in the campaign's opening skirmish, so first contact may come from the wrong end of his spears — as a prisoner, a ransom-bearer, or a rescuer. He hires hard, capable outsiders for marcher work (scouting Ranulf's raiders, escorting a deep-north courier, carrying a cold message to Edmund) and pays plainly, without warmth or trickery. The thread that unravels him is his patrons: a party that learns who truly commands his host — and whether Halfdan knows he may be Skarrgaard's pawn — holds real leverage over the war's northern theatre. (See the Northern Marchers faction in `factions.md`.)
 
 ---
 
@@ -1147,7 +1167,7 @@ External NPCs are most likely to enter play indirectly at session zero — throu
 
 **Mannerism:** Rests his left hand on the axe-head when listening to news.
 
-**What he wants:** Ranulf's coronation, on Hadolf's terms. The Stridvik engine kept silent until needed. His daughter recovered from Aurea (her marriage has been miserable; he is considering bringing her home, which would breach his agreement with the Aurean trader).
+**What he wants:** Ranulf's coronation, on Hadolf's terms — but hedged: he has quietly become a **patron of Count Halfdan** too, keeping a deep-north hand on the northern fighting whichever way it breaks. The Stridvik engine kept silent until needed. His daughter recovered from Aurea (her marriage has been miserable; he is considering bringing her home, which would breach his agreement with the Aurean trader).
 
 **What he fears:** The Stridvik bindings failing. His daughter dying in Aurea before he acts. Ranulf taking the throne and then forgetting his sworn-brother.
 
@@ -1169,7 +1189,7 @@ External NPCs are most likely to enter play indirectly at session zero — throu
 
 **Mannerism:** Carries a small bag of rune-tiles at her belt; touches it absently.
 
-**What she wants:** Peace with the Chola, secretly. Her son Sigvald's inheritance safe. The sea-poppy supply.
+**What she wants:** Peace with the Chola, secretly. Her son Sigvald's inheritance safe. The sea-poppy supply. A cheap deep-north client planted on the Hethrun North Coast — she has lent silver and ships to **Count Halfdan**'s succession-bid, a low-cost way to counter Ranulf's reach without committing her own tired fleet north.
 
 **What she fears:** Sigvald discovering the dependency. The Skarrgaard tradition forcing renewed raiding.
 

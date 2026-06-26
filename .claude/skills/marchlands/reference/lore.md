@@ -96,7 +96,7 @@ Hethrun's peak — the long generation before the current crisis — produced **
 
 ### Current crisis
 
-Hethrun's current crisis is **ideological divide** — Codex versus Old Faith versus Burning One — combined with the **succession failure** that opens the campaign. The kingdom's strengths (fyrd-based military, skaldic political coordination, Codex administrative capacity) are not the strengths needed for the current problem. Hethrun's strengths are **useless against the problem**.
+Hethrun's current crisis is **ideological divide** — Codex versus Old Faith versus Burning One — combined with the **succession failure** that opens the campaign. The trigger is sharp: King Aelfric the Just had risen to Marshal of the High King and was rallying a Marchlands-wide invasion of Ostmark when he died suddenly (cause ambiguous, suspicious). The mobilized armies and ambitions turned inward, and the realm — a major Marchland power of some two million souls, not a petty kingdom — is now sliding into civil war, with the Coronation as its flashpoint. The kingdom's strengths (fyrd-based military, skaldic political coordination, Codex administrative capacity) are not the strengths needed for the current problem. Hethrun's strengths are **useless against the problem**.
 
 ## Recent timeline (the key dates)
 
@@ -114,11 +114,12 @@ This is the timeline that matters in play. Earlier events are listed in the broa
 | ~20 years ago | The Stonebay Chola merchant quarter receives its first immigrant household. The quarter has grown slowly since. |
 | ~12 years ago | Grand Prince Mstislav of Volotrad's elder brother dies under disputed circumstances. Mstislav takes the principality. |
 | ~10 years ago | King Aelfric the Just marries Lady Isolde of Aurea (House Volusen cadet branch). Hadric born two years later. |
+| ~2 years ago | King Aelfric the Just rises to **Marshal of the High King** and begins rallying a Marchlands-wide invasion of the Aureothan Empire (Ostmark, "Aureoth-the-True"). The realm mobilizes. |
 | ~5 years ago | The Mtosi chiefdom in Tihatchee completes its three-generation transition to dragon-cult. The Suncatcher of Tihatchee learns of it but does not act publicly. |
 | ~3 years ago | Crown Prince Wystan killed in a "hunting accident." Hadric becomes heir at age nine. |
 | ~2 years ago | Cassian Drey replaces his predecessor as Aurean envoy at Eldermouth. Audits the tribute records. |
 | ~1 year ago | The Codex Patriarchate authorizes a Raise Dead in Aurea (the second in living memory). The diamond supply for Marchland Codex ritual is reduced; Eldermouth and Hollowford both feel it. |
-| 8 months ago | King Aelfric the Just dies in his sleep, age 54. Hadric inherits at twelve. The Witan deadlocks. |
+| 8 months ago | King Aelfric the Just — Marshal of the High King — dies suddenly, age 54, the cause ambiguous and suspicious. With the invasion still mustering, the mobilized armies and ambitions turn inward. Hadric inherits at twelve. The Witan deadlocks and the realm begins sliding toward civil war. |
 | 6 months ago | Lady Isolde begins her correspondence with House Volusen in Aurea. |
 | 3 months ago | Branwald the Star-Priest arrives at Stonebay. |
 | ~2 months ago | The Suncatcher of Tihatchee finally moves: he sends two emissaries to the High King at Wessmark with information about the dragon-cult. Neither arrives. |

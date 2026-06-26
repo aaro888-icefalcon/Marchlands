@@ -8,7 +8,7 @@ The Fells are the western upland — a high, hard country of crag and fell and h
 
 ## Carngarth — the seat
 
-Carngarth is a hill-fort burh of roughly 2,000 on a high crag at the centre of the Fells — Eorl Ketil's seat, the clan-gathering place, a hard town of dry-stone walls and turf-roofed halls where the upland's three roads meet. It is the only burh in the Fells; everything else is steading and clan-holt. Two pressures define it.
+Carngarth is a hill-fort burh of roughly 9,000 on a high crag at the centre of the Fells — Eorl Ketil's seat, the clan-gathering place, a hard town of dry-stone walls and turf-roofed halls where the upland's three roads meet. It is the only burh in the Fells, and small for an eorl-seat; everything else is steading and clan-holt, and the upland's folk are thin-scattered across hard high country. Two pressures define it.
 
 **Feuding Clans.** Carngarth is where the Fell clans meet, and where the Fell clans meet, the Fell feuds meet too. The burh is neutral ground by ancient custom — weapons peace-bound at the gate, blood-debt suspended within the walls — but the feuds press against that custom constantly, and Carngarth's life is a permanent negotiation between clans who owe each other dead kin. The eorl's chief labour is holding that negotiation together.
 
@@ -34,7 +34,7 @@ Ketil's Hall runs on two faults.
 
 **Seat & banner-mark:** Skarrfell, a clan-holt on the rocky northern fells; a grey wolf.
 **Head:** Chief Hrothgar of Skarrfell — a young, fierce, ambitious clan-chief of thirty, the loudest and hungriest voice in the Fell-moot.
-**Character — Hungry for Glory.** Skarrfell is the rising clan, and Hrothgar means it to rise further. He sees the Coronation crisis as the Fells' chance — a war in the south is plunder, renown, and weregild-wealth, and a Fell host that marches for the winning claimant earns a debt the new king will have to pay. Hrothgar wants the Fells in the war, on Ranulf's side, and wants Skarrfell at the head of the host.
+**Character — Hungry for Glory.** Skarrfell is the rising clan, and Hrothgar means it to rise further. He sees the Coronation crisis — now broken into open war, with Ranulf already campaigning in the east — as the Fells' chance: a war in the south is plunder, renown, and weregild-wealth, and a Fell host that marches for the winning claimant earns a debt the new king will have to pay. With the fighting begun in earnest, Hrothgar presses harder than ever to get the Fells into it, on Ranulf's side, and wants Skarrfell at the head of the host.
 **Wants:** the Fells to march south for Ranulf; plunder and renown; Skarrfell raised above the other clans by the marching.
 **Secret:** Hrothgar's hunger has made him reckless — he has already taken Ranulf's coin and Ranulf's promises through a Stonebay intermediary, ahead of any Fell-moot decision, which is close to a breach of the confederacy's own law.
 **Coronation lean:** hard for Ranulf — and pushing the whole eorldom that way.
