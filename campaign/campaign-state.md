@@ -2,7 +2,7 @@
 
 > Source of truth for prose, clocks & recap. Threads/Characters Lists live in JSON
 > (`state.py thread|char show`/`render`). Overwrite at the end of every scene.
-> **▶ STATUS: in play — Scene 1 resolved; Scene 2 (Expected) framed and open.**
+> **▶ STATUS: in play — Scene 1 resolved; Scene 2 (Expected) running — proving the leech in the east tower. Count Edmund is climbing the stair to inspect; awaiting the player's move as he arrives.**
 
 ## Frame
 - **Engine:** mythic-gm (v2+) · Adventure Crafter always-on
@@ -37,15 +37,16 @@ _Σ weighted slots = 11_
 3. The Crown delegation — the Regency's people at the keep, managing the crisis and contesting the prisoners for boy-king Hadric  _(weight 2)_
 4. The Stonebay marauder-captain — leader of Ranulf's raiders you're roped in with; pragmatic, dangerous, already working his own angle for a deal or a break  _(weight 2)_
 5. Ranulf's marauders — the captured Stonebay raiding-men you've been lumped in with; the company that colors what you're taken to be
-_Σ weighted slots = 9_
+6. Aldwin — Count Edmund's sister-son, a young knight Shake saved from a septic spear-wound; owes his life to the leech, doesn't yet know magic was used
+_Σ weighted slots = 10_
 
 <!-- LISTS:END -->
 
 ## PC status
-**Shake Rao** — **off the rope**, claimed by **Count Edmund** as his healer ("the leech"), being taken to the **east tower** to prove himself on a wounded body. **Watched prisoner** (no weapon, no armor, no coin; AC unarmored 12; HP 24/24). **Tools to be returned** for the work — recovering his **smith's tools = his artificer focus**, which **UNLOCKS his leveled casting** (Cure Wounds, Mending, Silent Image, Find Familiar [needs 10gp components], Shield, Heroism, etc.) while he holds them. **Shape Shadows — Invisibility 1/long rest: AVAILABLE** (his unspent ace). **Companions dispersed:** Samosa (needs smith's tools + a long rest to rebuild), Daegon (needs Find Familiar components). **Known as a true healer** to three powers; **NOT yet known to be drift-marked / kept-class.** Full sheet: `character-sheet.md`.
+**Shake Rao** — **off the rope**, claimed by **Count Edmund** as his healer ("the leech"). **PROVED himself** in the east tower: aseptic field surgery (I&D) on the Count's nephew **Aldwin** (septic spear-wound to the flank) — Medicine(INT) 20 vs DC16 — got source control with NO magic shown to the watching sergeant Wulf; then, room cleared, cast **Cure Wounds in secret** (Fate: unobserved; +12 HP). Aldwin has **turned the corner** (will likely live with care; sepsis still running, rough nights ahead). **Watched prisoner** (no weapon, no armor, no coin; AC unarmored 12; HP 24/24). **Tools at hand = artificer focus → leveled casting UNLOCKED while held.** **Spell slots: 2 / 3 first-level remaining** (one Cure Wounds spent). **Shape Shadows — Invisibility 1/long rest: AVAILABLE** (still unspent). **Companions dispersed:** Samosa (needs smith's tools + a long rest to rebuild), Daegon (needs Find Familiar components). **Secret intact:** known as a frighteningly skilled *leech*; **NOT known to be drift-marked / kept-class.** **New tie:** Leofa, Aldwin's body-servant — grateful, talkative, a soft contact. Full sheet: `character-sheet.md`.
 
-## SCENE 2 — The East Tower (Expected Scene; test = 10 over CF) — OPEN
-Wulf the sergeant hauls Shake up into the keep's east tower, a chamber turned sickroom. His confiscated **tools** are brought (under guard) — focus restored, casting unlocked while held. On the pallet: **a patient the Count wants alive**, badly wounded, fevered. Edmund's terms stand: **prove it, and you have a place; fail, and the unfinished threat lands.** Currently awaiting the player's first action in the room.
+## SCENE 2 — The East Tower (Expected Scene; test = 10 over CF) — RUNNING
+The proving. Shake's patient was **Aldwin, Count Edmund's sister-son**, dying of a septic 8-day flank wound. Shake demanded aseptic conditions (boiled water, clean linen, flamed tools), performed **I&D / source control** with no magic in front of sergeant **Wulf** (Medicine INT 20 vs DC 16 — success), winning standing. Wulf left to fetch the Count; Shake sent the servant **Leofa** for food, then **cast Cure Wounds unobserved** (+12 HP) — secret kept. Aldwin turned the corner and sleeps. **Now: Count Edmund is climbing the stair to inspect the work; awaiting the player's move as he arrives.** *(Bookkeep/Scene-Test when the Edmund beat closes the scene.)*
 
 ## Clocks (live world ledger)
 - **The Succession War widens** — background spine, advancing (Ranulf at war; Edmund & Halfdan poised; the alliance-of-convenience will break).
@@ -59,7 +60,9 @@ Wulf the sergeant hauls Shake up into the keep's east tower, a chamber turned si
 - **The Noble Faction's Bid** *(Named Threat — Major, 8-segment clock, 0/8)* — a named noble's faction driving a major play in the succession; the biggest of the three.
 
 ## Story so far
-**Scene 1 — The Catch.** Shake woke bound in a prisoner-coffle in Hollowford's gatehouse, roped among Ranulf's marauders, in Halfdan's troops' custody, with Edmund hosting and a Crown delegation present. Asked by the marauder-captain what he was, Shake said *healer* — and the captain immediately **bellowed it up the line** to better his own deal (Fate: Exceptional No). The catch became contested: the **Crown envoy Aldhelm** claimed all rebel prisoners by the boy-king's writ; **Count Edmund**, the host, overrode him by force of ground (1d6=6, contested). Edmund questioned Shake directly; Shake answered with disarming honesty — *a true healer, hobbled without his tools* — and **persuaded him** (Persuasion 15 vs DC 13, advantage). Edmund **claimed Shake as his leech**, denying the Crown; Aldhelm withdrew with a cold promise to report it; Halfdan's officer watched and filed it too. Shake was cut off the rope and marched to the east tower to prove himself. *(Prior Skellan's-Reach arc archived on branch `claude/festive-curie-g8clny`.)*
+**Scene 1 — The Catch.** Shake woke bound in a prisoner-coffle in Hollowford's gatehouse, roped among Ranulf's marauders, in Halfdan's troops' custody, with Edmund hosting and a Crown delegation present. Asked by the marauder-captain what he was, Shake said *healer* — and the captain immediately **bellowed it up the line** to better his own deal (Fate: Exceptional No). The catch became contested: the **Crown envoy Aldhelm** claimed all rebel prisoners by the boy-king's writ; **Count Edmund**, the host, overrode him by force of ground (1d6=6, contested). Edmund questioned Shake directly; Shake answered with disarming honesty — *a true healer, hobbled without his tools* — and **persuaded him** (Persuasion 15 vs DC 13, advantage). Edmund **claimed Shake as his leech**, denying the Crown; Aldhelm withdrew with a cold promise to report it; Halfdan's officer watched and filed it too. Shake was cut off the rope and marched to the east tower to prove himself.
+
+**Scene 2 — The East Tower (running).** The proving body was **Aldwin, Edmund's sister-son**, dying of a septic flank wound under three leeches' shrugs. Shake ran it like an OR: boiled water, clean linen, flamed instruments (asepsis — six centuries ahead of anyone here), then **incision & drainage** for source control — Medicine(INT) 20 vs DC 16, succeeding with **no magic shown** to the watching sergeant Wulf, who revised his estimate of the stranger sharply upward. With Wulf gone to fetch the Count and the servant Leofa sent for food, Shake **cast Cure Wounds in secret** (Fate: unobserved; +12 HP) — Aldwin turned the corner and fell into true sleep (a half-lucid murmur of *"cold,"* eyes flicking to an empty corner). Secret intact; Shake is taken for a frighteningly skilled leech, nothing more. **Count Edmund is now climbing to inspect the work.** *(Prior Skellan's-Reach arc archived on branch `claude/festive-curie-g8clny`.)*
 
 ## Source
 - Setting ground-truth: `.claude/skills/marchlands/bridge/setting-canon.md`.
