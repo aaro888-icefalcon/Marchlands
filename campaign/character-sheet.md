@@ -48,15 +48,17 @@
 ## Familiar — Daegon (NOT currently summoned)
 - Falcon/hawk (owl reskin). **Requires Find Familiar (10 gp components, 1 hr) — unavailable at intake.**
 
-## ⚠ CURRENT STATE (post-Reach, on the barrow-heath)
-- **Re-armed** from the confiscated-kit cart during the siege (all **plain/mundane**, not his enchanted kit): **longsword, shield, breastplate, backpack, a tool-kit.** Still wearing the modern clothes he crossed in under the armor.
-- **AC 16** (breastplate, DEX cap +2); **AC 18** with shield readied; unarmored 12. *(Breastplate takes ~5 min to don — buckle on at a safe halt.)*
-- **Spellcasting focus RESTORED** (the tool-kit) → **magic is back online.** Cast **Guidance** (cantrip) + **Silent Image** (1st-level → 1 slot spent) during the escape; **2× 1st-level slots remain** (no long rest yet). Prepared/known 1st: Cure Wounds, Shield, Heroism, False Life, Absorb Elements, Silent Image. Cantrips at will.
-- **Mundane longsword caveat:** Battle Ready (INT to-hit/damage) only applies to **magic** weapons — with a plain longsword he's STR-based (STR 8 → +1 to hit, 1d8−1). He is **not** a melee threat to anything heavy until he gets a magic weapon or makes one.
-- **Shape Shadows (Mark of Shadow):** **Invisibility 1/long rest** — free (no slot), CHA-based, concentration ≤1 hr, drops the instant he attacks or casts; hides only himself. **AVAILABLE (unused).** *(Pass without Trace unlocks at level 5 — not yet.)*
-- **Companions still unsummoned:** **Samosa** needs smith's tools + a long rest; **Daegon** needs Find Familiar (10 gp components, 1 hr). Both are recovery goals.
-- **Traveling with Sefa** (young ex-Crown guard, owes him her life).
-- **What he always has:** his mind and full medical/scientific knowledge (germ theory, anatomy, triage, pharmacology, public health), lapsed TKD, military-history/RPG-literacy — leverage against people, near-useless against the Heath's horrors.
+## ⚠ CURRENT STATE (Stanwic, after a long rest — re-equipped)
+- **Gear** (scavenged off the kit-cart, now **infused**): **+1 longsword**, **+1 shield**, breastplate (worn), backpack, tinker's/thieves' tool-kit (arcane focus). Modern clothes under the armor.
+- **Replicate Magic Item — ACTIVE infusions (2/2):** Weapon +1 (longsword), Shield +1 (shield). Known plans: Weapon +1, Shield +1, Goggles of Night, Bag of Holding.
+- **AC 19** (breastplate 14 + DEX 2 + shield 2 + infusion 1); **24** for a round with the Shield spell. Unarmored 12.
+- **Battle Ready ONLINE** (magic weapon in hand): **+1 longsword → +6 to hit, 1d8+4** slashing (INT-driven). Booming Blade likewise +6 / 1d8+4 + move-rider.
+- **Spells (after long rest):** **3/3 first-level slots.** Prepared/known 1st: Cure Wounds (2d8+3), Shield, Heroism, False Life, Absorb Elements, Silent Image. Save DC 13, Atk +5. Cantrips at will.
+- **Shape Shadows (Mark of Shadow):** **Invisibility 1/long rest — AVAILABLE (unused)** (free, CHA, conc. ≤1 hr, drops on attack/cast; hides only him).
+- **Daegon — SUMMONED** (falcon familiar; Find Familiar, components scrounged in Stanwic). Scout/senses-sharing/Help; can deliver touch spells. *(Re-summoning later costs 10 gp components again.)*
+- **Samosa — STILL UNSUMMONED.** Steel Defender needs **smith's tools** (the scavenged kit is tinker's/thieves', not smith's) + the work of a long rest. **Stanwic has a forge** → secure smith's tools there = the path to Samosa.
+- **Company:** Sefa (ex-Crown guard, plans to carry the warning north to the Harrowmark watch), the nurse, the child, the six freed drift-come (indentured/laboring in Stanwic).
+- **Always has:** full modern medical/scientific knowledge, lapsed TKD, military-history literacy — leverage vs. people, little vs. the Heath's horrors.
 
 ## Ties (seed the Lists)
 - **Looking for:** brother Akhil, and any of the friends/family the Crossing may have scattered into Hethrun.
