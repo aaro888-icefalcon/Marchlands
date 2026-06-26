@@ -8,7 +8,7 @@ The Harrowmark is the Heath — the moor-and-bog plateau north of Eldermouth, ri
 
 ## Harrowfast — the seat
 
-Harrowfast is a frontier burh of roughly 2,000 at the Heath's southern edge, where the lowland ends and the moor begins — Eorl Hereward's seat, a fortified muster-town of grey stone and turf-roofed halls behind a stone wall that is the only real wall in the eorldom. It is poor and plain and built to hold. Two pressures define it.
+Harrowfast is a frontier burh of roughly 10,000 at the Heath's southern edge, where the lowland ends and the moor begins — Eorl Hereward's seat, a fortified muster-town of grey stone and turf-roofed halls behind a stone wall that is the only real wall in the eorldom. It is poor and plain and built to hold, and small by an eorl-seat's measure. Two pressures define it.
 
 **Border Town.** Harrowfast is the frontier against the Heath itself. It is the muster-point for the barrow-watch, the place the deep-Heath watch-forts are supplied from, and the last safe roof before the moor. Its fyrd drills oftener than its size warrants, its gates are barred at dusk by old custom, and its people have the wary practical hardness of folk who live where the wilderness has teeth.
 

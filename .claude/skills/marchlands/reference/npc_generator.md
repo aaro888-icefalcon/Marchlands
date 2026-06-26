@@ -67,6 +67,12 @@ Run every step in order. Every roll is recorded **verbatim** from the table — 
 
 **Rule on hidden drift-folk:** For Native NPCs whose dice surface drift-folk status, the Earth identity is a **secret** — it is real (the dice say so), but the NPC presents as Hethrun-native to PCs and to most NPCs around them. Their public Hethrun name, public-cover origin, and outward behavior carry the cover. Their true American name, true origin, and previous American life sit in the Secret sub-block of the output and surface only through investigation, mistakes, accumulated trust, or exposure events. Drift-folk knowledge they carry (Earth-facts, modern concepts) is often a POWER they use covertly, and exposure is often a DREAD that drives the scene.
 
+**Note on magic when stocking NPCs (low magic is common):** Marchlands magic is common at the low end. When the dice or the GM make a generated NPC a caster, default to the low tiers and seed them liberally — **most villages have at least one dabbler** (a cunning-woman, a hedge-caster, a charm-seller) with a few cantrips and a basic 1st–2nd-level spell, of any class; towns carry several such practitioners; cities many. Mid magic (3rd–5th level, for coin) is **medium-uncommon** — a town's one or two professionals, a city's several. High magic (6th+), guaranteed cures, and resurrection are **rare, costly, Codex-gated, and plot-tier** — reserve those for named, weighty NPCs, not the random villager. A village charm-seller casting in public is unremarkable; treat a low-tier caster as a skilled local tradesperson, not a wonder.
+
+**Note on drift-folk NPCs (mostly drift-free, rarely drift-marked):** Drift-folk are a **known, exploited underclass** — people who crossed over (the **Crossing** being the mass-event) with nothing and usually no locally-useful skills. Whenever a generated NPC is drift-folk (overt **Transported**, or **hidden drift-folk** via Origin/Twist), they are **almost always drift-free** — *unpowered*, dispossessed, scraping by — and the hardship is **economic, not demonic.** Public attitude is mostly indifferent (a minor stigma or minor boon by context); the **Codex is divided** (a revered prophet was drift-folk; so was a reviled heretic) and the **Old Faith is indifferent.**
+  - **Rarely**, a drift-folk NPC is **drift-marked** — they kept their class powers across the Crossing. This needs luck and nearness to a portal at transfer; retention runs by original level: **L1 10% · L3–4 5% · L5–6 3% · L7–8 1%.** A drift-marked NPC is, in practice, **a skilled local professional** — roughly a competent town tradesperson with a real edge, not a legend. Only mark a generated drift-folk NPC as drift-marked deliberately, when the scene wants the rarity; the default drift-folk NPC is drift-free.
+  - **Terms (use these; do NOT use "drift-come"):** powered → **drift-blessed / drift-marked** (neutral-to-good), **drift-tainted** (hostile mouth). Unpowered → **drift-free** (neutral), **drift-cursed** (pitying).
+
 ---
 
 ## Race
@@ -454,7 +460,7 @@ Roll d4. On a **4**, roll d3 to pick a category, then roll the chosen table. On 
 | Roll | Twist |
 |------|-------|
 | 1 | **Drift-folk** — an isekai arrival; their grasp of Hethrun customs is patchy, their accent wrong, their assumptions all off |
-| 2 | **Aelfric's war veteran** — fought in the late king's last campaign against Aurean encroachment; carries the scars and the politics |
+| 2 | **The Marshal-king's veteran** — mustered for the late king's aborted invasion of Ostmark (the Aureothan Empire) before he died suddenly; carries the scars, the thwarted ambitions, and the politics of a war that turned inward |
 | 3 | **Covert Old Faith devotee** — Codex on Sundays, Veiled Mother or Sky-Father at the season-rites, terrified of exposure |
 | 4 | **Bone-Sayer informant** — sells small reports to Edrid's people for small coin; doesn't think of themselves as a spy |
 | 5 | **Sigevard's protégé or kinsman** — sings, knows the Raven verses, has the skald's habit of listening |

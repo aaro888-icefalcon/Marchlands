@@ -1,6 +1,8 @@
 # Adventure Seeds
 
-Eighteen adventure hooks for the Hethrun campaign, tier-tagged and isekai-friendly marked. Each seed includes: the hook, the patron (or trigger), the tier, the location, and a one-line note on what success and failure look like. Many seeds cross-reference settlement, region, faction, and threats files for full context.
+Adventure hooks for the Hethrun campaign, tier-tagged and isekai-friendly marked. Each seed includes: the hook, the patron (or trigger), the tier, the location, and a one-line note on what success and failure look like. Many seeds cross-reference settlement, region, faction, and threats files for full context.
+
+The live spine these hooks hang from is **the Succession War.** Hethrun's late king (boy-king Hadric's father) had risen to Marshal of the High King and was rallying a Marchlands-wide invasion of Ostmark when he died suddenly (cause suspicious — discoverable in play); the armies he mobilized turned inward, and the realm is sliding into civil war with the midwinter Coronation as flashpoint. Four power-players contest it: the weak **Regency**; **Eorl Ranulf of Stonebay** (Ostmark-backed, already in open war); **Count Edmund of the Hollowford March** (Aurea-backed, west, poised); and **Count Halfdan** (deep-north-backed, seizing the North Coast succession, poised). Edmund and Halfdan are in a wary marriage-of-convenience against Ranulf. Many seeds below feed this spine, directly or sideways.
 
 A note on tiers: WWN tier 1 corresponds to 5.5e levels 1-4, tier 2 to levels 5-10, tier 3 to levels 11-16, tier 4 to levels 17-20. Hethrun is built primarily as a tier-1-to-2 campaign with tier-3 expansion hooks. Isekai-friendly seeds are marked with **[ISEKAI]** — these are hooks where outsider perspective is an asset rather than a liability.
 
@@ -146,17 +148,53 @@ A note on tiers: WWN tier 1 corresponds to 5.5e levels 1-4, tier 2 to levels 5-1
 
 ### 9. The Stormhold expedition
 
-**Hook:** Eorl Berthwald of the North Coast asks the party to investigate the burned villages on his fyrd-lands. Three villages, each burned in a particular pattern that does not match the usual Cloven Strand raid signature. Old Eorland will assist (his hermitage is on the way).
+**Hook:** Eorl Berthwald of the North Coast asks the party to investigate the burned villages on his fyrd-lands. Three villages, each burned in a particular pattern that does not match the usual Cloven Strand raid signature. Old Eorland will assist (his hermitage is on the way). Complicating everything: the dying eorl's succession is contested — **Count Halfdan**, a cold deep-north-backed war-captain, has marcher troops in the area seizing the succession ahead of Berthwald's heir Wulfric the Younger, and they are skirmishing Ranulf's raiders too, so the burnings sit inside an active war.
 
-**Patron:** Eorl Berthwald (regency-aligned eorl, ill, attendance infrequent).
+**Patron:** Eorl Berthwald (regency-aligned eorl, ill, attendance infrequent); his heir Wulfric the Younger may also seek the party against Halfdan's pre-emption.
 
-**Tier:** 1-2 (the burned villages are tier-1; the pact-holders are tier-2).
+**Tier:** 1-2 (the burned villages are tier-1; the pact-holders are tier-2; Halfdan's host raises the stakes).
 
 **Location:** The North Coast.
 
-**Success:** The pattern is identified as sea-thing pact-holders propitiating the Wide Eye; the party either eliminates the local pact-holders or negotiates with them; the North Coast stabilizes.
+**Success:** The pattern is identified — sea-thing pact-holders propitiating the Wide Eye, or a war-burning by raiders/Halfdan's men, or both tangled — and the party stabilizes the coast and/or clarifies the succession.
 
-**Failure:** The pact-holders escalate; the sea-thing's slow weather-work intensifies; further North Coast villages are at risk.
+**Failure:** The pact-holders escalate; the sea-thing's slow weather-work intensifies; further North Coast villages are at risk; and Halfdan's seizure of the succession advances unchecked (active_threats Clock 11).
+
+---
+
+### 9b. The North Coast succession — Count Halfdan's reach
+
+**Hook:** Eorl Berthwald of the North Coast is dying, and a cold northern war-captain, **Count Halfdan**, is moving to seize the succession before Berthwald's heir Wulfric the Younger can secure it. Halfdan's host — propped by deep-north silver and ships (Skarrgaard, the Cloven Strand) — patrols the marches, skirmishes Ranulf's raiders, and works the North Coast moot. The party may be hired by Wulfric the Younger to defend the lawful succession, by the regency or High King's observer to investigate a foreign-backed land-grab, or by Halfdan himself for hard marcher work (whereupon they meet the war from his side). The opening skirmish's captives were taken by his patrols, so the party may begin entangled.
+
+**Patron:** Wulfric the Younger; the regency / Wulfgar of Cynesburh; or Count Halfdan himself.
+
+**Tier:** 1-2 (moot-politics and scouting are tier-1; standing against Halfdan's host is tier-2).
+
+**Location:** The North Coast; the northern marches; the deep-north shipping lanes.
+
+**Success:** The lawful succession holds (Clock 11 retards), or the party uncovers and exposes Halfdan's deep-north backing — that he may be Skarrgaard's pawn, to be traded to Ranulf when convenient — which can turn or topple him.
+
+**Failure:** Halfdan holds the North Coast in fact (Clock 11 fills); a fourth crowned-realm power stands propped by the deep-north, and the Succession War widens (Clock 12).
+
+**GM note:** Halfdan and Count Edmund hold a wary marriage-of-convenience against Ranulf; souring it (a soured courier, an exposed secret) is a sideways way to weaken both.
+
+---
+
+### 9c. The widening war [ISEKAI-friendly]
+
+**Hook:** As the Coronation deadline nears and Ranulf's open war spreads, the realm tips toward multi-front civil war. The party is drawn into the spine directly: carrying a parley between contenders, scouting a marching host, holding a crossroads town against raiders, recovering or ransoming captives from a skirmish, or uncovering the truth of the late Marshal-king's sudden death (an Ostmark or Ranulf hand is a live possibility). Whatever they do here bears on active_threats Clock 12 (the Succession War widens) and the Coronation Clock.
+
+**Patron:** Any of the four power-players, the regency, Sigevard, Wulfgar of Cynesburh, or a beleaguered town.
+
+**Tier:** 1-2 (escalating to 3 as the war broadens).
+
+**Location:** The marches between Stonebay, the North Coast, and the Hollowford March; Eldermouth; wherever the fighting reaches.
+
+**Success:** The party narrows the war (retards Clock 12) — brokering a stand-down, restoring the Coronation's center, or removing a contender's advantage.
+
+**Failure:** The war widens (Clock 12 advances); foreign backers commit openly (Ostmark, Aurea, the deep-north); the realm becomes a battlefield.
+
+**Isekai note:** A drift-folk PC carries no blood-debt or faction loyalty in a war of inherited grievances, which makes them a credible parley-bearer and a useful pair of eyes none of the four lords can quite place.
 
 ---
 
@@ -180,7 +218,7 @@ A note on tiers: WWN tier 1 corresponds to 5.5e levels 1-4, tier 2 to levels 5-1
 
 ### 11. The Cloven Strand visit
 
-**Hook:** A Cloven Strand jarldom delegation visits Eldermouth, ostensibly on trade business; their actual purpose is to communicate with Ranulf and to assess the regency. The party may be hired by the regency to monitor the delegation; or by Ranulf to facilitate it; or by Aurelio Maron to disrupt it.
+**Hook:** A Cloven Strand jarldom delegation visits Eldermouth, ostensibly on trade business; their actual purpose is to communicate with Ranulf and to assess the regency — and, secretly, to manage the Cloven Strand's double game, for the deep-north now also bankrolls **Count Halfdan** against Ranulf in the north. The party may be hired by the regency to monitor the delegation; or by Ranulf to facilitate it; or by Aurelio Maron to disrupt it; the discoverable prize is the hedge itself — that Hadolf backs both Ranulf and Ranulf's northern enemy.
 
 **Patron:** Regency, Ranulf, or House Tassard.
 
@@ -248,7 +286,7 @@ A note on tiers: WWN tier 1 corresponds to 5.5e levels 1-4, tier 2 to levels 5-1
 
 ### 15. Count Edmund's chamber
 
-**Hook:** Word reaches the party that Count Edmund of Hollowford March has been excavating an Aureothan ruin on his lands and that his behavior has been strange. Several parties want to intervene: Cuthbert (Edmund is his rival), Severin (who does not approve of the Aurean Patriarchate's direct correspondence with Edmund), Sister Aelfwyn (whose monastery is in Edmund's territory), the regency (which has crown rights over Aureothan finds).
+**Hook:** Word reaches the party that Count Edmund of Hollowford March — Aurea-backed western hardliner, encloser, and one of the four Succession-War power-players, poised to rise from a strong keep — has been excavating an Aureothan ruin on his lands and that his behavior has been strange. Several parties want to intervene: Cuthbert (Edmund is his rival), Severin (who does not approve of the Aurean Patriarchate's direct correspondence with Edmund), Sister Aelfwyn (whose monastery is in Edmund's territory), the regency (which has crown rights over Aureothan finds), and even Count Halfdan, Edmund's wary ally-of-convenience, who is uneasy about what his partner is digging up.
 
 **Patron:** Cuthbert, Severin, Sister Aelfwyn, or the regency.
 

@@ -8,6 +8,12 @@ All threat content here is original Hethrun design. Move and front concepts are 
 
 -----
 
+## Framing — Marchlands threats run high-powered and deadly
+
+The grit of the Marchlands lives in its **threats**, not in any scarcity of player-side magic (low magic is common — see `npc_generator.md` and `GM_Further_Guidelines.md`). When generating any threat or Front here, **lean dangerous**: pick the harder severity when in doubt, frame opening moves and dire fates so they land with real weight, and skew the linked `bestiary.md` groups toward the tougher, higher-powered end of their rosters for the PCs' tier. A Marchlands threat should out-punch a generic threat of the same nominal tier — that lethality (plus winter, disease, and the cost of reliable high magic) is what keeps permadeath real. This is a framing instruction for generation, not a license to rewrite individual `bestiary.md` stat blocks: build the bestiary's stated counters honestly, but assume the world's dangers run hot.
+
+-----
+
 ## When to invoke
 
 **Single Threat** at scene start when:
@@ -665,7 +671,7 @@ Specific site becomes active — disgorging things, drawing pilgrims, summoning 
 **Sub-type distribution (d6):**
 - 1–3 Plague or Curse (50%)
 - 4–5 Blighted Spread (33%)
-- 6 Drift-Come Surge (17%)
+- 6 Drift-Folk Surge (17%)
 
 ### Moves
 
@@ -731,9 +737,9 @@ Corrupted land plus corrupted population mixed.
 
 **Dire fate:** the blighted zone expands beyond containment. The displaced become a permanent underclass in a neighboring region. The corruption becomes endemic to the affected territory; future PC actions there must account for it.
 
-### Sub-type 3 — Drift-Come Surge (d6 6)
+### Sub-type 3 — Drift-Folk Surge (d6 6)
 
-New wave of arrivals with their own crisis.
+New wave of drift-folk arrivals with their own crisis — almost all drift-free (unpowered, dispossessed) and exploited as an underclass; a rare drift-marked individual among them keeps class powers and is, in practice, a skilled local professional.
 
 | Region | Bestiary |
 |--------|----------|

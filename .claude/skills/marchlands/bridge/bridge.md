@@ -1,7 +1,7 @@
 # Bridge manifest — Marchlands
 
 Marchlands is a D&D 2024 (5.5e) **companion** for the mythic-gm engine: a gritty, low-magic isekai
-frontier — the petty kingdom of Hethrun in the northern Marchlands, five centuries after the fall of
+frontier — the kingdom of Hethrun in the northern Marchlands, five centuries after the fall of
 the Aureothan Empire. This bridge supplies the RPG resolution (5.5e), the setting canon, the Marchlands
 generator tables, the world-tick clocks, and the gritty-living-world tone. A `world-model.md` mechanism
 feeds the live world (clocks, threats, factions) into the engine's Random Events, Turning Points, scene

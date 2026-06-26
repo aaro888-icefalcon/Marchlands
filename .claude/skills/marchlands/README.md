@@ -1,6 +1,6 @@
 # Marchlands — a mythic-gm companion skill
 
-A gritty **D&D 2024 (5.5e)** isekai campaign setting — the petty kingdom of **Hethrun** on the
+A gritty **D&D 2024 (5.5e)** isekai campaign setting — the kingdom of **Hethrun** on the
 northern Marchlands, five centuries after the fall of the Aureothan Empire — packaged as a
 **companion** for the `mythic-gm` solo-RPG engine (v2+).
 

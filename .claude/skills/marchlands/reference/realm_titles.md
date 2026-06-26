@@ -20,6 +20,12 @@ The Kingdom of Hethrun's titles map onto five tiers. The table gives the CK3-equ
 
 A *hold* (Norse *hauldr*) is a thane of the first rank, wealthy enough to hold a thaneland and a seat in the eorl's hall-moot — the count-equivalent. Lesser thanes hold single halls beneath a hold, as barons sit beneath a count. Succession at every tier is male-preference primogeniture, moderated by the relevant moot: an eorl's hall-moot may set aside an unfit heir for a capable sibling or cousin, and the Witan does the same at the kingdom tier. Eorls are vassals of the Crown of Hethrun; hold-rank thanes of their eorl; lesser thanes of their count. The crown demesne and the six independent thanedoms are held of the crown directly.
 
+## Offices of the High Kingship
+
+Above the kingdom tier sit the offices of the Marchland High Kingship — appointments the High King at Wessmark grants across the six kingdoms, distinct from the inherited title-ladder above. The chief of these is military:
+
+- **Marshal of the High King.** The paramount *military* office of the High Kingship — the High King's appointed war-leader, empowered to muster and command a Marchlands-wide host drawn from the six kingdoms when a realm-spanning war is declared. It is granted to a proven king or great lord, not inherited, and it confers standing far beyond the holder's own crown. **Hethrun's late king (Hadric's father) held the office of Marshal of the High King** at his death, and was using it to rally a Marchlands-wide invasion of the Aureothan Empire (Ostmark); when he died suddenly the muster fell apart and the mobilization turned inward. The office is now vacant, and its absence is part of what leaves the realm's gathered armies leaderless and the realm sliding toward civil war.
+
 ## The realm: geography and scale
 
 The Kingdom of Hethrun occupies the northern peninsula of the Marchlands — a realm of some twelve to thirteen days' ride corner to corner. Its eastern coast faces the Iron Strait and Ostmark beyond; its western coast is the broken-fjord North Coast, open to the sea. The southern boundary is the Greenways, arable river valleys running toward the Greatwood and the Hollowford March. The northern interior is the Heath, a moor-and-bog plateau riddled with barrows. The western interior climbs through hill country to the Greatwood verge, beyond which lies elven territory.
@@ -52,7 +58,7 @@ Hethrun's eorldoms at a glance. The crown demesne is held directly by the King; 
 | Stonebay | Ranulf | Stonebay | the pretender's seat | 4 | Ranulf |
 | Brackenford | Cuthbert | Brackenford | the wildcard | 4 | undecided |
 | Mossdrowen | Hagan | Mossdrowen | the weak hand | 4 | regency (via advisors) |
-| North Coast | Berthwald | Sandhaven | dying; succession open | 4 | hostage to its own succession |
+| North Coast | Berthwald | Sandhaven | dying; succession open (Count Halfdan moving in) | 4 | hostage to its own succession |
 | The Harrowmark | Hereward | Harrowfast | the Heath frontier | 3 | regency (soft, winnable) |
 | The Wealdvale | Osgar | Wealdham | the grain-vale | 5 | regency (conditional on the Hollowford March) |
 | The Fells | Ketil | Carngarth | the proud upland | 3 | Ranulf (soft, courtable) |
@@ -97,7 +103,7 @@ The threads that bind the realm's noble houses across eorldom borders. Each is a
 - **Sedgemoor, bought.** House Sedgemoor of Brackenford is paid by Cassian Drey and House Volusen to steer the undecided Cuthbert toward the regency — the regency's hidden hand in the wildcard eorldom.
 - **Aldermere, turned.** A crown-thane house secretly feeds Ranulf intelligence from the Royal Hall and cultivates House Hartwell as a fellow defector.
 - **The Hartwell lever.** A crown-thane house whose prestige rests on the bought lie of the Hart-Ford; whoever recovers the proof owns its vote.
-- **The Fenwick split and the Berthwald succession.** House Fenwick's two estranged branches back the two candidates for the North Coast eorldom — the elder for Wulfric the Younger, the younger for a cadet claimant.
+- **The Fenwick split and the Berthwald succession.** House Fenwick's two estranged branches back the two candidates for the North Coast eorldom — the elder for Wulfric the Younger, the younger for a cadet claimant. Over both looms **Count Halfdan**, the deep-north-backed (Skarrgaard / the Cloven Strand) marcher lord moving into the vacuum from outside, his troops already skirmishing Ranulf's raiders along the fjord-coast.
 - **Beaconfell married into Merrowdene.** A Beaconfell child of the North Coast is wed into Merrowdene of Stonebay, bridging two regency-leaning blocs across eorldoms.
 - **Caldfen, for sale by marriage.** House Caldfen of the North Coast, desperate to refresh a Blighted line, will trade its vote and fyrd for a credible marriage.
 - **The Greldon letters.** House Greldon of Mossdrowen has agreed in writing, via the Bone-Sayers, to deliver itself to Ranulf — a traitor's confession waiting in a courier's satchel.

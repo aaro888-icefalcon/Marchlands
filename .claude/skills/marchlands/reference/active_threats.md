@@ -4,7 +4,9 @@ This file enumerates the active threats and pressures of the Hethrun region at s
 
 The intent: the GM can read this file and know exactly what is moving in the background, on what timescale, and what player action would accelerate or retard each pressure.
 
-A campaign-spanning note: the Hethrun region is in *crisis at session zero*. The Coronation Clock and Branwald's Working Clock dominate the first six-to-ten weeks of campaign time. The deeper pressures (the barrow-folk stirring, the dragon-cult escalating, Vaerelloth's investigation, the dwarven accord-break) operate on slower timescales but become live as the early clocks resolve.
+A campaign-spanning note: the Hethrun region is in *crisis at session zero* — specifically, the live spine of the campaign is **the Succession War.** Hethrun's late king (boy-king Hadric's father, Aelfric the Just) had risen to **Marshal of the High King** and was rallying a Marchlands-wide invasion of Ostmark when he **died suddenly** (cause ambiguous and suspicious; an Ostmark or Ranulf hand is a live possibility to discover in play). The armies and ambitions he mobilized turned *inward*, and the realm is sliding into civil war. The **Coronation** (Hadric must be crowned by midwinter, ~6 weeks out) is the flashpoint, contested by four power-players: the legitimate-but-weak **Regency**; **Eorl Ranulf of Stonebay** (Ostmark-backed, the pretender, **already in open war**); **Count Edmund of the Hollowford March** (Aurea-backed, west, **poised**); and **Count Halfdan** (deep-north-backed, seizing the North Coast succession, **poised**). The Coronation Clock, the Succession-War fighting, and Branwald's Working Clock dominate the first six-to-ten weeks of campaign time. The deeper pressures (the barrow-folk stirring, the dragon-cult escalating, Vaerelloth's investigation, the dwarven accord-break) operate on slower timescales but become live as the early clocks resolve.
+
+**On grit and danger:** the Marchlands' lethality lives in its *threats*, not in any scarcity of magic. Low magic is common (see the canon digest); what keeps death real is that monsters, Named Threats, the deep wilds, the war's marching hosts, winter, and disease all run **high-powered and deadly**. Frame the threats in this file as genuinely dangerous — they are tuned to be tough, not soft, and permadeath is the default.
 
 ---
 
@@ -20,9 +22,11 @@ The Burning One cult is the dominant manifestation. The cult's vengeance-pact of
 
 **A nascent Aureothan-revivalist cult**, smaller and less consolidated, exists in fragments across the Marchlands. The Aureothan chamber under Brackenford's Drowning Quarter is a possible nucleation point. Count Edmund's excavation is another.
 
-### Problem (3) — A rebel front
+### Problem (3) — A rebel front (now: open civil war)
 
-Ranulf's faction is the rebel front in the strictly procedural sense — he is not openly rebelling, but his refusal to consent to Hadric's coronation is a slow-motion rebellion against the regency's authority. The Stonebay Council of Twelve is functionally an alternative governance authority for the kingdom's wealthiest port. The Cloven Strand jarldom's quiet alliance with Ranulf gives the rebellion potential military force.
+Ranulf's faction is the rebel front — and it has passed from procedural obstruction into **open war.** Ranulf still presses the legal argument in the Witan (he refuses consent to Hadric's coronation), but his Stonebay levies and Cloven Strand-routed raiders are now fighting in the marches; he is the first of the realm's four contenders to take the field. The Stonebay Council of Twelve is functionally an alternative governance authority for the kingdom's wealthiest port. The Cloven Strand jarldom's alliance — raiders already committed, the main fleet held back — gives the rebellion real military force.
+
+The rebel front is no longer the only one. The Succession War has **four** power-players, and the front is widening: **Count Edmund of the Hollowford March** (Aurea-backed, western hardliner and encloser, holding a strong keep and excavating an Aureothan ruin) is **poised to rise**; and **Count Halfdan** (a cold northern war-captain, deep-north-backed by Skarrgaard and the Cloven Strand) is **moving to seize the dying Eorl Berthwald's North Coast succession**, his troops already patrolling the northern marches and skirmishing Ranulf's raiders. Edmund and Halfdan hold a wary marriage-of-convenience against Ranulf. See Clock 11 below, and the faction entries in `factions.md`.
 
 ### Problem (11) — Malcontents with an artifact
 
@@ -271,6 +275,55 @@ The architect's actual identity is a GM choice; I recommend leaving it open for 
 **At 6/6:** Wulfnoth dies. The Brackenford succession opens; the fostered Mildgyth becomes heir; House Maerstow springs its marriage-suit. Eorl Cuthbert, broken by grief, becomes wholly unpredictable in the Coronation crisis — the Coronation Clock advances.
 
 **At 0/6:** the poisoning is stopped and Wulfnoth recovers; whether Wynflaed is exposed or merely thwarted is a separate question, and an unexposed Maerstow will try again by another road.
+
+---
+
+### Clock 11: Count Halfdan seizes the North Coast
+
+**Segments: 3/6.**
+
+Mirror of the Northern Marchers faction Clock 1 in `factions.md`.
+
+**Description:** Count Halfdan — the cold northern war-captain, deep-north-backed by Skarrgaard and the Cloven Strand — is moving to take the dying Eorl Berthwald's North Coast succession before Berthwald's heir Wulfric the Younger can secure it. Three segments are already past: Halfdan's host is in position, his patrons' silver and ships are flowing, and the North Coast moot is being worked. His troops patrol the northern marches and skirmish Ranulf's raiders, which doubles as a claim to be the coast's protector.
+
+**Advances faster if:**
+- Eorl Berthwald's health fails (his is Clock-adjacent; his death throws the succession open)
+- Halfdan wins or coerces North Coast moot-support, or establishes a marriage-tie or a battlefield fact
+- Ranulf's raiders are visibly driven off (Halfdan as the coast's defender)
+- The Edmund marriage-of-convenience holds, pinning Ranulf from the south
+
+**Retards (segments removed) if:**
+- Wulfric the Younger secures a clean succession (the regency or High King formally backing him is decisive)
+- Halfdan's deep-north backing is exposed and discredited as a foreign land-grab
+- The Edmund alliance collapses, leaving Halfdan to face Ranulf alone
+- Halfdan learns, and resents, that his patrons mean to trade him to Ranulf when convenient (his own Dread; could turn him)
+
+**At 6/6:** Halfdan holds the North Coast in fact if not yet in law — a fourth crowned-realm power and a direct northern counterweight to Ranulf, propped by the deep-north.
+
+**At 0/6:** Wulfric the Younger holds the succession; Halfdan's bid collapses or is bought off; the deep-north loses its planned client on the Iron-Strait flank.
+
+---
+
+### Clock 12: The Succession War widens
+
+**Segments: 2/8.**
+
+**Description:** The realm-wide slide from a deadlocked Coronation into open civil war. Ranulf is already fighting (Clock segments above and the rebel-front problem); Edmund and Halfdan are poised. This clock tracks how far the *general* war spreads — from Ranulf's marcher skirmishes toward a multi-front conflict that drags in the wavering eorls, the crown levies, and the foreign backers (Ostmark behind Ranulf, Aurea behind Edmund, the deep-north behind Halfdan). Two segments are past: Ranulf's open mobilization, and Halfdan's northern skirmishing.
+
+**Advances faster if:**
+- The Coronation Clock reaches 12/12 (no crowning by midwinter — the procedural legitimacy that restrains the contenders fails)
+- Edmund openly rises (Clock 8, the chamber, or an Aurean prompt tips him from poised to committed)
+- A power-player's foreign backer commits openly (an Ostmark fleet, an Aurean garrison, a deep-north host)
+- A wavering eorl is forced to take up arms for a side
+
+**Retards (segments removed) if:**
+- Hadric is crowned in proper form (the Coronation Clock empties), restoring a center the contenders must reckon with
+- The High King's arbitration is formally invoked and accepted
+- A power-player is removed, bought off, or forced to stand down (e.g., Ranulf's luck turns, Halfdan's bid collapses, Edmund's correspondence is exposed)
+
+**At 8/8:** Open multi-front civil war across Hethrun, foreign powers committed, the realm a battlefield — a tier-3-and-up strategic crisis that reshapes the campaign.
+
+**At 0/8:** The war is contained to its present scale or settled; the realm pulls back from the brink.
 
 ---
 

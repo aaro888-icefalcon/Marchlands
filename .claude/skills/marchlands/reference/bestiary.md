@@ -36,6 +36,8 @@ D&D 2024 encounter math assumes four PCs. This corpus is solo. The budget below 
 
 Two rules sit above the table. **First**, every additional creature in a solo encounter is worth more than its CR suggests — a "Hard" group of two standards is harsher than a single elite of equivalent total CR. **Second**, never pad HP; bias encounter pressure through terrain, objectives, morale, signature traits, and clock pressure.
 
+**Marchlands threats lean dangerous.** The grit of this setting comes from its threats, not from any scarcity of player-side magic (low magic is common — see `npc_generator.md`). When choosing how hard to pitch an encounter, **default upward**: prefer the harder budget column when in doubt, reach for the tougher end of a group's role roster, and let signature traits, terrain, and morale bite. The aim is encounters that out-punch a generic table of the same tier — that lethality, with winter, disease, and the cost of reliable high magic, is what keeps permadeath real. This biases *selection and framing*, never raw HP: still pick MM 2024 anchors honestly, still give every strong trait its built-in counter, still drive difficulty through terrain and action economy rather than bloat.
+
 ### Region dispatcher (Mode A)
 
 Roll d4 on the zone for the active scene. The polity-to-zone map below tells you which zone applies.
@@ -87,7 +89,7 @@ When `threat_generator.md` returns a result, this table names the bestiary group
 | Cursed Land / Stirring Ruin | Named Threats / Aureothan Constructs, plus zone-appropriate group |
 | Creeping Affliction / Plague or Curse | 1C Blackfen Sickened, 1D Eldgrave's Wards, or Mode G with a sickness-overlay |
 | Creeping Affliction / Blighted Spread | 1C, 4D, or 3C; with a Named Threat as origin if severity is 8+ |
-| Creeping Affliction / Drift-Come Surge | A1 Arrival-Hunters as antagonists; the drift-folk themselves as NPCs |
+| Creeping Affliction / Drift-Folk Surge | A1 Arrival-Hunters as antagonists; the drift-folk themselves as NPCs (almost all drift-free; rarely a drift-marked individual) |
 | Named Threat / Tyrant | Named Threats roster; house troops as their muscle |
 | Named Threat / Heretic | A2 Burning One, A4 Mtosi, A6 Codex Zealots; Named Threats for the heretic |
 | Named Threat / Beast | Named Threats (Vaerelloth, Sleeping Magistrate, Barrow-King), or Mode G apex |
