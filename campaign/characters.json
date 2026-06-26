@@ -34,7 +34,11 @@
    "weight": 1
   },
   {
-   "name": "Bron — Stanwic's wayhouse-keeper; tried to feed the drift-come to the heath as a blood-price, lost the crowd to Sefa, now a humiliated local enemy under whose roof you must rest",
+   "name": "Bron — Stanwic's wayhouse-keeper; tried to feed the drift-come to the heath, then to seize the town's defense — beaten both times (the mob, then the forge). Twice-shamed, cold, committed: a quiet, vengeful enemy now, not a loud one",
+   "weight": 2
+  },
+  {
+   "name": "Wystan — Stanwic's smith; cagey and circuitous, but he saw Shake work real steel and respects it. Granted forge + smith's-tools access (the road to rebuilding Samosa). A possible ally if handled right",
    "weight": 1
   }
  ]

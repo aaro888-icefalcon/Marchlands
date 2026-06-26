@@ -38,7 +38,11 @@
    "weight": 1
   },
   {
-   "name": "Stanwic, a foothold on a leash — you're in: roof, rest, and a promise that the strangers will help hold the wall against the waking dead. Drift-come bound to watch/labor/indenture; Bron the wayhouse-keeper humiliated and hostile; your 'soldier' cover is a lie that can crack",
+   "name": "Stanwic, a foothold on a leash — you're in: roof, rest, the forge, and the town standing a little behind you now. Drift-come still bound to watch/labor/indenture; your worth proven as a rune-smith, the sky-witch rumor cooled here",
+   "weight": 1
+  },
+  {
+   "name": "Bron's grudge — the wayhouse-keeper, twice shamed in his own town (the mob turned, the forge won), won't try crowds again; expect a knife in the dark, a betrayal, or a quiet word to whoever's buying strangers",
    "weight": 1
   }
  ]
