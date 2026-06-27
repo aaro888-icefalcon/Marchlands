@@ -2,10 +2,6 @@
  "kind": "character",
  "entries": [
   {
-   "name": "Count Edmund — Aurea-backed western hardliner, lord of Hollowford Keep, poised to rise in the war; your host-captor, deciding the captives' fate on his own ground",
-   "weight": 3
-  },
-  {
    "name": "Count Halfdan — deep-north-backed northern marcher lord (Skarrgaard / Cloven Strand) whose troops took you; cold war-captain, here in a wary marriage-of-convenience with Edmund against Ranulf",
    "weight": 1
   },
@@ -23,7 +19,7 @@
   },
   {
    "name": "Aldwin — Count Edmund's sister-son, a young knight Shake saved from a septic spear-wound; owes his life to the leech, doesn't yet know magic was used",
-   "weight": 2
+   "weight": 3
   },
   {
    "name": "Wulf — Count Edmund's doomsman/reeve (the Hollowford March's lawman); six-fingered birth-mark, never gives a flat 'no'; respects Shake, now set as his keeper/jailer. GM-secret: divided loyalties — answers to the law/Crown above Edmund",
@@ -31,6 +27,22 @@
   },
   {
    "name": "Brother Oslac, the Hollow Hermit — Hollowford's beloved ascetic, secretly a deep-cover Bone-Sayer agent (hidden origins); vouched the assassin to Aldwin's bedside. Caught (Perception 19), in irons, defiant and SILENT ('weighed and paid'). Tic; won't name his masters",
+   "weight": 1
+  },
+  {
+   "name": "Count Edmund — STRICKEN by apoplexy (Scene 6), half-paralyzed & aphasic, alive but out of command; Shake's patient and lord, passing the weight to Aldwin",
+   "weight": 2
+  },
+  {
+   "name": "Wystan — Count Edmund's son & rightful heir; FAR away (with the war-muster) and somehow shadowed (hidden origins/secret); a looming succession factor not yet on the scene",
+   "weight": 1
+  },
+  {
+   "name": "Captain Garmund — Edmund's household war-captain; commands the Hollowford muster, will fight the coming war; harbors an irrational loathing of Shake (the drift-man with too much sway) — a present rival",
+   "weight": 1
+  },
+  {
+   "name": "Maerwald — Count Edmund's court-mage; a real spellcaster, watching Shake with professional suspicion — the likeliest to see through the leech to the drift-marked kept-class secret",
    "weight": 1
   }
  ]
