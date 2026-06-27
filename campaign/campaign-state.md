@@ -50,7 +50,8 @@ _Σ weighted slots = 21_
 12. Brand — Hollowford's one-eyed old quartermaster; fearfully-respected gossip-hub, passed over for captain 40 years (bitter 'great disappointment'); knows every secret in the keep — a goldmine if courted
 13. Wynn — a sharp, ambitious young woman, 'someone important's' mistress (whose unclear), plainly rising/'marked for success'; an intrigue-player to watch
 14. The Ash-Captain — dread war-leader of the host marching on Hollowford (~2,500-3,000); low-born & foreign (Ostmark-marches), risen from nothing, secretly craving the legitimacy/lordship his birth denies him; his host is COORDINATED with the hand decapitating Edmund's line (same campaign)
-_Σ weighted slots = 20_
+15. Captain Soren — foreign-born, monied sell-sword commander of Hollowford's ~150 mercenary huscarls (the defense's spine); distinctive mottled/scarred skin; carries a CONCEALED SIN (a lever); coin-loyal & his own man, NOT Garmund's nor Edmund's. For now he'll hold the contract (Fate Yes) — but it's coin-deep & the coordinated enemy may try to buy him
+_Σ weighted slots = 21_
 
 <!-- LISTS:END -->
 
