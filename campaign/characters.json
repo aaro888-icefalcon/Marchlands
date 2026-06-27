@@ -27,7 +27,7 @@
   },
   {
    "name": "Captain Garmund — Edmund's household war-captain; commands the Hollowford muster, will fight the coming war; harbors an irrational loathing of Shake (the drift-man with too much sway) — a present rival",
-   "weight": 1
+   "weight": 2
   },
   {
    "name": "Maerwald — Count Edmund's court-mage; a real spellcaster, watching Shake with professional suspicion — the likeliest to see through the leech to the drift-marked kept-class secret",
@@ -51,6 +51,10 @@
   },
   {
    "name": "Wynn — a sharp, ambitious young woman, 'someone important's' mistress (whose unclear), plainly rising/'marked for success'; an intrigue-player to watch",
+   "weight": 1
+  },
+  {
+   "name": "The Ash-Captain — dread war-leader of the host marching on Hollowford (~2,500-3,000); low-born & foreign (Ostmark-marches), risen from nothing, secretly craving the legitimacy/lordship his birth denies him; his host is COORDINATED with the hand decapitating Edmund's line (same campaign)",
    "weight": 1
   }
  ]
