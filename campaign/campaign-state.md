@@ -2,12 +2,12 @@
 
 > Source of truth for prose, clocks & recap. Threads/Characters Lists live in JSON
 > (`state.py thread|char show`/`render`). Overwrite at the end of every scene.
-> **▶ STATUS: in play — Scenes 1–2 resolved; Scene 3 (INTERRUPT / Turning Point) running. Bad war-news hits the hall; a Codex lay-brother slips up toward the sleeping Aldwin against the crowd; Shake is briefly unwatched. Awaiting the player's move.**
+> **▶ STATUS: in play — Scenes 1–2 resolved; Scene 3 (INTERRUPT / Turning Point) resolving. Shake killed the disguised assassin over Aldwin, framed/credited it cleanly; Wulf revealed as Edmund's doomsman; the trail points WEST (Mossdrowen / Bone-Sayer-brokered). Count Edmund's gratitude came as OWNERSHIP — Shake is now a prized, locked-down asset. Awaiting Shake's response to Edmund.**
 
 ## Frame
 - **Engine:** mythic-gm (v2+) · Adventure Crafter always-on
 - **System:** D&D 2024 / 5.5e
-- **Setting:** Hethrun — a **major Marchland power (~2,000,000 souls)** sliding into civil war. At **Hollowford Keep**, Count Edmund's stronghold in the Hollowford March (west). **Common tongue is English — no barrier.**
+- **Setting:** Hethrun — a **major Marchland power (~2,000,000 souls)** sliding into civil war. At **Hollowford Keep** — Count Edmund's seat; canon: the Hollowford March is an **independent thanedom** (count answers only to the Crown), "aggressive land-enclosure; the realm's standing antagonist-county; self-interested." **Common tongue is English.**
 - **Genre:** grounded survival / political — death, ruin, capture, war. **Permadeath live.**
 - **Magic:** common at the low end, rare/costly at the high end; grit lives in deadly threats, not magic-scarcity.
 - **Resolution:** Fate Chart · **Discipline:** HARDCORE (no softening) · Lists: JSON · **Themes:** Action › Social › Tension › Personal › Mystery
@@ -15,8 +15,8 @@
 
 ## The premise
 - **The Crossing:** ~8 million New Yorkers torn into Hethrun in one black second, scattered in clusters. **Drift-folk** are a known phenomenon; the Crossing is its unprecedented mass-event.
-- **The Succession War (the spine):** King **Aelfric the Just** — risen to Marshal of the High King — **died suddenly** mid-muster for an invasion of the **Aureothan Empire (Ostmark)**; the realm is sliding into **civil war** around boy-king **Hadric**'s midwinter Coronation. **Eorl Ranulf of Stonebay is at open war** (Ostmark-backed); **Count Edmund** (Aurea-backed, west) and **Count Halfdan** (deep-north-backed, north) are poised, in a wary marriage-of-convenience against Ranulf.
-- **PC:** **Abhishek "Shake" Rao** — drift-marked **Human Battle Smith Artificer 3**; captured in the fighting, roped with Ranulf's marauders, delivered by Halfdan's troops to Hollowford Keep. See `character-sheet.md`.
+- **The Succession War (the spine):** King **Aelfric the Just** (Hadric's father; held *Marshal of the High King*) **died suddenly** mid-muster for an invasion of the **Aureothan Empire (Ostmark)**; the realm slides into **civil war** around boy-king **Hadric** (age 12; regency under **Lady Isolde**) and his midwinter Coronation, gated by the seven-eorl **Witan**. **Eorl Ranulf of Stonebay** is the pretender, at open war (Ostmark-backed); **Counts Edmund** (west) & **Halfdan** (north) poised, wary allies against Ranulf.
+- **PC:** **Abhishek "Shake" Rao** — drift-marked **Human Battle Smith Artificer 3**; captured in the fighting, roped with Ranulf's marauders, delivered to Hollowford Keep. See `character-sheet.md`.
 
 ## Chaos Factor: 5
 
@@ -39,35 +39,35 @@ _Σ weighted slots = 14_
 4. The Stonebay marauder-captain — leader of Ranulf's raiders you're roped in with; pragmatic, dangerous, already working his own angle for a deal or a break  _(weight 2)_
 5. Ranulf's marauders — the captured Stonebay raiding-men you've been lumped in with; the company that colors what you're taken to be
 6. Aldwin — Count Edmund's sister-son, a young knight Shake saved from a septic spear-wound; owes his life to the leech, doesn't yet know magic was used  _(weight 2)_
-7. Wulf — Count Edmund's sergeant; blunt and no fool, watched Shake's surgery and revised him upward; now Shake's keeper/escort — potential ally or jailer
+7. Wulf — Count Edmund's doomsman/reeve (the Hollowford March's lawman); six-fingered birth-mark, never gives a flat 'no'; respects Shake, now set as his keeper/jailer. GM-secret: divided loyalties — answers to the law/Crown above Edmund
 _Σ weighted slots = 12_
 
 <!-- LISTS:END -->
 
 ## PC status
-**Shake Rao** — **off the prisoners' roll**, accepted by **Count Edmund** as a valued healer of some standing (the *knight & folk-charm* framing let stand; Persuasion 17 vs DC 15). Promised a lockable chamber, fitted clothes, boots, and the kitchen — but the **Interrupt hit before he reached any of it.** **PROVED himself** in the east tower: aseptic field surgery (I&D) on **Aldwin** with NO magic shown to Wulf (Medicine/INT 20 vs DC16), then **Cure Wounds in secret** (+12 HP) — Aldwin turned the corner, sleeping. **Still effectively a watched asset** (no weapon/armor/coin; sword & +1 shield still in the strong-room; AC 12; HP 24/24). **Tools in hand = artificer focus → leveled casting UNLOCKED while held.** **Spell slots: 2 / 3 first-level remaining.** **Guidance** currently up (concentration, ~1 min). **Shape Shadows — Invisibility 1/long rest: AVAILABLE** (unspent). **Companions dispersed:** Samosa (smith's tools + long rest to rebuild), Daegon (Find Familiar components). **Secret intact:** taken for a skilled *leech*; NOT known to be drift-marked / kept-class. **Ties:** Leofa (Aldwin's servant, grateful). Full sheet: `character-sheet.md`.
+**Shake Rao** — twice the savior of **Aldwin** (Edmund's heir-kin): aseptic surgery (Medicine/INT 20) + secret Cure Wounds in Scene 2; then in Scene 3 **killed a disguised assassin** mid-smother (surprise dagger, 21 vs AC 13) and **controlled the scene** (shouted frame + Minor Illusion + Persuasion 19) so he reads as hero, not suspect. **Reward = a tighter cage:** Edmund declared him *"mine now"* — quartered by the Count's own rooms, **door locks from BOTH sides, Wulf's men on it, no passing the keep gate without Edmund's word.** Valued, honored, *owned.* **No weapon/armor/coin** (sword & +1 shield still in the strong-room; AC 12; HP 24/24). **Tools in hand = focus → leveled casting unlocked while held. Spell slots: 2 / 3 first-level.** **Shape Shadows — Invisibility 1/long rest: AVAILABLE** (unspent — the escape ace, now more pointed). **Companions dispersed:** Samosa (smith's tools + long rest to rebuild), Daegon (Find Familiar components). **Secret intact:** taken for a skilled *leech* (+ a folk-charm knower); NOT known drift-marked/kept-class. **Latent illusion risk:** the Minor Illusion "ranting" is manufactured evidence — could rebound on scrutiny. Full sheet: `character-sheet.md`.
 
-## SCENE 3 — Against the Current (INTERRUPT · Turning Point) — RUNNING
-Turning Point (theme Tension): **Betrayal! (invokes Aldwin) · Time Limit · Bad News** → **new thread "A knife in Hollowford."** As Wulf walked Shake down toward his promised chamber, the keep took **bad news**: a mud-grey courier in the great hall — *Oxmere's steading and the mill burned; a host, not a raid, bearing west.* (The **Lone Apex** front surfacing.) In the uproar Wulf is pulled toward the courier and Shake is briefly **unwatched** — and spots a **Codex lay-brother moving against the crowd, up the east-tower stair toward the sleeping Aldwin.** Shake's clinical doubt: a clean-healing wound doesn't crash on day six — Aldwin's deadly 'turn' two days ago looks **introduced** (poison?), and the man going up now may be the one finishing the job. **Time limit: seconds.** Awaiting the player's move.
+## SCENE 3 — Against the Current (INTERRUPT · Turning Point) — RESOLVING
+Turning Point (Tension): **Betrayal! (Aldwin) · Time Limit · Bad News** → thread "A knife in Hollowford." War-news hit the hall (Oxmere/mill burned, a host bearing west — **Lone Apex** surfaced, clock 1/6); a fake **Codex lay-brother** slipped up to smother the sleeping Aldwin during the distraction. Shake tailed (Stealth 17), caught him in the act, **killed him** (eye-thrust), then **shouted the frame + Minor-Illusion'd a raving "confession" + sold it** (Persuasion 19) so Wulf & guards read it true. **Body-search (Investigation 20)** with Wulf: no holy man (no tonsure, poisoner's hands, hidden knife, a war-bow + **bog-iron/verge arrows**), the **poison kit** (= Aldwin's "bitter wine" two nights past, confirmed by the boy), and a **Bone-Sayer tally** → a *brokered, contracted, western* hit. **Wulf revealed: Count Edmund's doomsman/reeve** (six-fingered birth-mark; never gives a flat "no"; **GM-secret: divided loyalties — answers to the law/Crown above Edmund**). **Edmund arrived; Fate=No → gratitude as ownership** (see PC status). **Now: awaiting Shake's response to being claimed.** *(Bookkeep/Scene-Test when this closes.)*
 
 ## Clocks (live world ledger)
-- **The Succession War widens** — background spine, advancing (Ranulf at war; Edmund & Halfdan poised; the alliance-of-convenience will break).
-- **The Coronation** — boy-king Hadric must be crowned by midwinter (~6 weeks) or the realm has no center; the Crown delegation races it. *(+1 per in-world week.)*
-- **Count Halfdan seizes the North Coast** — the northern count's bid into Eorl Berthwald's dying succession.
-- **Two ledgers on Shake** — the Crown envoy (Aldhelm) and Halfdan's officer both filed his name and Edmund's grab of him; consequences pending.
-- **War on the doorstep** — a host burned Oxmere and is bearing west toward the Hollowford March (Lone Apex surfacing). The keep is on alarm.
+- **The Succession War widens** — advancing (Ranulf at war; Edmund & Halfdan poised; the alliance-of-convenience will break).
+- **The Coronation** — Hadric must be crowned by midwinter (~6 wks) or the realm has no center; the Crown races it. *(+1 per in-world week.)*
+- **War on the doorstep** — a host burned Oxmere & the mill, bearing west toward the Hollowford March (Lone Apex). Keep on alarm; Edmund mobilizing.
+- **A knife in Hollowford — active lead:** a *contracted* assassination of Edmund's heir-kin, **Bone-Sayer-brokered**, gear pointing **WEST — Mossdrowen / Greatwood verge.** Points; doesn't name. (GM-truth below.)
+- **Two ledgers on Shake** — Crown envoy Aldhelm + Halfdan's officer both filed Edmund's grab of him; consequences pending.
 
-### ⚠ THE FRONT (latent — rolled on a scene-1 pressure 20; PC does NOT yet know the shape of these)
-- **Howe-Stirring** *(Restless Dead — Regional, 6-segment clock, 0/6)* — old barrow-dead waking near Hollowford's ancient stone / the cellars-dig. (Hinted: the east tower's older-than-Hethrun courses; Aldwin's fevered *"cold"* toward an empty corner.)
-- **Lone Apex** *(Marauder Force — Regional, 6-segment clock, 1/6)* — a raiding host under one dominant war-leader; **now surfaced** as the courier's burned steadings, bearing west.
-- **The Noble Faction's Bid** *(Named Threat — Major, 8-segment clock, 0/8)* — a named noble's faction driving a major play; **likely behind "A knife in Hollowford"** (the move on Edmund's blood).
+### ⚠ THE FRONT (latent — PC does NOT know the shape)
+- **Howe-Stirring** *(Restless Dead — Regional, 6-clock, 0/6)* — barrow-dead near Hollowford's older-than-Hethrun stone / the cellars-dig. (Hints: the east tower's foreign lower courses; Aldwin's fevered *"cold"* at an empty corner.)
+- **Lone Apex** *(Marauder Force — Regional, 6-clock, 1/6)* — a host under one war-leader; **surfaced** as the burned steadings bearing west.
+- **The Noble Faction's Bid** *(Named Threat — Major, 8-clock, 1/8)* — **surfaced** as the contracted hit on Edmund's line. **GM-truth (Player≠PC):** traces to **Ranulf's bid**, executed via his secret Mossdrowen agent **House Greldon** (black raven; already Ranulf's via the Bone-Sayers) + Bone-Sayer cutouts, to gut a rising anti-Ranulf power (Edmund). Aldwin = nearest heir-kin, struck during the crisis. The body-search yields the **lead** (west/Mossdrowen/Bone-Sayer), never the names.
 
 ## Story so far
-**Scene 1 — The Catch.** Shake woke bound in a prisoner-coffle in Hollowford's gatehouse, roped among Ranulf's marauders, in Halfdan's troops' custody, with Edmund hosting and a Crown delegation present. Asked by the marauder-captain what he was, Shake said *healer* — and the captain immediately **bellowed it up the line** to better his own deal (Fate: Exceptional No). The catch became contested: the **Crown envoy Aldhelm** claimed all rebel prisoners by the boy-king's writ; **Count Edmund**, the host, overrode him by force of ground (1d6=6, contested). Edmund questioned Shake directly; Shake answered with disarming honesty — *a true healer, hobbled without his tools* — and **persuaded him** (Persuasion 15 vs DC 13, advantage). Edmund **claimed Shake as his leech**, denying the Crown; Aldhelm withdrew with a cold promise to report it; Halfdan's officer watched and filed it too. Shake was cut off the rope and marched to the east tower to prove himself.
+**Scene 1 — The Catch.** Woke roped among Ranulf's marauders in the gatehouse; outed as a healer by the marauder-captain; the Crown envoy **Aldhelm** & **Count Edmund** contested him; Shake persuaded Edmund (15 vs DC 13) → claimed as the Count's leech, off the rope. CF 5→6.
 
-**Scene 2 — The East Tower.** The proving body was **Aldwin, Edmund's sister-son**, dying of a septic flank wound under three leeches' shrugs. Shake ran it like an OR: boiled water, clean linen, flamed instruments (asepsis), then **incision & drainage** for source control — Medicine(INT) 20 vs DC 16, succeeding with **no magic shown** to Wulf, who revised the stranger sharply upward. With the room cleared, Shake **cast Cure Wounds in secret** (Fate: unobserved; +12 HP) — Aldwin turned the corner and fell into true sleep (a half-lucid *"cold,"* eyes flicking to an empty corner). Edmund came up, saw his kin saved, let the *knight* claim stand (Persuasion 17 vs DC 15), took Shake **off the prisoners' roll** — "you're worth more than the rope" — and vowed they'd talk *what you are and what you're worth* once Aldwin was through the next three nights. A velvet collar: valued, not freed. Shake bowed and followed Wulf out. **CF 6→5 (earned).**
+**Scene 2 — The East Tower.** Proved himself on **Aldwin** (Edmund's sister-son), septic flank wound: aseptic I&D with no magic shown to Wulf (Medicine/INT 20 vs 16), then **secret Cure Wounds** (+12 HP). Edmund let the *knight/healer* framing stand (Persuasion 17 vs 15), took him off the prisoners' roll — *"worth more than the rope"* — vowing to weigh his worth once Aldwin was through. CF 6→5.
 
-**Scene 3 — Against the Current (Interrupt, running).** See SCENE 3 block above. *(Prior Skellan's-Reach arc archived on branch `claude/festive-curie-g8clny`.)*
+**Scene 3 — Against the Current (Interrupt, resolving).** See SCENE 3 block. Shake killed the assassin, saved Aldwin a second time, exposed a brokered western plot, learned Wulf is the doomsman — and Edmund answered the "what are you worth" question by **owning** him: prized, honored, and caged. *(Prior Skellan's-Reach arc archived on branch `claude/festive-curie-g8clny`.)*
 
 ## Source
-- Setting ground-truth: `.claude/skills/marchlands/bridge/setting-canon.md`.
+- Setting ground-truth: `.claude/skills/marchlands/bridge/setting-canon.md`; realm in `reference/realm_titles.md`; Mossdrowen/Greldon/Bone-Sayers in `reference/eorldom_mossdrowen.md`.
