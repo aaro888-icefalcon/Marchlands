@@ -1,43 +1,41 @@
-# Seed Deck — Marchlands: The Host & the March
+# Seed Deck — Marchlands: The Reckoning (the political endgame)
 
-_Refreshed at the Scene-15 bookkeeping. Shake has WON the field-host and SECURED Marlford — purging
-the web's planted cell and making the burh and army his own (privately, in his own name). Riders are
-out to the Crown & Halfdan; the head of the enemy cell fled; the siege of Hollowford grinds toward
-midwinter's Coronation Reckoning. **CF 2. 30 cards.** Three channels: the won host & the march · the
-powers & the realm · the deep web & loose ends. Refresh next act-break (the march on Hollowford)._
+_Refreshed at the Scene-24 ACT-BREAK. The siege is broken, Hollowford relieved, Aldwin saved, the
+Ash-Captain captured; Shake knelt and re-pledged himself & Marlford to the line (legitimacy laundered).
+But the web ran home west, the March's thanes hedge, and the Crown brands him an upstart. The war now
+moves from the sword to the **Witan / midwinter Coronation.** CF 2. **26 cards.** Channels: the Witan & the
+Crown · the March & the seat · the deep web & the west · the personal. Refresh next act-break._
 
-## Channel 1 — the won host & the march (Marlford · the army · the relief)
-1. **An army, not yet.** ~800–1,000 spears loyal to Shake but leaderless-shaped: it needs officers (Wystan's are dead), drill, a chain of command. Who does he raise to captain — Saewulf? Brunwulf? Oswin? *(forge the host)*
-2. **Remounts and the baggage.** A relief that marches needs horses, carts, fodder, a paymaster who doesn't rob. Aldersweir's thinned herd, Goldmead's fat fields — where does the muster get its legs? *(logistics / leverage)*
-3. **The war-chest.** Cray's strongbox went down the river with him; the host eats coin daily. Marlford's tolls, the granary, a thane's purse — where's the money to keep an army standing? *(the relief)*
-4. **Marlford in his own name.** Shake means to *hold* this burh — not as Edmund's agent but as his own seat. The first man to act like a lord becomes one; who notices, who objects, who kneels? *(Sworn man / ambition)*
-5. **Goldmead, the plum.** The March's untouched breadbasket — supplies, coin, recruits — and the Ash-Captain's foragers will turn to it next. Reach it first and the relief is fed; lose it and the enemy is. *(resource / race)*
-6. **The route to Hollowford.** West lies the besieged keep and ~2,500–3,000 besiegers. The relief must time its blow for when the host is winter/plague-weak — and pick its road through a ravaged March. *(THE RELIEF RIDE)*
-7. **Saewulf's right hand.** The grizzled captain is a soldier's soldier and his own man; lean on him and the host runs like a machine — but he'll have his own read on Shake's ambition. *(ally)*
-8. **Godric's faith.** The vindicated idealist is near-worshipful now — and believes this is all for Aldwin and the rightful line. The day he learns what Shake is really building is a reckoning. *(Innocent / conscience)*
-9. **The captives in the loft.** The web's rolled-up cell sits in Shake's hands — silent, web-bred, but alive and able to talk. What can be wrung from them, and how far will Shake go? *(interrogation / the web)*
-10. **The men's morale.** They watched him pull snakes from the grain; the legend is growing. Feed it (a feast, a speech, justice done in the light) or let it cool. *(the gathering)*
+## Channel 1 — the Witan & the Crown (the Coronation · the proof · the realm)
+1. **The summons to the Kingsmound.** Midwinter is here; the seven-eorl Witan convenes to settle the realm. Does Shake go — and as what (Aldwin's right hand? Edmund's voice? his own man)? *(the Reckoning)*
+2. **A warlord in chains as evidence.** The captured Ash-Captain is living proof of an Ostmark/Ranulf proxy war — if Shake can make him talk, or display him, before the right audience. *(proof / leverage)*
+3. **The Crown's cold eye.** The Regency already brands Shake a drift-marked upstart; arriving with an army's repute and a captured warlord could read as threat as easily as service. *(Three powers / danger)*
+4. **Whose mouth speaks for Hollowford?** Stricken Edmund can't; boy-Aldwin shouldn't stand alone before eorls; Shake is drift-marked and resented. The March needs a voice at the table — and a risky one is the only one it has. *(the line / politics)*
+5. **Ranulf, named.** To accuse the pretender openly is to commit — it makes Shake the man who unmasked him, and the man Ranulf must now destroy first. *(the spider)*
+6. **The other eorls.** Five great lords besides Ranulf and the boy-king's party; the realm turns on who they back. Halfdan (who snubbed Shake), the Crown faction, the fence-sitters — each a door. *(Succession War)*
+7. **Drift-marked, in the light of the realm.** A known kept-class drift-marked walking into the realm's highest court: a marvel to some, an abomination to the Codex hardliners, a tool to the ambitious. *(Drift-marked)*
 
-## Channel 2 — the powers & the realm (Crown · Halfdan · the Coronation · Eadgyth)
-11. **The Crown's reply.** Aldhelm has Shake's name in a ledger; the Regency would relieve Hollowford to deny it to Ranulf — but the Crown helps no one for free. What does the rider bring back? *(Three powers)*
-12. **Halfdan's reply, cold.** Shake asked for the northern horse and withheld the marriage-coin Halfdan wanted; the count moves for his own gain (the North Coast succession). Does he come, haggle, or sit? *(the relief / Halfdan)*
-13. **Eadgyth, withheld.** Her hand is uncommitted and she's grief-embittered, half-blaming Shake for Aldred — a lever Shake keeps in reserve, a wildcard who is *not* a biddable chip. *(lever / Personal)*
-14. **Beorhtric of Stanmere.** The March's anchor-thane (~40 horse + 300 fyrd) will answer the call — but bears a bitter grudge over Edmund's enclosures. Court him right and the relief becomes a real army. *(THE RELIEF RIDE)*
-15. **The Coronation clock.** Midwinter nears; whatever Shake builds, the realm's whole succession tightens around the boy-king's crowning and the Witan's vote (or the sword behind it). *(Succession War)*
-16. **A lord, or a leech?** A drift-marked outlander holding a march-burh and an army in his own name — the thanes, the Crown, and the Church will all have opinions about *that.* *(Drift-marked / standing)*
-17. **Word to Hollowford.** Can Shake get a message past the siege-ring to Aldwin (and Wulf) — that relief is coming, hold on? And what comes back? *(the line / ally)*
-18. **Garmund holds the boy.** Back in the keep, the hostile captain owns Aldwin's command; a real soldier, a cruel one, a Codex spiter — for good and ill while Shake is away. *(rival)*
+## Channel 2 — the March & the seat (the gentry · the regency · the captives · home)
+8. **The wary thanes.** The March's gentry sent fair words, not fealty. Winning them — at Harbury's moot, by deeds, by marriage or coin — is the unfinished base of Shake's power. *(the wary March)*
+9. **Aldwin's regency.** The boy is saved but twelve; who truly rules the March in his name, and how is it made to stick before the realm? Shake is his right hand — how far does that go? *(the line)*
+10. **Edmund, stricken.** The old count still lives, half-paralyzed, aphasic. A living lord with no command — a complication, a shield, or a duty. *(Personal / politics)*
+11. **The captives' fates.** The fanatic, the turned marauder-captain, the Marlford cell, and the Ash-Captain — to break, display, ransom, hang, or use. Each choice sends a message. *(the web / justice)*
+12. **Eadgyth, allied.** Her bitterness turned to partnership; she gave Shake her hand on the hunt. A wildcard, a lever, a person — and still a marriageable daughter of the line. *(Personal / lever)*
+13. **Oswin's barrow.** The voucher who died in the copse is unburied. Rites, and what his loss costs Shake in the eyes of the men whose trust he carried. *(Personal / standing)*
+14. **Marlford & a winter.** Shake's seat, held of Aldwin now; a March to feed and rebuild on reclaimed plunder, with the gentry watching how a drift-marked lord governs. *(the seat)*
+15. **Godric mending.** The idealist nearly died, was proved right about Shake, and is rising weak from his bed — a true believer at Shake's side as the politics turn dirty. *(ally / conscience)*
 
-## Channel 3 — the deep web & the loose ends (the head · Cray · the trail · the secret)
-19. **The head that fled.** The off-book hand who ran the Marlford cell is loose — knows Shake's face, knows Shake holds a Bone-Sayer tally, and is carrying word *up the chain.* Hunt him, or let him run to the spider? *(the web / pursuit)*
-20. **Coll Cray, vengeful.** The fled profiteer is downriver with what he knows of Shake, the host, and the plan — for sale to the highest bidder (the Ash-Captain? the web?). *(loose end / Ill Will)*
-21. **The Bone-Sayer tally.** The mark on the assassin, in Oslac's cell, and now on Shake's captives — the brokers' signature. Read it, trace it, and the web's shape sharpens. *(A knife in Hollowford)*
-22. **The Mossdrowen trail, still cold.** Bog-iron, verge-fletching, the broker tally — the lead runs WEST to Mossdrowen and House Greldon. A thread for when Shake can ride it. *(GM-truth: Ranulf→Greldon→Bone-Sayers)*
-23. **The marauder-captain's grudge.** The man who first named Shake a healer is free, hostile, moving with the Bone-Sayers, and knows exactly what Shake is worth. *(Ill Will / loose end)*
-24. **Who is the Ash-Captain, really?** A low-born foreign warlord starving for legitimacy, his host coordinated with the line-killers — what does he truly want, and can he be turned, bought, or broken? *(the host of the enemy)*
-25. **The hidden paymaster.** The same rich hand sent the host *and* the knives *and* the planted cell. Cut it and the whole campaign loses its purse. *(the spine of the enemy)*
-26. **The Creeping Sickness.** The plague the cast-out refugees scattered may be gnawing the *besiegers* worse than the keep — Shake's accidental weapon, if he could confirm and exploit it. *(the Front, latent)*
-27. **The drift-marked road.** Free of Maerwald's eyes, Shake uses his real powers more openly — and new witnesses wonder what a leech is doing with a war-hound, a hawk, and runes. *(the secret)*
-28. **A word of sky-folk.** A realm at war is a realm of news; somewhere in the muster or the markets, the first true whisper of Akhil or Shake's scattered fifty. *(Find your people)*
-29. **The Crossing's question.** What tore eight million souls into Hethrun — and is there a way home — still unanswered under everything. *(The Crossing)*
-30. **The thing in the old stone (latent).** The cold under Hollowford's east tower the animals feared — the Howe-Stirring waits, unrelated to the war, patient. *(the Front)*
+## Channel 3 — the deep web & the west (Ranulf · Cray · Mossdrowen)
+16. **The spider ran home.** Cray, the Marlford head, and the grain-factor slipped west to Mossdrowen to report Shake to their masters — the web now knows exactly who broke its campaign. *(pursuit / the web)*
+17. **The Mossdrowen trail.** Bog-iron, verge-fletching, the bone-tally, the fled brokers — every thread runs to Mossdrowen and **House Greldon.** A road Shake could ride, or send a knife down. *(GM-truth: Ranulf→Greldon→Bone-Sayers)*
+18. **The Bone-Sayers.** A brokerage of murder-for-hire with cells across the realm; bleeding Edmund was one contract among many. Cutting the broker, not just the knife, is the only real end. *(An Organization)*
+19. **Where is Beorhtric?** The anchor-thane vanished from plague-struck Stanmere — taken, hunting, or turned? Finding him could restore the March's backbone — or expose another betrayal. *(mystery)*
+20. **Ranulf's answer.** The pretender's army broken in the Greenways, his web exposed — he will not take it quietly. The next stroke, when it comes, comes at Shake. *(the spider / pursuit)*
+21. **Stanmere, leaderless & sick.** The plague Shake can fight and a hold with no lord — a chance to save lives, win a great thaneland's loyalty, and plant his own banner where Beorhtric's fell. *(the wary March / the Sickness)*
+
+## Channel 4 — the personal (the secret · his people · the Crossing · the deep cold)
+22. **A word of sky-folk, at last.** Breathing room and a wider stage; somewhere in the realm's gathering at midwinter, the first true thread to Akhil or Shake's scattered fifty. *(Find your people)*
+23. **What the war made of him.** A surgeon who has become a man who rides broken armies into the ground and weighs lives like a lord. What's left of Shake Rao when the fighting stops? *(Personal)*
+24. **The Crossing's question.** What tore eight million souls into Hethrun — and is there a way home — still unanswered under everything. *(The Crossing)*
+25. **The cold under the east tower.** Shake just fought and killed in the old tower over the older stone the animals feared. The **Howe-Stirring** waits, patient, unrelated to any war. *(the Front, latent)*
+26. **The Codex turns its gaze.** A drift-marked knight, now famous, now *known* — the Church's hardliners have a new and very visible thing to have opinions about. *(Drift-marked / the Church)*
