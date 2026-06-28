@@ -6,52 +6,44 @@
    "weight": 1
   },
   {
-   "name": "Find your people — brother Akhil and your ~50 (none in this coffle), scattered across a realm at war; finding them needs a city, news, and leverage",
+   "name": "Find your people — brother Akhil and the ~50, scattered across a realm at war; finding them needs a city, news, and leverage",
    "weight": 1
   },
   {
-   "name": "Drift-marked, and known for it — you kept your class (a skilled professional in Hethrun); valuable and notable, a thing these powers may want owned or used rather than hanged",
+   "name": "Drift-marked, and known for it — Shake kept his class (a skilled professional); valuable & notable, a thing powers want owned or used; the kept-class secret still hidden (Maerwald half-suspects)",
    "weight": 2
   },
   {
-   "name": "Conflated with Ranulf's marauders — taken roped among Stonebay raiders; that taint colors what every lord here takes you to be",
+   "name": "A knife in Hollowford / the web — a Bone-Sayer-brokered campaign decapitating Edmund's line & burning the Greenways (Oslac, the assassin, Wystan's ambush, Edenmoor, maybe Soren); traces WEST to Mossdrowen / House Greldon (GM-truth: Ranulf's bid)",
+   "weight": 3
+  },
+  {
+   "name": "Sworn man of Count Edmund — fealty given; of the Hollowford March, in tension with finding his people, the Crossing, and his own freedom",
+   "weight": 2
+  },
+  {
+   "name": "The line cut down — Edmund stricken, heir Wystan murdered; Aldwin the last of the blood & the next target, holding besieged Hollowford on Shake's promise; relief must come before the keep falls",
+   "weight": 3
+  },
+  {
+   "name": "THE RELIEF RIDE (spine) — forge a relief army (vassal-thanes + the field-host + Halfdan/Crown) and break the Ash-Captain's siege when his host is winter-and-plague-weak",
+   "weight": 3
+  },
+  {
+   "name": "A following gathering at Aldersweir — Shake's cast-out Hollowford folk regroup there; turning the gate-disaster into a base of support",
    "weight": 1
   },
   {
-   "name": "Three powers, one hall — Count Edmund (host, Aurea-backed, poised), Count Halfdan (captor, deep-north-backed, poised), and a Crown delegation (the Regency) — rival claims on the captives and on the war",
+   "name": "The Coronation Reckoning — the Witan summoned to the Kingsmound; the realm settles at MIDWINTER (by vote or the sword behind it). A deadline on everything; every lord plays for that table",
    "weight": 2
   },
   {
-   "name": "A knife in Hollowford (Turning Point) — Aldwin's deadly 'turn' two days past reeks of foul play; someone in the Count's own house moved on his blood, and they are not finished",
+   "name": "The gathering muster — Shake becoming the man rallying the March: ~40+ lances & a score of horse-bows and growing (Godric, Brunwulf, the Greenways knights); the core & repute to claim the host & bargain with the powers",
+   "weight": 2
+  },
+  {
+   "name": "Claim the field-host at Marlford — the ~800-1,000 penned, broken & fleeced by profiteer-kingpin Coll Cray; no officer-lever survives — claim it from the BOTTOM (the rank-and-file's kin in Shake's column), break Cray's grip, feed the men hope = inherit an army",
    "weight": 3
-  },
-  {
-   "name": "Sworn man of Count Edmund — fealty given (a worthy purpose, and a gilded bond); now of the Hollowford March, in tension with finding his people, the Crossing, and his own freedom",
-   "weight": 2
-  },
-  {
-   "name": "The leaderless March — Edmund stricken, heir Wystan far away & shadowed, boy-regent Aldwin holding Hollowford on Shake's arm, Captain Garmund resentful — and a war 2 days out",
-   "weight": 2
-  },
-  {
-   "name": "The line cut down — Edmund stricken, heir Wystan murdered in a Brackenford ambush that reeks of a trap; Aldwin is the last of the Count's blood and surely the next target; a hidden hand is decapitating the Hollowford line",
-   "weight": 3
-  },
-  {
-   "name": "The gates shut on his own — Aldwin (steered by Garmund, over Shake) drove out Hollowford's own refugee-tenants before the Ash-Captain's host; hundreds cast out & scattering the plague; the March's faith broken, the boy-lord bloodied, Shake's counsel beaten this round",
-   "weight": 2
-  },
-  {
-   "name": "THE RELIEF RIDE (new spine) — Shake broke out of Hollowford to forge a relief army: rally the scattered vassal-thanes & leaderless field-host, court Count Halfdan's horse and/or the Crown's blessing, and return in 2-3 months to break the Ash-Captain's siege when his host is winter-and-plague-weak",
-   "weight": 3
-  },
-  {
-   "name": "A following gathering at Aldersweir — Shake's cast-out Hollowford folk heeded his call and stream south to the market village (the party's first waypoint); a chance to turn the gate-disaster into a base of support, mouths & hands for the relief",
-   "weight": 1
-  },
-  {
-   "name": "The Coronation Reckoning (Random Event: Close A Thread—Create/Trial) — the Regency has summoned the Witan to the Kingsmound; boy-king Hadric to be crowned & the realm's quarrel settled at MIDWINTER, by vote or the sword behind it. The war now has a deadline; every lord (Beorhtric, Halfdan, the Crown, Ranulf) plays for that table",
-   "weight": 2
   }
  ]
 }
