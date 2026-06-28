@@ -58,8 +58,12 @@
    "weight": 2
   },
   {
-   "name": "Coll Cray — pox-scarred profiteer-kingpin strangling Marlford & the trapped field-host; a merchant (not a warlord) ruling via cornered bread/gates/river-trade + hired muscle; 'marked for success,' likely for SALE to the highest bidder",
-   "weight": 2
+   "name": "Saewulf — grizzled retired free-company captain, 'last survivor' of his old band; held Marlford's keep against Cray, now Shake's sworn right-hand & veteran lieutenant (a soldier's mind, hard and his own man); brings the citadel's steady holdouts",
+   "weight": 1
+  },
+  {
+   "name": "Coll Cray (FLED) — the pox-scarred profiteer; Shake broke his grip & took Marlford but Cray slipped a river bolt-hole with his strongbox; loose, vengeful, will sell what he knows of Shake/the host/the plan to the highest bidder (the web)",
+   "weight": 1
   }
  ]
 }
