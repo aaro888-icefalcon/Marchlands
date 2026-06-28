@@ -6,43 +6,35 @@
    "weight": 3
   },
   {
-   "name": "Count Halfdan — deep-north-backed northern marcher lord (Skarrgaard / Cloven Strand); a relief target whose horse could make the muster an army; moves for his own gain (the North Coast succession); a marriage to Eadgyth is the coin he'd want",
+   "name": "Count Halfdan — deep-north-backed northern marcher lord (Skarrgaard / Cloven Strand); a relief target whose horse could make the muster an army; moves for his own gain (the North Coast succession); a marriage to Eadgyth is the coin he'd want — and Shake withheld it (a rider's now out to him)",
    "weight": 2
   },
   {
-   "name": "Count Edmund — STRICKEN by apoplexy, half-paralyzed & aphasic, out of command; Shake's sworn (stricken) lord, in besieged Hollowford",
+   "name": "Wulf — Count Edmund's doomsman/reeve, six-fingered; never a flat 'no'; ally left holding the keep's law in besieged Hollowford; GM-secret: divided loyalties (the law/Crown above Edmund)",
    "weight": 1
   },
   {
-   "name": "Wulf — Count Edmund's doomsman/reeve, six-fingered; never a flat 'no'; ally left holding the keep's law; GM-secret: divided loyalties (the law/Crown above Edmund)",
+   "name": "The Crown delegation (the Regency) — a relief sponsor to court (would relieve Hollowford to deny it to Ranulf); envoy Aldhelm already has Shake's name in a ledger; a rider's now out to them",
    "weight": 1
   },
   {
-   "name": "The Crown delegation (the Regency) — a relief sponsor to court (would relieve Hollowford to deny it to Ranulf); envoy Aldhelm already has Shake's name in a ledger",
+   "name": "The Stonebay marauder-captain — escaped, loose in the March, moving with the Bone-Sayers & asking after Shake; a hostile loose end still ahead",
    "weight": 1
   },
   {
-   "name": "Captain Soren — foreign, mottled-skinned sell-sword commander of Hollowford's ~150 mercenary huscarls (the keep's spine); concealed sin; coin-loyal — and SUSPECTED bought by the Bone-Sayers (the spine may break from within)",
-   "weight": 1
-  },
-  {
-   "name": "The Stonebay marauder-captain — escaped, loose in the March, now moving with the Bone-Sayers & asking after Shake; a hostile loose end ahead on the road",
+   "name": "The Ash-Captain — low-born foreign (Ostmark) warlord besieging Hollowford (~2,500-3,000); risen from nothing, secretly craving legitimacy; his host coordinated with the line-killers — and now the Creeping Sickness may be gutting his camp",
    "weight": 2
   },
   {
-   "name": "The Ash-Captain — low-born foreign (Ostmark) warlord besieging Hollowford (~2,500-3,000); risen from nothing, secretly craving legitimacy; his host coordinated with the line-killers (one campaign)",
-   "weight": 2
+   "name": "Eadgyth — Count Edmund's daughter, riding with Shake; grief-embittered since Aldred died at Edenmoor — but the line-killers just came for HER (Godric & Samosa saved her life), cracking her bitterness toward Shake into something unresolved; now an explicit assassination target & a wildcard",
+   "weight": 3
   },
   {
-   "name": "Eadgyth — Count Edmund's daughter, riding with Shake; GRIEF-EMBITTERED since her love Aldred died at Edenmoor — half-blames Shake, names herself the marriage-price; a strained wildcard, not a biddable chip",
-   "weight": 2
-  },
-  {
-   "name": "Sir Oswin — grizzled household knight, 30 yrs sworn to Edmund's blood; Shake's second & voucher on the relief-ride; the thanes trust his word",
+   "name": "Sir Oswin — grizzled household knight, 30 yrs sworn to Edmund's blood; Shake's second & voucher; the thanes trust his word",
    "weight": 1
   },
   {
-   "name": "Sir Godric — young idealist landed knight (10 lances), sworn to Shake's cause; the muster's first stone & a true-believer's banner; VINDICATED (his ledger-warning exposed the granary-arsonist) & now near-worshipful of Shake — still innocent of Shake's design to hold Marlford for himself (his unwitting conscience)",
+   "name": "Sir Godric — young idealist knight (10 lances), sworn to Shake's cause & near-worshipful; took an assassin's blade meant for Eadgyth & nearly died — GRAVELY WOUNDED, out of action ~weeks; Shake's truest man & unwitting conscience (still innocent of Shake's design on Marlford)",
    "weight": 2
   },
   {
@@ -50,19 +42,23 @@
    "weight": 1
   },
   {
-   "name": "Brother Eadwig — old infirmarer-scholar of Edenmoor, saved by Shake & riding at his side; learning, medicine, & a Codex churchman's blessing (counters the 'drift-tainted' slur)",
+   "name": "Brother Eadwig — old infirmarer-scholar of Edenmoor, saved by Shake & at his side; learning, medicine (tending Godric now), & a Codex churchman's blessing (counters the 'drift-tainted' slur)",
    "weight": 1
   },
   {
-   "name": "Thane Beorhtric of Stanmere — the March's senior hold-rank thane (~40 horse + 300 fyrd), the relief's would-be backbone; WILL answer but bears a bitter grudge vs Edmund's enclosures — prickly, courtable",
+   "name": "Thane Beorhtric of Stanmere — the March's senior hold-rank thane (~40 horse + 300 fyrd), the relief's would-be backbone; sent only a TOKEN reply to Shake's summons (ale & 'regard', no commitment) — bears a bitter enclosure-grudge; must be courted in person",
    "weight": 2
   },
   {
-   "name": "Saewulf — grizzled retired free-company captain, 'last survivor' of his old band; held Marlford's keep against Cray, now Shake's sworn right-hand & veteran lieutenant (a soldier's mind, hard and his own man); brings the citadel's steady holdouts",
+   "name": "Saewulf — grizzled retired free-company captain, 'last survivor'; Shake's sworn right-hand & veteran lieutenant; holds Marlford's keep & now hunts how the assassin breached the camp (a soldier's mind, hard, his own man)",
    "weight": 1
   },
   {
-   "name": "Coll Cray (FLED) — the pox-scarred profiteer; Shake broke his grip & took Marlford but Cray slipped a river bolt-hole with his strongbox; loose, vengeful, will sell what he knows of Shake/the host/the plan to the highest bidder (the web)",
+   "name": "Coll Cray (FLED, DOWNGRADED) — the fled profiteer; SOLD the assassin his way into Shake's camp (a teamster's pass) but is himself diminished/used by the web; loose, vengeful — a live lead whose capture would unravel the breach & the web",
+   "weight": 2
+  },
+  {
+   "name": "The captured assassin — a 'weighed-and-paid' line-killer (web/Bone-Sayer) sent for Eadgyth; TAKEN ALIVE & intact, his suicide-out denied (the first of his kind held breathing); fanatically silent so far, but a live interrogation lead to the head/paymaster",
    "weight": 1
   }
  ]
