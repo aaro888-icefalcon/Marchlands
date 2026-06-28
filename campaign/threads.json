@@ -2,10 +2,6 @@
  "kind": "thread",
  "entries": [
   {
-   "name": "The Succession War — King Aelfric the Just is dead, his Ostmark invasion collapsed, the realm sliding into civil war; Ranulf already at open war, Edmund and Halfdan poised — and you've washed up in the middle of it",
-   "weight": 2
-  },
-  {
    "name": "The Crossing — ~8 million New Yorkers torn into Hethrun in one black second; what did it, and is there a way home?",
    "weight": 1
   },
@@ -52,6 +48,10 @@
   {
    "name": "A following gathering at Aldersweir — Shake's cast-out Hollowford folk heeded his call and stream south to the market village (the party's first waypoint); a chance to turn the gate-disaster into a base of support, mouths & hands for the relief",
    "weight": 1
+  },
+  {
+   "name": "The Coronation Reckoning (Random Event: Close A Thread—Create/Trial) — the Regency has summoned the Witan to the Kingsmound; boy-king Hadric to be crowned & the realm's quarrel settled at MIDWINTER, by vote or the sword behind it. The war now has a deadline; every lord (Beorhtric, Halfdan, the Crown, Ranulf) plays for that table",
+   "weight": 2
   }
  ]
 }
