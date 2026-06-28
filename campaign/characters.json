@@ -43,7 +43,7 @@
   },
   {
    "name": "Eadgyth — Count Edmund's daughter; grieving, but secretly & badly in love with someone absent (a hidden lover = a lever); lonely, warming to Shake's kindness",
-   "weight": 1
+   "weight": 2
   },
   {
    "name": "Brand — Hollowford's one-eyed old quartermaster; fearfully-respected gossip-hub, passed over for captain 40 years (bitter 'great disappointment'); knows every secret in the keep — a goldmine if courted",
@@ -59,6 +59,10 @@
   },
   {
    "name": "Captain Soren — foreign-born, monied sell-sword commander of Hollowford's ~150 mercenary huscarls (the defense's spine); distinctive mottled/scarred skin; carries a CONCEALED SIN (a lever); coin-loyal & his own man, NOT Garmund's nor Edmund's. For now he'll hold the contract (Fate Yes) — but it's coin-deep & the coordinated enemy may try to buy him",
+   "weight": 1
+  },
+  {
+   "name": "Sir Oswin — grizzled household knight, 30 yrs sworn to Edmund's blood; Shake's second & voucher on the relief-ride; unimpeachable, the thanes will trust his word",
    "weight": 1
   }
  ]
