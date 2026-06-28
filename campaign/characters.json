@@ -35,7 +35,7 @@
   },
   {
    "name": "The Stonebay marauder-captain — ESCAPED in the day's chaos (Scene 7); the dangerous, knowing man who first named Shake a healer, now loose in the March (toward Ranulf's host?) — a loose end",
-   "weight": 1
+   "weight": 2
   },
   {
    "name": "Lady Hildith — Count Edmund's wife; 30 years quietly running the household, sharp under her grief; weighing whether Shake is the family's rescuer or a usurper — vital ally or quiet enemy, knows where every body is buried",
@@ -63,6 +63,10 @@
   },
   {
    "name": "Sir Oswin — grizzled household knight, 30 yrs sworn to Edmund's blood; Shake's second & voucher on the relief-ride; unimpeachable, the thanes will trust his word",
+   "weight": 1
+  },
+  {
+   "name": "Cenred — Aldersweir's leading man, a modestly-prosperous horse-farmer, never far from a cup (coping with the war's blows to the village); wary headman whose cooperation Shake needs for mounts, shelter & men",
    "weight": 1
   }
  ]
